@@ -8,5 +8,7 @@ import scrapy
 
 class CrawlerItem(scrapy.Item):
     # define the fields for your item here like:
-    url = scrapy.Field()
+    area = scrapy.Field()
+    price = scrapy.Field()
+    location = scrapy.Field()
     pass

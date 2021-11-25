@@ -11,7 +11,4 @@ import logging
 
 class CrawlerPipeline:
     def process_item(self, item, spider):
-        logging.info("\n=========\n\n PROCESS \n\n=========\n")
-        logging.info(item)
-        # item.to_csv('output.csv', mode='a', header=False, index=False)
         return item

@@ -5,10 +5,12 @@ import pandas as pd
 import numpy as np
 from datetime import datetime, timedelta
 
+from crawler.items import CrawlerItem
+
 
 class CrawlerSpider(Spider):
     name = "crawler"
-    allowed_domains = ["worldweatheronline.com"]
+    allowed_domains = ["i-batdongsan.com"]
 
     url_list = [
         "http://i-batdongsan.com/cho-thue-shop-kiot-quan/quan-cau-giay/ha-noi-q408.htm",
@@ -30,16 +32,18 @@ class CrawlerSpider(Spider):
             yield FormRequest(url,dont_filter=True)
 
     def parse(self, response):
-        items_list = Selector(response).xpath('//div[@class="content-items"]')
+        items_list = Selector(response).xpath('//div[@class="content-items"]/div')
+        dataset = []
 
         for item_data in items_list:
-            item_data.xpath(".//div[2]text()").extract_first()
-        weather_data.append(time1_data_text)
+            item = CrawlerItem()
+            item["area"] = item_data.xpath(".//div[2]/div[@class='ct_dt']/text()").extract()[0]
+            item["price"] = item_data.xpath(".//div[2]//div[@class='ct_price']/text()").extract()[0]
+            item["location"] = item_data.xpath(".//div[2]/div[@class='ct_dis']/text()").extract()[-1][2:]
+            
+            yield item
+        #     dataset.append([area, price, location])
 
-        df = pd.DataFrame(np.array(weather_data))
-        df['date'] = np.full(
-            shape=8,
-            fill_value=request_date,
-        )
-        df.to_csv('output.csv', mode='a', header=False, index=False)
+        # df = pd.DataFrame(np.array(dataset), columns=["area", "price", "location"])
+        # df.to_csv('output.csv', mode='a', header=False, index=False)
 

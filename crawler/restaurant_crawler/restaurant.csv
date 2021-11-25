@@ -1,0 +1,962 @@
+category,location,name,open_time,point,price
+Chuyên món chả cá,"Số 77 Hào Nam, P. Ô Chợ Dừa, Q. Đống Đa",Chả Cá Hàng Sơn - Hào Nam ,10h30 – 14h00 & 17h30 – 22h00,3.8,200.000 - 300.000 đ/người
+Gọi món Thái Lan,"Lô T261, Tầng 2, TTTM Aeon Mall Hà Đông, P. Dương Nội, Q. Hà Đông",ThaiExpress - Aeon Mall Hà Đông,11h00 – 14h00 & 17h30 - 21h30,3.9,250.000 - 350.000 vnđ/người
+Chuyên món chả cá,"Số 15 Trần Hưng Đạo, P. Phan Chu Trinh, Q. Hoàn Kiếm",Chả Cá Hàng Sơn - Trần Hưng Đạo,10h30 – 14h00 & 17h30 – 22h00,3.8,200.000 - 300.000 đ/người
+Chuyên hải sản ,"295 Trần Đại Nghĩa, P. Trương Định, Q. Hai Bà Trưng",Mr Tom American - Hải Sản Cajun Mỹ - Trần Đại Nghĩa  ,10h00 – 22h00,3.6,300.000 - 500.000 đ/người
+Gọi món Huế ,"L4 – 02 Vincom Ocean Park Gia Lâm,Huyện Gia Lâm",Nét Huế - Ocean Park Gia Lâm,09h30 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Thái,"Số 57 phố Bùi Thị Xuân, P. Nguyễn Du, Q. Hai Bà Trưng",TSF - Thai Street Food - Bùi Thị Xuân ,11h00 – 15h00 & 17h00 – 23h00 ,3.8,150.000 - 250.000 đ/người
+Gọi món Á,"12 Huỳnh Thúc Kháng, P. Thành Công, Q.Ba Đình",Sentosa - Huỳnh Thúc Kháng,11h00 – 21h00,3.8,180.000 - 230.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"Tầng B1, TTTM Times City, Minh Khai, Q. Hai Bà Trưng, Hà Nội",Hotto - Times City  ,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Gọi món Việt," Số 1 Đường Võ nguyên Giáp, Thôn Thái Phù, Xã Mai Đình, Huyện Sóc Sơn",Thảo Nguyên Xanh Restaurant - Võ Nguyên Giáp,10h30 – 13h30 & 17h30 – 21h30,3.8,250.000 – 300.000 đ/người
+Gọi món Việt (Món đường phố),"TTTM Vincom, Tầng 5, Số 2 Phạm Ngọc Thạch, Q. Đống Đa",VietStreet - Vincom Phạm Ngọc Thạch,10h00 – 21h00,3.8,120.000 - 180.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"Tầng 5, TTTM Vincom Nguyễn Chí Thanh",Hotto - Vincom Nguyễn Chí Thanh,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+"Buffet lẩu, Gọi món Việt (Chuyên lẩu)","Số 17, Ngõ 20 Nguyễn Chánh, P. Trung Hòa, Q. Cầu Giấy (Ngõ 204 Trần Duy Hưng đi vào)",Lẩu Sơn Tùng - Nguyễn Chánh,10h00 - 13h30 & 17h00 - 22h00,3.7,150.000 – 200.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"B2-R4-17, Tầng hầm B2, TTTM Royal City, Số 72A Nguyễn Trãi, Q. Thanh Xuân",Gri & Gri - Royal City,10h00 - 21h30,4,230.000 - 300.000 đ/người
+Gọi món Việt,"F3-C01, Tầng 3, TTTM Lotte Center, 54 Liễu Giai, Q. Ba Đình",Phố Ngon 37 – Lotte Center ,10h30 – 21h30,3.9,200.000 - 250.000 vnđ/người
+Gọi món Nhật,"Số 48 Đào Tấn, Q. Ba Đình",Sushi Hokkaido Sake - 48 Đào Tấn,10h30 - 13h30 & 17h30 - 21h00,4.1,470.000 - 500.000 vnđ/người
+Gọi món Nhật Bản,"Tầng 1, Tòa nhà Hanoi Tower, Số 49, Phố Hai Bà Trưng, Q. Hoàn Kiếm",Tamaya Japanese Restaurant - Hai Bà Trưng ,"10h00 - 14h00 ,  17h00 - 22h00",4,300.000 - 500.000 đ/người
+Gọi món Nhật Bản,"Số 84 Đào Tấn, P. Cống Vị, Q. Ba Đình",Kegon Japanese Restaurant - Đào Tấn,11h00 – 14h00 & 17h00 – 22h00,3.8,200.000  – 500.000đ/người
+Buffet lẩu Hong Kong,"Số 81 Trung Hoà, P. Trung Hoà, Q. Cầu Giấy",IPOT - Lẩu Hồng Kông - Trung Hòa,"10h30 – 14h00 , 18h00 – 22h00",3.8,200.000  – 300.000 đ/người
+"Buffet, gọi món nướng lẩu Thái Lan","Tầng 5, TTTM MIPEC Long Biên, Số 2 Phố Long Biên II, P. Ngọc Lâm, Q. Long Biên",Asian BBQ & Hotpot - Mipec Long Biên,10h00 – 22h00,3.6,80.000  – 120.000 đ/người
+Buffet nướng lẩu,"B7 Khu biệt thự liền kề Pandora, Số 53 Triều Khúc.Q.  Thanh Xuân",Buffet Lẩu Nướng Nhất Nhất - Triều Khúc,10h00 - 14h00 và 17h00 - 22h00,3.9,120.000 - 220.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"Số 34 Phan Chu Trinh, Q. Hoàn Kiếm",Le Monde Steak - Phan Chu Trinh,11h00-14h00 & 17h00-21h30,3.7,150.000 - 250.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"Tầng 5, Vincom Nguyễn Chí Thanh, số 54A Nguyễn Chí Thanh, P. Láng Thượng, Q. Đống Đa",King BBQ Buffet - Vincom Nguyễn Chí Thanh,10h00 - 22h00,4,250.000 - 400.000 đ/người
+"Gọi món, buffet Nhật Bản","Tầng 02, Viettower, Số 01 Thái Hà, P. Trung Liệt, Q. Đống Đa",Isushi – Thái Hà ,10h30 – 14h00 và 17h00 – 22h00,4,350.000 - 550.000 vnđ/người
+"Gọi món Á, Âu (Bia tươi Tiệp)","Số 1A Tăng Bạt Hổ, P. Phạm Đình Hổ, Q. Hai Bà Trưng",Hoa Viên Brauhaus - Tăng Bạt Hổ,10h00 – 23h00,4,350.000 – 500.000 đ/người
+Gọi món Việt,"Số 2B Phủ Doãn, P. Hàng Bông, Q. Hoàn Kiếm",Nem Nướng Xuân Dần - Phủ Doãn,10h00 – 14h30 & 16h00 – 22h00,3.4,100.000 – 150.000 đ/người
+Gọi món nướng Hàn Quốc,"Shophouse lô B5-01, B5-02, B5-03 Vinhomes Gardenia, Đường Hàm Nghi, P. Cầu Diễn, Q. Nam Từ Liêm",Meat Plus 4+4 - Vinhomes Gardenia,11h00 – 14h00 & 17h00 – 22h00,3.8,250.000 – 300.000đ/người
+Gọi món Tây Bắc,"Số 21 Phùng Hưng (ngắn), P. Hàng Mã, Q. Hoàn Kiếm",Quả Trám - Phùng Hưng  ,10h00 - 14h30 & 17h00 - 22h00,3.8,200.000 – 300.000 đ/người
+Buffet lẩu Châu Á,"Tầng 3, Lotte Department Store, Số 54 Liễu Giai, P. Cống Vị, Q. Ba Đình ",Hotpot Story – Lotte Center,11h00 – 14h00 và 17h30 -  21h00,3.7,250.000 - 350.000 vnđ/người
+Buffet nướng lẩu Nhật Bản,"Lotte Department Store, Tầng 3, Số 54 Liễu Giai, P. Cống Vị, Q. Ba Đình",Tasaki BBQ - Lotte Center,10h00 - 22h00,3.8,250.000 - 350.000 đ/người
+Buffet; Gọi món Nhật Bản,"Số 152 Ngọc Khánh, P. Giảng Võ, Q. Ba Đình",G8 Osake House - 152 Ngọc Khánh  ,10h00 – 14h00 & 17h00 – 22h00,3.6,200.000 – 300.000 đ/người
+Chuyên Cá Lăng và Bò nhúng dấm,"Nhà D8-9, khu nhà phố Dream Land, 107 Xuân La, P. Xuân Tảo, Q. Bắc Từ Liêm",Cá lăng ngự viên – Bò nhúng dấm F5 Farm – Xuân La,10h00 - 14h00 & 17h00 - 22h00,3.8,180.000 – 250.000 đ/người
+Buffet lẩu & Dimsum,"Lô CX14 - KĐT Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai (Cạnh bể bơi Linh Đàm) ",Dimsum & Lẩu Trung Hoa – FengHuang – Linh Đàm,11h00 – 14h00 & 18h00 – 21h30,3.5,209.000 - 269.000 đ/người
+Gọi món Việt,"Số 126 ngõ 553 Giải Phóng, P. Giáp Bát, Q. Hoàng Mai",Hải Nguyên Quán - Ngõ 553 Giải Phóng,09h00 – 22h00,3.3,150.000 – 200.000 đ/người
+Gọi món Nhật Bản,"L3-RS1 Ciputra Hà Nội, P. Xuân Đỉnh, Q. Bắc Từ Liêm",Tomita Bento – Ciputra Hà Nội,10h30 – 13h30 & 17h30 – 21h30,4,150.000 – 250.000 đ/người
+Gọi món nướng lẩu Hàn Quốc,"Tầng 5, TTTM Vincom, 191 Bà Triệu, P. Lê Đại Hành, Q. Hai Bà Trưng",King BBQ Deli – Vincom Bà Triệu ,10h00 - 22h00,4,200.000 - 400.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"Tầng 4, TTTM Savico Mega Mall Long Biên, 7-9 đường Nguyễn Văn Linh, Q. Long Biên",Buk Buk – Savico Mega Mall,10h00 - 22h00,3.6,150.000 - 250.000 đ/người
+Chuyên món chả cá,"Số 339 -341 Trần Khát Chân, P. Thanh Nhàn, Q. Hai Bà Trưng",Chả Cá Gia Nguyễn - Trần Khát Chân,09h00 - 14h00 và 17h00 - 22h00,3.8,150.000 - 200.000 đ/người
+Gọi món Việt (Chuyên hải sản),"Số 12 Phạm Huy Thông, Q. Ba Đình",Sơn Thủy Restaurant - Phạm Huy Thông,10h30 – 13h30 và 17h30 – 21h30,3.8,250.000 – 500.000 đ/người
+Gọi món Việt,"Khu liên hiệp thể thao cây xanh (đối diện sân tập gold), P. Kiến Hưng, Q. Hà Đông",Tre Viên Quán - Hà Đông,10h00 – 22h00,3.5,150.000  – 200.000 đ/người
+Gọi món Việt (Cơm Tấm),"Số 70 Phố Dịch Vọng Hậu, P. Dịch Vọng Hậu, Q. Cầu Giấy ",Cơm Tấm Tường Hân – Dịch Vọng Hậu,10h00 - 13h30 & 17h00 - 20h00,3.8,60.000 - 90.000 đ/người
+Gọi món Âu,"Số 33 Tô Ngọc Vân, Q. Tây Hồ",Daluva Restaurant Bar – Tô Ngọc Vân,10h30 – 23h00,3.5,150.000 – 250.000 đ/người
+"Gọi món Singapore, Buffet nướng lẩu","Số 76 Yên Phụ nhỏ, Khách sạn The Hanoi Club, Q. Tây Hồ",Tivoli - The Hanoi Club Hotel,Alacarte: 11h00 – 22h00; Buffet T7: 18h00 – 21h30,3.8,150.000 – 350.000 đ/người
+Gọi món Ý,"Số 2 Chương Dương Độ, Thiên Sơn Plaza, Tầng 1, Q. Hoàn Kiếm",Mamma Mia - Italian Restaurant,11h00 – 14h00 và 18h00 – 22h00,3.8,280.000 – 350.000 đ/người
+Gọi món Trung Hoa,"Số 2A Láng Hạ, Q. Ba Đình",Meiwei – Láng Hạ,10h00 - 22h00,3.9,150.000 - 250.000 đ/người
+Gọi món Nhật Bản,"Số 67 Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa",Sio Sushi - Hoàng Cầu,10h30 – 14h00 & 17h30 – 22h00,4,150.000 – 200.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 229 Tô Hiệu, P. Dịch Vọng, Q. Cầu Giấy",Wang Wang – Tô Hiệu,11h00 – 13h30 & 17h30 – 21h30,3.5,115.000 – 190.000đ/người
+Gọi món Nhật Bản,"Số 13 Lê Đại Hành, P.Lê Đại Hành, Q. Hai Bà Trưng",Sio Sushi - Lê Đại Hành ,10h30 – 14h00 & 17h30 – 22h00,4,150.000 – 200.000 đ/người
+Gọi món Nhật Bản,"Số 20 Đào Tấn, P. Cống Vị, Q. Ba Đình",Taki Taki - Đào Tấn,"10h00 -14h00, 17h00 – 22h00",3.8,300.000  – 500.000 đ/người
+Gọi món Việt,"Tầng 2 & 3, Số 27 Lê Văn Lương, Tòa nhà Hanoi Center Point,Q. Thanh Xuân",Đại Lâm Mộc - Lê Văn Lương,"10h30 -14h00, 17h30 – 22h00",3.9,300.000 – 500.000 đ/người
+Buffet Lẩu Châu Á,"Gian TN55, Hầm B1, TTTM Vincom Mega Times City, Số 458 Minh Khai, Q. Hai Bà Trưng",Hotpot Story – Times City,10h00 - 13h00 & 18h00 – 21h00,3.7,250.000 - 350.000 vnđ/người
+Gọi món Huế,"Vincom Sky Lake Phạm Hùng,Tầng 3, L3 – 12,  P. Mỹ Đình, Q. Nam Từ Liêm",Nét Huế - Vincom Sky Lake Phạm Hùng,09h30 – 21h00,3.8,50.000 - 150.000 đ/người
+Beer - Club,"Số 32 Lò Sũ, Tầng 13-14-15, P. Lý Thái Tổ, Q. Hoàn Kiếm, Hà Nội",Diamond Sky Bar - Lò Sũ,11h30 – 24h00,4.5,400.000 – 600.000 đ/người
+Chuyên lẩu nấm,"Số 17 Huỳnh Thúc Kháng, P. Láng Hạ, Q. Đống Đa",Lẩu Nấm Ashima - Huỳnh Thúc Kháng ,10h30 - 14h00 & 17h00 - 21h00,3.9,350.000 - 400.000 đ/người
+Gọi món Việt,"Số 159 Hoàng Ngân, P. Trung Hòa, Q. Cầu Giấy",Cầm Viên Quán – Hoàng Ngân,10h30 - 13h30 và 17h30 - 21h30,3.5,250.000 – 350.000 đ/người
+Chuyên lẩu Nấm,"60 Giang Văn Minh, Q. Ba Đình",Lẩu Nấm Ashima - Giang Văn Minh,11h00 – 22h00,3.9,350.000 - 400.000 đ/người
+Chuyên lẩu nấm,"Tòa nhà N04, Tầng 2, đường Hoàng Đạo Thúy, P. Trung Hòa, Q. Cầu Giấy",Lẩu Nấm Ashima - Hoàng Đạo Thúy ,10h30 - 14h00 & 17h00 - 21h00,3.9,350.000 - 400.000 đ/người
+Gọi món Mỹ,"Số 56 Trần Quốc Toản, P. Trần Hưng Đạo, Q. Hoàn Kiếm",RICO Steakhouse - Trần Quốc Toản,10h00 - 14h00 & 17h00 - 22h00,4,500.000 – 1.000.000 đ/người
+Gọi món lẩu hơi,"B2 – 05A Vinhomes Gardenia Hàm Nghi ,  Mỹ Đình , Q. Nam Từ Liêm",Lẩu Hấp Fresh - Vinhomes Gardenia Hàm Nghi,"10h30 - 14h00, 17h00 - 22h00",3.7,200.000 – 300.000 đ/người
+Chuyên món Chim,"BT50 - TT4, Đường Số 1, Khu ĐTM thành phố Giao Lưu, 232 Phạm Văn Đồng, P. Cổ Nhuế 1, Q. Bắc Từ Liêm",Chim To Dần - Hà Nam Quán - Phạm Văn Đồng,09h00 - 22h00,3.5,120.000 - 200.000 đ/người
+Gọi món Việt,"Số 24 Mạc Thái Tông, P. Trung Hòa, Q. Cầu Giấy",Quán Nhà Ta - Mạc Thái Tông,11h00 - 14h00 & 17h00 - 21h00,3.5,150.000 – 250.000 đ/người
+Buffet lẩu băng chuyền,"Tầng G, Dophin Plaza, số 6 Nguyễn Hoàng, P. Mỹ Đình 2, Q. Cầu Giấy",Lẩu Băng Chuyền Kichi-Kichi - Dolphin Plaza,11h00 - 14h00 & 17h00 - 21h30,3.9,230.000 - 280.000 đ/người
+Buffet Lẩu Châu Á,"Royal City, tầng B2, Lô B2-R6-39, số 72A Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân ",Hotpot Story - Royal City  ,11h00 - 14h00 & 18h00 - 21h00,3.7,250.000 - 350.000 vnđ/người
+Gọi món Thái Lan,"Tầng 3, Lotte Center , 54 Liễu Giai, P. Cống Vị, Q. Ba Đình",ThaiExpress – Lotte Center     ,10h30 – 21h30,3.9,250.000 - 350.000 vnđ/người
+Buffet lẩu băng chuyền,"Số 105 Trần Thái Tông, P. Dịch Vọng Hậu, Q. Cầu Giấy",Lẩu Băng Chuyền Kichi-Kichi - Trần Thái Tông,17h00 - 21h30,3.9,230.000 - 280.000 đ/người
+Gọi món Huế,"Số 57 Lạc Trung, P. Vĩnh Tuy, Q. Hai Bà Trưng",Nét Huế - Lạc Trung ,07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Thái Lan,"Tầng 5, Vincom Center , 191 Bà Triệu, P. Lê Đại Hành, Q. Hai Bà Trưng",ThaiExpress - Vincom Bà Triệu      ,10h30 – 21h30,3.9,250.000 - 350.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"18BT5 Nguyễn Khuyến – Văn Quán, Q. Hà Đông (cạnh Highland Coffee Nguyễn Khuyến)",GOPchain – Quán thịt nướng & lẩu Hàn Quốc – Nguyễn Khuyến,10h30 – 14h00 & 17h00 – 23h00,3.7,120.000 - 260.000 vnđ/người
+Gọi món Việt (Đặc sản xứ Thanh),"Số 91 Trần Quốc Vượng, P. Dịch Vọng Hậu, Q. Cầu Giấy ",Hương Vị Xứ Thanh - Trần Quốc Vượng,08h00 - 14h00 & 16h30 - 21h00,3.6,80.000 - 150.000 đ/người
+Gọi món Việt,"Số 38 Trần Kim Xuyến, P. Yên Hòa, Q. Cầu Giấy",Cá 38 - Vua Cá Sông - Trần Kim Xuyến,"10h00 – 14h00, 17h00 – 22h00 ",3.8,150.000 – 250.000 đ/người
+Buffet nướng lẩu,"TT02-01 Mon City, Ngõ 4 Hàm Nghi, P.  Mỹ Đình 2, Q. Nam Từ Liêm",Buffet Lẩu Nướng Nhất Nhất – Mon City,10h00 - 14h00 và 17h00 - 22h00,3.9,120.000 - 220.000 đ/người
+Chuyên cá hồi,"Số 19, Ngõ 17 Lê Văn Thiêm, P. Nhân Chính, Q. Thanh Xuân ",Cá Hồi Phương Linh – Lê Văn Thiêm ,10h00 - 13h00 & 17h00 - 21h00,3.5,250.000 – 300.000 đ/người
+Gọi món Mỹ,"Tầng 5, TTTM Vincom 54 Nguyễn Chí Thanh, P. Láng Thượng, Q. Đống Đa",Cowboy Jack’s Saloon – Vincom Nguyễn Chí Thanh,10h30 – 21h30,3.8,200.000 - 250.000 vnđ/người
+Gọi món Trung Hoa,"Royal City, Tầng B2, Lô B2-R3-09B+C, 72 Nguyễn Trãi, P. Thượng Đình, Q.Thanh Xuân ",Meiwei – Royal City     ,10h00 - 22h00,3.9,150.000 - 250.000 đ/người
+Buffet Lẩu Nướng Hàn Quốc,"Số 02 BT – 1B KĐT Văn Quán, P. Phúc La, Q. Hà Đông",Wang Wang – Quán thịt nướng Hàn Quốc – KĐT Văn Quán ,11h00 – 13h30 & 17h30 – 21h30,3.8,115.000 – 190.000đ/người
+Buffet lẩu băng chuyền,"TTTM Savico, Tầng 3, Số 07 - 09 đường Nguyễn Văn Linh, P. Gia Thụy, Q. Long Biên",Lẩu Băng Chuyền Kichi-Kichi - Savico Long Biên,11h00 – 14h00 & 17h00 – 21h30,3.9,230.000 - 280.000 vnđ/người
+Gọi món Việt (Chuyên Dê),"Số 1 ngõ 167 Tây Sơn, P. Quang Trung, Q. Đống Đa",Lẩu Dê Nhất Ly - Tây Sơn,10h00 - 14h00 và 16h00 - 21h30,4,230.000 - 350.000 vnđ/người
+Buffet Lẩu Trung Hoa,"18 Đoàn Trần Nghiệp ,Q. Hai Bà Trưng ",Hoolong - Dumpling Bar - Đoàn Trần Nghiệp,10h30 - 12h30 & 17h30 - 20h00,3.8,250.000 - 350.000 đ/người
+Cơm niêu Singapore,"78 Vương Thừa Vũ, P. Khương Trung, Q. Thanh Xuân ",Kombo - Cơm Niêu Singapore - Vương Thừa Vũ,10h30 - 21h30,3.5,70.000 - 100.000 đ/người
+Cơm niêu Singapore,"Kiot 18, Tòa nhà Rainbow, KĐT Tây Nam Linh Đàm, Q. Hoàng Mai",Kombo - Cơm Niêu Singapore - Linh Đàm,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Buffet Nướng Lẩu hải sản,"Tầng 4, TTTM Mac Plaza,số 10 Trần Phú,Q.Hà Đông",Cheep Eats - Buffet nướng - lẩu - hải sản - Trần Phú,11h00 - 14h30 và 17h00 - 22h00,4,200.000 - 280.000 đ/người
+"Gọi món, Buffet nướng lẩu Hàn Quốc","Số 460 - 462 Nguyễn Văn Cừ, P. Gia Thụy, Q. Long Biên",King BBQ - Nguyễn Văn Cừ,10h00 - 14h00 & 17h00 - 21h00,4,250.000 - 350.000 đ/người
+"Buffet, Gọi món Nhật Bản","Số 76 Bùi Thị Xuân, P. Bùi Thị Xuân, Q. Hai Bà Trưng ",Tonchan Ramen - Bùi Thị Xuân,10h30 – 14h00 và  17h00 – 22h00,3.6,150.000 - 200.000 đ/người
+Buffet nướng lẩu Hải sản ,"BT 03 - 96B, Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Q. Thanh Xuân",OHCHA - Nguyễn Huy Tưởng,11h00  - 14h00 và 17h00 -  22h00,3.8,200.000 - 300.000 vnđ/người
+"Buffet, Gọi món Nhật Bản","Số 120A Phan Kế Bính kéo dài, P. Cống Vị, Q. Ba Đình ",Tonchan Ramen – Phan Kế Bính,10h30 – 14h00 và 17h00 – 22h00,3.6,150.000 - 200.000 đ/người
+Buffet nướng lẩu,"Số 188 đường Thượng Đình, P. Thượng Đình, Q. Thanh Xuân ",Lẩu Nướng Không Khói Sài Gòn – 188 Thượng Đình ,11h00 - 14h00 và 16h00 - 23h00,3.5,150.000 - 250.000 đ/người
+Buffet nướng lẩu,"Số 258, Đường Thượng Đình, P. Hạ Đình, Q.Thanh Xuân",Lẩu Nướng Không Khói Sài Gòn – 258 Thượng Đình ,11h00 - 14h00 và 16h00 - 23h00,3.5,150.000 - 250.000 đ/người
+Chuyên món Gà,"Số 31I Láng Hạ, P. Thành Công, Q. Ba Đình ",Cơm gà Hải Nam – Kampong Chicken – Láng Hạ,10h00 - 14h30 và 17h00 - 21h30,3.5,150.000 - 250.000 đ/người
+Gọi món Việt (Chuyên lòng),"Số 18 Phố Trần Thái Tông, P. Dịch Vọng Hậu, Q. Cầu Giấy ",Lòng “Chát” Quán - Trần Thái Tông,10h00 - 14h00 và 18h00 - 23h00,3.5,150.000 – 300.000 đ/người
+Chuyên Cá Lăng,"Số 95-97 Trúc Bạch, P. Trúc Bạch, Q. Ba Đình",Quán Cá Phiến Hoan Việt Trì - Trúc Bạch  ,10h00 – 14h00 & 17h00 – 22h00,3.8,200.000 – 250.000 đ/người
+Chuyên hải sản tươi sống,"Phong Lan 01-01, KDT Vinhomes Riverside The Harmony, Q. Long Biên ",Hải Sản Biển Đông - Vinhomes Riverside The Harmony Long Biên,10h30 - 21h30,4,250.000 - 400.000 vnđ/người
+Gọi món Ý,"Tầng L3, Vincom Center Metropolis, 29 Liễu Giai, Q.Ba Đình",Capricciosa - Vincom Metropolis Liễu Giai,10h30 - 21h00,3.7,200.000 - 250.000 vnđ/người
+Gọi món Nhật Bản,"Nhà A7-52 Nguyễn Chí Thanh, P. Láng Thượng, Q. Đống Đa",Taiyou Maguro - Cá Ngừ Đại Dương - Nguyễn Chí Thanh,10h00 – 22h00,4,400.000 đ/người
+"Buffet, Gọi món Thái Lan, Buffet Lẩu","Số 122 - K1, Giảng Võ, Q. Ba Đình ",Bếp Thái Koh Yam - Giảng Võ   ,11h -13h30 & 17h30 - 20h30,3.8,200.000 - 260.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"Số 84 Trung Hòa, P. Trung Hòa, Q. Cầu Giấy ",Le Monde Steak - Trung Hòa,11h00-14h00 & 17h00-21h30,3.7,150.000 - 250.000 vnđ/người
+Gọi món Thái Lan,"Tầng 1, TTTM Indochina Plaza Hanoi, 241 Xuân Thủy, Q. Cầu Giấy",ThaiExpress - Indochina Plaza Hanoi ,10h00 - 14h00 & 18h00 - 21h00,3.9,250.000 - 350.000 đ/người
+Gọi món Trung Hoa,"Số 23B Hai Bà Trưng, P. Tràng Tiền, Q. Hoàn Kiếm",Mỹ Tường Viên - Hai Bà Trưng,11h00 - 13h30 & 18h00 - 21h00,4,200.000 - 300.000 đ/người
+Buffet lẩu,"Số 65 đường Nguyễn Khang, P. Trung Hòa, Q. Cầu Giấy",Lẩu Pháp (Cô Hai Lẩu Mắm Cần Thơ) - Nguyễn Khang,11h00 - 13h30 & 17h30 - 21h30,3.5,100.000  – 150.000 đ/người
+Gọi món Thái Lan,"Tầng 3, TTTM Aeon Mall Long Biên, Số 27, Đ. Cổ Linh, Q. Long Biên",ThaiExpress - Aeon Mall Long Biên,10h30 – 21h30,3.9,250.000 - 350.000 vnđ/người
+Gọi món Việt,"Số 18 Tôn Thất Thiệp, P. Điện Biên, Q. Ba Đình",Old Hanoi Restaurant - Tôn Thất Thiệp,11h00 – 14h00 & 17h00 – 22h30,3.6,200.000  – 300.000 đ/người
+Gọi món Nhật Bản,"Số 85 Triệu Việt Vương, P. Bùi Thị Xuân, Q. Hai Bà Trưng",Kiraku - Triệu Việt Vương,11h00 - 14h00 & 18h00 - 22h30,3.7,150.000 - 300.000 đ/người
+Gọi món Thái Lan,"B2-R2-10, Royal City, 72A Nguyễn Trãi, P. Thượng Đình, Q.Thanh Xuân",ThaiExpress - Royal City,T2-T6:10h30 – 21h30,3.9,250.000 - 350.000 đ/người
+Gọi món Nhật Bản,"Shophouse SH 30 Nguyễn Chánh, P. Trung Hoà, Q. Cầu Giấy",Hatoyama – Nguyễn Chánh,10h00 - 14h00 & 17h00 - 23h00,4,600.000 - 800.000 vnđ/người
+Chuyên món gà Hàn Quốc,"AEON Mall Long Biên, Tầng 3, Số 27 Cổ Linh, P. Long Biên, Q. Long Biên ",Yoogane Chicken Galbi - Aeon Mall Long Biên,T2-T6: 10h00 – 22h00,4,150.000 - 200.000 vnđ/người
+Buffet Hải Sản,"Tầng 3, Tòa nhà Golden Field, Số 24 Nguyễn Cơ Thạch, Q. Nam Từ Liêm",Adobi Buffet - Nguyễn Cơ Thạch,11h00 -13h00 & 18h00 - 20h30,3.8,330.000 - 430.000 đ/người
+Buffet Dimsum & Lẩu,"Số 35 Trần Kim Xuyến, P. Yên Hòa, Q. Cầu Giấy",Dimsum & Lẩu Trung Hoa - FengHuang – Trần Kim Xuyến,11h00 - 13h00 & 18h00 - 20h00,3.5,209.000 - 269.000 đ/người
+Gọi món Việt (Chuyên hải sản),"Số 68A Nguyễn Văn Tuyết, P.Ngã Tư Sở, Q.Đống Đa ",Hải Sản Nhà Tôi - Nguyễn Văn Tuyết,10h00 – 22h00,3.5,150.000 - 300.000 đ/người
+Chuyên món Trâu,"Lô CC01 – KĐT An Hưng, P. Dương Nội, Q. Hà Đông",Trâu Ngon Quán -  Hà Đông,10h30 - 14h00 và 17h30 - 21h30,4,200.000  – 250.000đ/người
+Gọi món Việt,"Số 63, Đường Cổ Linh, P.Thạch Bàn, Q.Long Biên",63 Cổ Linh – Đường Cổ Linh,10h00 – 22h00,3.8,150.000 - 200.000 đ/người
+Buffet nướng Hàn Quốc,"Số 37 Đỗ Quang, P. Trung Hòa, Q. Cầu Giấy",Box BBQ - Đỗ Quang,"11h00 – 13h00, 17h00 – 21h00",4,200.000 - 250.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 293 Tô Hiệu, P. Nghĩa Tân, Q. Cầu Giấy",KIMHO BBQ - Buffet Nướng & Lẩu - Tô Hiệu,11h00 - 21h00,3.6,150.000 - 270.000 đ/người
+Gọi món Thái ,"Số 9 Phan Chu Trinh, Q. Hoàn Kiếm",Gusto Thai – Phan Chu Trinh,10h00 - 22h00 ,3.8,250.000 – 300.000đ/người
+Gọi món Âu (Hải sản & Steak),"1A Tăng Bạt Hổ, P. Phạm Đình Hổ, Q. Hai Bà Trưng",RICO Seafood & Grill - Tăng Bạt Hổ,11h00 – 13h00 và 18h00 – 21h30,4,700.000 – 1.200.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"D7-15-17-19, Tầng hầm B1, TTTM Times City, Số 458 Minh Khai, Q. Hai Bà Trưng",Gri & Gri - Times City,10h00 - 21h30,4,230.000 - 300.000 đ/người
+Gọi món Việt,"Tầng 5, TTTM Indochina Plaza Hanoi, 241 Xuân Thủy, P.Dịch Vọng Hậu, Q.Cầu Giấy",Phố Ngon 37 - IPH Xuân Thủy,10h30 – 21h00,3.9,200.000 - 250.000 vnđ/người
+Gọi món Mỹ," Lô T314, Tầng 3, TTTM Aeon Mall Long Biên, 27 Cổ Linh, Q. Long Biên",Cowboy Jack’s Saloon - Aeon Mall Long Biên,10h30 – 21h30,3.8,200.000 - 250.000 vnđ/người
+Gọi món Việt (Chuyên Vịt),"Số 10 Trần Quý Kiên, P. Dịch Vọng, Q. Cầu Giấy",Hoàng Ký - Chuỗi Vịt Quay Lu Đất Chính Hiệu - Trần Quý Kiên,10h30 – 14h00 & 17h00 – 22h00,3.5,100.000 – 150.000 đ/người
+Gọi món Mỹ,"Tòa nhà 17T4 Hoàng Đạo Thúy, P. Nhân Chính, Q. Thanh Xuân",Cowboy Jack’s Saloon – Hoàng Đạo Thúy,10h30 – 21h30,3.8,200.000 - 250.000 vnđ/người
+Bar - Club,"Số 59, Phố Nam Ngư, P. Cửa Nam, Q. Hoàn Kiếm",Jigger Cocktail & Wine Bar – 59 Nam Ngư,18h30 – 24h00,3.8,250.000 - 300.000 vnđ/người
+Gọi món Thái Lan,"Tầng 5, TTTM Vincom, 54A Nguyễn Chí Thanh, Q. Đống Đa",ThaiExpress - Vincom Nguyễn Chí Thanh,10h30 – 21h30,3.9,250.000 - 350.000 vnđ/người
+Gọi món Việt,"Số 5 Nguyên Hồng, P. Thành Công, Q. Ba Đình, Hà Nội",Ngói Đỏ Garden - Nguyên Hồng,10h00 - 21h00,3.7,200.000 - 250.000 đ/người
+Chuyên lẩu nấm,"Số 182 Triệu Việt Vương, P. Bùi Thị Xuân, Q. Hai Bà Trưng",Lẩu Nấm Ashima - Triệu Việt Vương ,11h00 - 14h00 & 17h30 - 21h00,3.9,350.000 - 400.000 đ/người
+"Buffet Nướng, Lẩu & Dimsum","Số 15 Nguyễn Văn Lộc, P. Mộ Lao, Q. Hà Đông",Deli 4B BBQ & Hotpot - Nguyễn Văn Lộc,10h45-13h30 & 17h45-21h00,3.8,150.000 - 180.000 đ/người
+Gọi món Việt,"Số 69, Đường Nguyễn Khuyến, KĐT Văn Quán, P. Phúc La, Q.Hà Đông",Tiêu Dao Quán - Nguyễn Khuyến ,10h00 - 22h00,3.8,150.000 – 200.000 đ/người
+Gọi món Việt (Chuyên hải sản),"Số 22, Đường Đỗ Đức Dục, P. Mễ Trì, Q. Nam Từ Liêm",Hương Việt - Đỗ Đức Dục  ,11h00 - 22h00,4,250.000 – 300.000 đ/người
+Buffet lẩu băng chuyền,"Tòa nhà Watermark, 395 Lạc Long Quân, P. Nghĩa Đô, Q. Cầu Giấy",Lẩu Băng Chuyền Kichi-Kichi - Lạc Long Quân,11h00 - 14h00 & 17h00 - 21h30,3.9,230.000 - 280.000 đ/người
+Gọi món Việt,"Số 732 Trương Định, P. Giáp Bát, Q. Hoàng Mai",Tre Vàng - 732 Trương Định,10h30 - 14h00 & 17h00 - 22h00 ,3.9,200.000 – 250.000 đ/người
+Gọi món Á – Âu,"Số 33 Đông Các, P. Ô Chợ Dừa, Q. Đống Đa",Zamba Extra BBQ & Beer - Đông Các,10h30 – 21h00,3.8,220.000 - 300.000 đ/người
+"Buffet, Gọi món Chay","Số 4A Ngõ 67 Lý Thường Kiệt, P. Trần Hưng Đạo, Q. Hoàn Kiếm",Chay Vị Lai - Lý Thường Kiệt,10h00 - 14h & 18h00 - 21h30,4,200.000 - 300.000 đ/người
+Gọi món Việt (Chuyên gà),"Số 1 – C7, KĐT Geleximco, Lê Trọng Tấn, Q. Hà Đông",Gà tươi Mạnh Hoạch - Geleximco Lê Trọng Tấn,10h00 - 22h00,3.3,100.000 – 200.000 đ/người
+Gọi món nướng Hàn Quốc,"Tầng 1 Nhà CC2, Đường Mễ Trì, P. Mỹ Đình 1, Q. Nam Từ Liêm",Meat Plus - Mỹ Đình,11h00 -14h30 & 17h00 - 22h00,3.8,250.000 - 300.000 vnđ/người
+Gọi món Âu,"Số 10 Lê Ngọc Hân, P. Phạm Đình Hổ, Q. Hai Bà Trưng",The Valley House - Lê Ngọc Hân,10h00 - 14h30 & 17h30 - 22h00,3.8,200.000 - 350.000 vnđ/người
+Gọi món lẩu hơi,"Số 10, Ngõ 367 Hoàng Quốc Việt, Q. Cầu Giấy, Hà Nội",Lam Huyền - Đặc sản lẩu hơi nồi đá - Hoàng Quốc Việt ,10h00 – 22h00,3.7,200.000 – 300.000 đ/người
+Gọi món nướng Hàn Quốc,"Royal City (B2 - R6 - 30B), 72A Nguyễn Trãi, P.Thượng Đình, Q. Thanh Xuân",Meat Plus - Royal City,"T2-T6: 11h00-14h30 & 17h00-22h00,T7-CN: 10h00-22h00",3.8,250.000 - 300.000 vnđ/người
+Gọi món nướng Hàn Quốc,"Số B1- Nguyễn Thị Thập, KĐT Trung Hòa Nhân Chính, P.Nhân Chính, Q. Thanh Xuân",Meat Plus - Trung Hòa,"T2-T7: 11h00 -14h30 & 17h00 - 21h30, CN: 11h00-22h00",3.8,250.000 - 300.000 đ/người
+Gọi món Việt (Chuyên hải sản),"TT2.11 KĐT Cổ Nhuế, P. Cổ Nhuế 1, Q. Bắc Từ Liêm",Vựa Hải Sản - Đành Đạch Quán KĐT Cổ Nhuế,10h00 – 22h00,3.5,250.000đ – 400.000 đ/người
+Gọi món Việt,"Tầng 3, Lotte Center, 54 Liễu Giai, P. Cống Vị, Q. Ba Đình",Truly Việt - Lotte Center,10h00 - 22h00,3.8,150.000 - 200.000 đ/người
+Gọi món Việt (Chuyên Dê),"Số 346 Đường Bưởi, P. Vĩnh Phúc, Q. Ba Đình",Lẩu Dê Nhất Ly - Đường Bưởi,10h00 - 14h30 và 16h00 - 21h30,4,230.000 - 350.000 vnđ/người
+Gọi món nướng Hàn Quốc,"73 Trích Sài, Phường Bưởi, Q. Tây Hồ",Meat Plus - Hồ Tây  , T2-T7: 11h00-14h30 & 17h00-21h00 và CN: 11h00 – 21h00,3.8,250.000 - 300.000 đ/người
+Gọi món Tây Bắc,"Số 78 Giảng Võ, P. Cát Linh, Q. Đống Đa",Pao Quán - Giảng Võ,10h00 -  21h30,4,180.000 - 250.000 đ/người
+Gọi món Thái Lan,"Số 15C Đào Tấn, P. Cống Vị, Q.  Ba Đình",Bangkok Thai Kitchen - Đào Tấn,09h30 - 21h30,3.7,90.000 - 120.000 đ/người
+"Gọi món, buffet lẩu","BT1-3, Đỗ Nhuận, Khu BT Ngoại Giao Đoàn, P. Xuân Đỉnh, Q. Bắc Từ Liêm",Lẩu Bà Thúy - Ngoại Giao Đoàn,10h30-22h30,3.7,100.000 - 300.000 đ/người
+Gọi món nướng Hàn Quốc,"105 Trung Hòa, P. Yên Hòa, Q. Cầu Giấy",Meat Plus - Trung Yên,11h00 -14h30 & 17h00 - 22h00,3.8,250.000 - 300.000 đ/người
+Gọi món Việt (đặc sản đồng quê),"Số 27, Ngõ 143 Trung Kính, P.Trung Hòa, Q.Cầu Giấy",Lẩu Cua Sông Lê Vũ - Trung Kính,10h30-14h00 & 17h00-22h30,3.6,150.000 - 220.000 đ/người
+Ẩm thực Việt (chuyên các món lòng),"Số 15 Thọ Tháp, P. Dịch Vọng, Q. Cầu Giấy",Mr Lòng - Thọ Tháp  ,T2-T7: 10h00 - 14h00 & 17h00 - 21h00,3.5,100.000 - 150.000 đ/người
+Ẩm thực Việt (chuyên các món lòng),"Số 43,Ngõ 21 Lê Văn Lương, P.Nhân Chính, Q. Thanh Xuân",Mr Lòng - Lê Văn Lương,T2-T7: 10h00  - 14h00 & 17h000 -  21h00,3.5,100.000 - 150.000 đ/người
+"Gọi món Âu, phong cách Ý","Số 77 Láng Hạ, Q. Đống Đa, Hà Nội",Cowboy Jack’s 500 Pizzeria - Láng Hạ,11h00 – 14h00 & 17h00 – 22h00,3.9,300.000 - 350.000 vnđ/người
+Gọi món Việt,"36 Phó Đức Chính, P. Trúc Bạch, Q. Ba Đình",Lẩu Tôm Sen Đào - Phó Đức Chính,11h00 - 14h00 & 17h00 - 22h00,3.6,200.000 - 250.000 đ/người
+Ẩm thực Việt (chuyên các món gà),"269 Kim Mã, P. Giảng Võ, Q. Ba Đình",Vua Gà Nướng - Kim Mã,10h00-14h00 & 17h00 – 21h30,3.5,100.000 - 200.000 đ/người
+Gọi món Âu (chuyên Pizza & BBQ),"Số 5/418 Nguyễn Văn Cừ (đối diện 144 Nguyễn Sơn), P. Gia Thụy, Q. Long Biên",Papa's Pizza & BBQ - Nguyễn Văn Cừ,10h30 – 22h30,3.7,80.000 - 150.000 đ/người
+Gọi món Việt,"Số 2, Ngõ 31 Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa",Thảo Viên - Botanic Garden - Hoàng Cầu,08h00 - 21h00,3.8,150.000 - 200.000 đ/người
+Gọi món Nhật,"Số 139 Nguyễn Khuyến, Q. Đống Đa",Let’s Sushi - Nguyễn Khuyến,10h00 – 14h00 & 17h00 – 21h30,3.6,150.000 - 250.000 đ/người
+Gọi món Âu (chuyên đồ Pháp),"110 D1 Trần Huy Liệu, P. Giảng Võ, Q. Ba Đình",EMM’s French Bistro - Trần Huy Liệu,8h00-22h30,3.8,200.000 - 400.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"L5-07 tòa nhà Vincom Center Phạm Ngọc Thạch, Số 2 Phạm Ngọc Thạch, P. Trung Tự, Q. Đống Đa",Le Monde Steak - Vincom Phạm Ngọc Thạch   ,11h00 - 13h30 & 17h00 - 21h00,3.8,150.000 - 250.000 đ/người
+"Buffet Hải Sản,  Á - Âu (tự chọn)","Số 14 Tông Đản, P. Tràng Tiền, Q. Hoàn Kiếm",Bay Seafood Buffet - Hồ Gươm,11h00 – 13h00 & 18h00 - 20h00,4,338.000 - 386.000 đ/người
+Chuyên Lẩu Nấm,"Số 5 An Khang, KĐT Nam Cường, P. Dương Nội,  Q. Hà Đông",Lẩu Nấm Gia Khánh - Dương Nội,10h30 – 21h30,3.9,180.000 - 210.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"R4-40, Tầng B2, TTTM Royal City, 72A Nguyễn Trãi, Q.Thanh Xuân",King BBQ Buffet - Royal City ,10h00 - 22h00,4,200.000 - 400.000 đ/người
+"Ẩm thực Đài Loan (Trà sữa, Món ăn đường phố)","Gian hàng số 4, Tầng 1, TTTM Big C Thăng Long, 222 Trần Duy Hưng, Q. Cầu Giấy",Yu Tang Dining - Big C Thăng Long ,10h00 – 21h30,3.8,120.000 - 150.000 vnđ/người
+Buffet nướng lẩu Nhật Bản  ,"119 Trần Duy Hưng, P. Trung Hòa, Q. Cầu Giấy",Yakimono - Vincom Trần Duy Hưng,18h00 - 21h30,3.8,260.000 - 300.000 đ/người
+Gọi món Á – Âu (Chuyên Rượu Vang),"Tầng 1, Số 720 – 722 Hoàng Hoa Thám, P. Bưởi, Q. Tây Hồ",Hầm Rượu Vang Louis - Hoàng Hoa Thám,10h00 - 22h00,3.8,250.000 – 350.000 đ/người
+Buffet Hải Sản (tự chọn)," Số 214 Hào Nam, Tầng 6 tòa nhà NHS Center, P. Cát Linh, Q. Đống Đa",SET Buffet - Hào Nam,11h00 – 13h00 & 18h00 – 20h00,3.8,300.000 - 400.000 vnđ/người
+Gọi món Chay,"Số 26 Châu Long, P. Trúc Bạch, Q. Ba Đình",Aummee - Châu Long,10h00 –20h00,3.8,150.000 – 250.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"TTTM Aeon Mall Long Biên, T1, 27 Đ. Cổ Linh, Q. Long Biên",Buk Buk – Aeon Mall Long Biên,10h00 - 22h00,3.6,150.000 - 250.000 đ/người
+Gọi món Ý (chuyên Pizza),"Số 28 Đại Cồ Việt, P. Lê Đại Hành, Q. Hai Bà Trưng",Pizza Home - Đại Cồ Việt,09h00 - 21h30,3.7,80.000đ – 100.000đ/người
+Gọi món Mexico,"Số 283 Kim Mã, P. Giảng Võ, Q. Ba Đình",Taco Zone - Kim Mã,10h00 - 21h00,3.7,80.000đ – 100.000đ/người
+Gọi món Mexico,"Số 28 Đại Cồ Việt, P. Lê Đại Hành, Q. Hai Bà Trưng",Taco Zone - Đại Cồ Việt,10h00 - 21h00,3.7,80.000đ – 100.000đ/người
+Gọi món Việt và bia hơi,"Số 440 Khương Đình, Q. Thanh Xuân",Bia Đức Trọc - Khương Đình,10h00 - 13h30 & 17h00 - 22h00,3.5,150.000 - 250.000 đ/người
+Gọi món & buffet Nhật Bản và chay cao cấp	,"Tòa nhà Golden Palm, Tầng 1, 21 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân",Om Tara Sushi - Lê Văn Lương,10h00 - 21h00,3.7,300.000 - 500.000 đ/người
+Gọi món Ý (chuyên Pizza),"Số 283 Kim Mã, P. Giảng Võ, Q. Ba Đình",Pizza Home - Kim Mã,09h00 - 21h30,3.7,80.000đ – 100.000đ/người
+Gọi món Việt (Món đường phố),"TTTM Royal City,Tầng B2, 72A Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân",VietStreet - Royal City,10h00 – 21h00,3.8,120.000 - 180.000 đ/người
+Gọi món (Món ăn trên đĩa nóng)," TTTM Vincom Bà Triệu, Tầng 5, Số191 Bà Triệu, Q. Hai Bà Trưng",Hotto - Vincom Bà Triệu    ,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Gọi món Việt (Món đường phố),"TTTM Vincom Center, Tầng 3, 29 Liễu Giai, Q. Ba Đình",VietStreet - Vincom Liễu Giai,10h00 – 21h00,3.8,120.000 - 180.000 đ/người
+Gọi món Việt (Món đường phố),"TTTM Vincom,Tầng 5, 54 Nguyễn Chí Thanh, Q. Đống Đa",VietStreet – Vincom Nguyễn Chí Thanh,10h00 – 21h00,3.8,120.000 - 180.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"TTTM Indochina Plaza Hanoi, Tầng 1, Số 241 Xuân Thủy, Q. Cầu Giấy",Hotto - IPH Xuân Thủy  ,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"TTTM Vincom Phạm Ngọc Thạch, Tầng 5,  Số 2 Phạm Ngọc Thạch, Q. Đống Đa",Hotto - Vincom Phạm Ngọc Thạch  ,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"Lotte Centre Liễu Giai, Tầng 6, Số 54 Liễu Giai, P. Cổng Vị, Q. Ba Đình",Hotto - Lotte Center,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"TTTM Royal City,Tầng B2, Số 72A Nguyễn Trãi, Thượng Đình, Q.Thanh Xuân",Hotto - Royal City  ,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"TTTM Big C Thăng Long, Tầng 1, Số 222 Trần Duy Hưng, Q. Cầu Giấy",Hotto - Big C Thăng Long,10h00 – 21h00,3.8,80.000 - 150.000 vnđ/người
+"Gọi món, Buffet Lẩu Thái","Số 5 Khương Trung, P. Khương Trung, Q. Thanh Xuân",Chai Talay - Khương Trung,10h30 - 13h30 & 17h30 - 21h30,3.9,120.000 - 150.000 đ/người
+"Buffet Hải Sản , Á – Âu (tự chọn)","Số 167 Hoàng Ngân, P. Trung Hòa, Q. Cầu Giấy",Bay Seafood Buffet – Trung Hòa Nhân Chính,11h00 - 13h00 & 18h00 – 20h00,4,338.000 - 386.000 đ/người
+Gọi món Việt,"Số 305 Trần Đại Nghĩa, P. Trương Định, Q. Hai Bà Trưng",Thiên Ân - Trần Đại Nghĩa,10h30 – 13h30 & 17h00 – 21h30,3.7,150.000 – 180.000đ/người
+Gọi món Nhật Bản,"Chung cư Thăng Long Number 1, Tầng 2 tòa B, Đường Khuất Duy Tiến, Q. Thanh Xuân ",Hải Sản Nhật Bản Nihonkai - Khuất Duy Tiến,10h00 – 22h00,3.8,300.000 – 400.000 đ/người
+"Buffet, Gọi món Việt","Tòa nhà CT3 Dương Đình Nghệ, Tầng 1, P. Yên Hòa, Q. Cầu Giấy",Lahata Restaurant - Dương Đình Nghệ,06h30 - 22h30,3.8,250.000 - 350.000 đ/người
+Gọi món Hàn Quốc (Chuyên gà),"KĐT Royal City, B2 -  R3 – 10, P. Thượng Đình, Q. Thanh Xuân",Don Chicken - Royal City,11h00 – 22h00,3.7,150.000 - 300.000 vnđ/người
+Gọi món Hàn Quốc (Chuyên Gà),"Hải Đăng City (HD Mon City), TT 04-32, P. Mỹ Đình 2, Q. Nam Từ  Liêm",Don Chicken - Hàm Nghi  ,11h00 – 22h00,3.7,150.000 - 300.000 vnđ/người
+Gọi món Hàn Quốc (Chuyên gà),"Số 9 Vũ Phạm Hàm, P. Yên Hòa, Q. Cầu Giấy",Don Chicken - Vũ Phạm Hàm,11h00 – 22h00,3.7,150.000 - 300.000 vnđ/người
+Gọi Món Âu,"Tầng 1, Tòa nhà New Skyline, KĐT mới Văn Quán – Yên Phúc, P. Văn Quán, Q. Hà Đông",VanHoangGroup - L'amour  Steak - Hà Đông ,06h00- 22h00,3.7,100.000 - 500.000 đ/người
+Gọi món Việt (Chuyên dê),"Số C1-106, Khu tập thể Nghĩa Tân, Q. Cầu Giấy",Lẩu Dê Khô Thu Béo - Nghĩa Tân,10h00 -  21h00,3.7,150.000 – 200.000 đ/người
+Gọi món lẩu hơi,"Số 135 Lương Định Của, P. Kim Liên, Q. Đống Đa",Lẩu Hơi Cosmos - Lương Định Của,10h30 – 14h00 & 17h00 – 22h00,3.7,200.000 - 300.000 vnđ/người
+Gọi món Việt,"Số 1, Lô TT01, KĐT Mon City, Ngõ Số 4 Hàm Nghi, Q. Từ Liêm",Hà Nội Phố - Hàm Nghi,10h00 – 14h00 & 17h00 – 22h00,3.8,150.000 – 200.000đ/người
+Gọi món Việt,"Đường Đê Vàng, Tổ 3, P. Giang Biên - Q. Long Biên ",Kim Long Garden - Đường Đê Vàng ,09h00 –21h00,3.9,200.000 - 300.000 vnđ/người
+Gọi món Singapore (Chuyên cơm gà),"Số 16 Đào Tấn, Q. Ba Đình",Kampong Chicken House - Cơm gà Hải Nam - Đào Tấn  , 17h30 – 21h30,4,150.000 - 250.000 đ/người
+Gọi món Singapore (Chuyên cơm gà),"Tòa nhà N5D, Hoàng Đạo Thúy, Q. Thanh Xuân",Kampong Chicken House - Cơm gà Hải Nam - Hoàng Đạo Thúy,17h30 – 21h30,4,150.000 - 250.000 đ/người
+Gọi món Singapore (Chuyên cơm gà),"Số 107 Lò Đúc, Q. Hai Bà Trưng",Kampong Chicken House - Cơm gà Hải Nam - Lò Đúc,17h30 – 21h30,4,150.000 - 250.000 đ/người
+Gọi món việt- Chuyên lẩu nấm,"Số 54, Biêt thự TT2, Khu đô thị Thành phố Giao Lưu, Đường Phạm Văn Đồng, P. Cổ Nhuế 1, Q. Bắc Từ Liêm",Nấm Tràng An - Phạm Văn Đồng,10h30 – 14h00 & 18h00 – 22h00,3.9,200.000 - 300.000 đ/người
+Gọi món lẩu hơi,"Số 43 Huỳnh Thúc Kháng, P. Láng Hạ, Q. Đống Đa",Lẩu Hấp Fresh - Huỳnh Thúc Kháng,10h30 – 14h00 & 17h00 – 22h00,3.7,200.000 - 300.000 vnđ/người
+Gọi món Âu (Chuyên Steak Pháp),"Lô B2-R3-09D, TTTM Vincom Royal city, 72A Nguyễn Trãi, Q.Thanh Xuân",Le Monde Steak – Royal City,11h00-14h00 & 17h00-21h30,3.8,150.000 - 250.000 vnđ/người
+Buffet lẩu,"Số 132 Phố Trần Đại Nghĩa, P. Đồng Tâm, Q. Hai Bà Trưng",Salang Hotpot - Trần Đại Nghĩa,10h30 - 14h00 & 17h00 - 22h00,3.6,100.000 - 200.000 vnđ/người
+Buffet Lẩu ,Tầng 2 Tòa nhà 313 - 315 Bạch Mai - Hai Hà Trưng ,Fê - Buffet Lẩu - Bạch Mai,11h00-14h30 &17h30-22h30,3.9,130.000 - 230.000 đ/người
+Gọi món Việt,"Biệt thự 03, Dãy BT12A,  KĐT An Hưng , Tố Hữu ",Ẩm thực Hùng Mạnh - Đệ nhất chim - Tố Hữu ,10h00 - 22h00,3.5,200.000 - 300.000 vnđ/người
+Gọi món Việt (chuyên nướng & lẩu),"Số 81 Đại Cồ Việt, P. Lê Đại Hành, Q. Hai Bà Trưng",Nhắng Nướng - Đại Cồ Việt,10h30-13h30 & 17h00-22h00,3.7,120.000 - 150.000 vnđ/người
+Buffet lẩu nướng Hàn Quốc,"Số 22, Lô 06, KĐT Shophouse Tố Hữu, P. Vạn Phúc, Q. Hà Đông",Shin+ BBQ - Tố Hữu  ,11h00-14h00 & 17h00-22h30,4.5,200.000 - 350.000 vnđ/người
+"Gọi món, chuyên hải sản tươi sống","Số 18 Trần Kim Xuyến  P. Yên Hoà, Q. Cầu Giấy",Thế Giới Hải Sản - Trần Kim Xuyến,10h30 – 22h00,4.1,400.000 - 600.000 vnđ/người
+Ẩm thực Việt (chuyên các món gà),"288 Thái Hà, Q.Đống Đa",Gà Mẹt - Gà Không Lối Thoát – Thái Hà,10h00-15h00 & 17h00 – 22h30,3.5,80.000 - 150.000 vnđ/người
+"Gọi món Việt, Chuyên cá Lăng","BT2- Lô 22 Đường Phạm Hùng, Khu đô thị Mễ Trì Hạ - Q. Nam Từ Liêm (sau tòa nhà CEO)",Cá Lăng Việt Trì ĐHM - Phạm Hùng,11h00 – 15h00 & 18h00 – 22h00,3.8,200.000 - 250.000 đ/người
+Gọi món Âu – Mỹ,"45 Đào Tấn, P. Ngọc Khánh, Q. Ba Đình",Bò King Beefsteak - Đào Tấn,09h30 – 22h00,3.7,150.000 - 250.000 đ/người
+Buffet Lẩu,"Số 21-24 Lô 2 ngõ 67 Đường Phùng Khoang, P. Trung Văn, Q. Nam Từ Liêm",Lẩu Phan - Phùng Khoang,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.9,130.000 - 200.000 đ/người
+Buffet Lẩu,"Số 105 K11B Phố Nguyễn Hiền, P. Bách Khoa, Q. Hai Bà Trưng, Hà Nội",Tò Bò Nhúng - Buffet Lẩu - Nguyễn Hiền,11h00 - 13h30 & 18h00 - 21h30,3.8,118.000 - 130.000 đ/người
+Buffet Nhật Bản,"Tầng 3, Lotte Department Store, Số 54 Liễu Giai, Q. Ba Đình",Sushi Kei – Lotte Center,10h00 - 13h30 và 17h00- 21h00,3.9,200.000 - 300.000 đ/người
+Cơm niêu Singapore,"C3-4 Chung cư C3 Nguyễn Cơ Thạch, P. Mỹ Đình , Q. Nam Từ Liêm ",Kombo - Cơm niêu Singapore - Nguyễn Cơ Thạch,10h30 - 21h30,3.6,70.000 - 100.000 đ/người
+Gọi món Nhật Bản,"Số 153 Thụy Khuê, Q. Tây Hồ", Aozora - Thụy Khuê,10h00 - 14h00 và 17h00 - 22h30,3.8,120.000-150.000đ/người
+"Gọi món, Buffet Lẩu Thái","B10, Biệt Thự Pandora, Số 53 Triều Khúc, Q. Thanh Xuân",Thai Deli - Buffet Lẩu Thái - Triều Khúc,17h30 - 23h00,3.8,120.000 - 160.000 đ/người
+Gọi món Nhật,"276 Xã Đàn, P. Phương Liên, Q. Đống Đa",Hadu.Sushi - Xã Đàn    ,10h30 – 14h10 & 17h30 – 21h45,3.6,250.000 - 350.000 vnđ/người
+Buffet Lẩu Nướng,"Số 2, Ngõ 34 Nguyên Hồng, P. Láng Hạ, Q. Đống Đa",Làu - Buffet Lẩu Nướng - Nguyên Hồng,11h00-14h00 &  17h00-21h00,3.8,190.000 - 275.000 đ/người
+"Gọi món, Buffet Lẩu Thái","Số 25 Vũ Ngọc Phan (LK5 Biệt Thự LaCasa), P. Láng Hạ, Q. Đống Đa",Thai Deli - Buffet Lẩu Thái - Vũ Ngọc Phan,17h30 - 23h00,3.9,120.000 - 160.000 đ/người
+Buffet Lẩu,"Số 136 Xuân Thủy (Cổng số 1 ĐH Sư Phạm, Rẽ trái và đi vào 50m), Q. Cầu Giấy",Yummy - Buffet Hotpot - Xuân Thủy,11h00 - 13h45 & 18h00 - 21h45,3.5,120.000  – 130.000 đ/người
+Gọi món Nhật Bản,"Tầng 1, 17T7 Trung Hòa Nhân Chính, P. Nhân Chính, Q. Thanh Xuân",Kiến Đỏ Akaari - Trung Hòa Nhân Chính , 10h30 -13h30 & 17h00 - 21h00,4,250.000 - 500.000 đ/người
+Gọi món Nhật Bản,"A105-106, D5, Trần Thái Tông, P. Dịch Vọng, Q. Cầu Giấy",Kiến Đỏ Akaari - Trần Thái Tông, 10h30 -13h30 & 17h00 - 21h00,4,250.000 - 500.000 đ/người
+Gọi món (Chuyên Vịt),"Số 68 Ngõ 298 Tây Sơn, P. Trung Liệt, Q. Đống Đa",The Duckling - Tây Sơn,10h30 – 13h30 & 17h00 – 21h30,3.9,150.000 – 200.000 đ/người
+Gọi món Nhật Bản,"Số 5 Văn Miếu, P. Quốc Tử Giám, Q. Đống Đa",Kiến Đỏ Akaari - Văn Miếu , 10h30 -13h30 & 17h00 - 21h00,4,250.000 - 500.000 đ/người
+Gọi món Việt,"TT2 – 40, Khu đô thị Kim Văn Kim Lũ, P. Đại Kim, Q. Hoàng Mai",Nét Việt - KĐT Kim Văn Kim Lũ ,10h30 – 14h00 & 17h30 – 21h00,3.7,150.000 - 200.000 vnđ/người
+Cơm niêu Singapore,"Số 28 Hoàng Cầu mới, P. Ô Chợ Dừa , Q. Đống Đa",Kombo - Cơm niêu Singapore - Hoàng Cầu ,10h30 - 21h30,3.8,70.000 - 100.000 đ/người
+Gọi món Thái Lan,"Số 3, ngõ Bà Triệu, P. Lê Đại Hành, Q.Hai Bà Trưng",Bếp Thái Koh Yam - Bà Triệu ,11h -13h30 & 17h30 - 20h30,3.8,200.000 - 260.000 đ/người
+Buffet nướng lẩu hải sản,"27 Lê Văn Lương, T4+5, CC Center Point, Q. Thanh Xuân",Buffet Poseidon - Lê Văn Lương ,11h00 - 13h00 & 17h30 - 20h30,4.2,350.000 - 380.000 đ/người
+Buffet nướng lẩu hải sản,"Tầng 4, Tòa nhà Hồ Gươm Plaza, Số 102 Trần Phú, P. Mộ Lao, Q. Hà Đông",Buffet Poseidon - Hà Đông,11h00 - 13h00 & 17h30 - 20h30,4.2,350.000 - 380.000 đ/người
+Ẩm thực đường phố Hàn Quốc,"10A Phạm Huy Thông, Ngọc Khánh , P.Nguyễn Chí Thanh, Q.  Ba Đình, Hà Nội",Gà Rán Seoul Soul - Phạm Huy Thông,10h30-14h30 & 17h30 - 21h00,3.8,60.000 - 190.000 đ/người
+Chuyên hải sản tươi sống,"15B - 15C Trần Khánh Dư, P. Bạch Đằng, Q. Hoàn Kiếm",Hải Sản Phố - Trần Khánh Dư,10h00 – 21h30,4,350.000 – 500.000 đ/người
+"Buffet Nướng Lẩu Hàn Quốc, Gọi món gà rán,","B11 Khu Đô Thị Pandora, Số 53 Phố Triều Khúc,P. Thanh Xuân Nam, Q. Thanh Xuân",Sinry Bulgogi - Triều Khúc,11h00 – 14h00 & 17h00 - 22h00,3.8,120.000 - 270.000 đ/người
+Gọi món Việt,"Số 319 Tây Sơn, P. Ngã Tư Sở, Q. Đống Đa",Hồng Hạc - Tây Sơn,11h00 – 21h30,3.9,200.000đ - 300.000 đ/người
+Gọi Món Việt (Chuyên lẩu),"Số 101 D1 Trần Huy Liệu, P. Giảng Võ, Q. Ba Đình ",Lẩu Đức Trọc - Trần Huy Liệu,10h00 - 13h30 & 16h30 - 22h00,3.5,150.000 - 250.000 vnđ/người
+Gọi món Huế,"Tầng B1 - D9 - 13, Tòa nhà T2 TTTM Times City, Số 454 Minh Khai, Q. Hai Bà Trưng",Nét Huế - Times City  ,09h30 – 21h30,3.8,50.000 – 150.000 đ/người
+Gọi món Việt (Chuyên dê),"B16-D13 KĐT mới Cầu Giấy (ngõ 2 Thọ Tháp), Q. Cầu Giấy",Dê Núi Hà Giang - KĐT mới Cầu Giấy,10h30  - 13h30 & 17h30 – 21h30,3.8,200.000 – 250.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"Thanh Niên - 32 Đ9-16 & Thanh Niên - 34, TTTM Times City, 458 Minh Khai, Q Hai Bà Trưng(Cạnh thang cuốn T2)",Le Monde Steak - Times City   ,11h00-14h00 & 17h00-21h30,3.7,150.000 - 250.000 vnđ/người
+Gọi món Singapore (Chuyên cơm gà),"Số 9 Nguyễn Hoàng, Q. Nam Từ Liêm, Hà Nội",Kampong Chicken House - Cơm Gà Hải Nam - Nguyễn Hoàng  ,10h30 – 14h00 & 17h30 – 21h30,4,150.000 - 250.000 vnđ/người
+Buffet lẩu,"Số 5 ngõ 37, Trần Quốc Hoàn, Q. Cầu Giấy",Hotpot Kingdom - Trần Quốc Hoàn,17h00 - 21h00,3.8,130.000 - 200.000 đ/người
+Gọi món Việt,"Số 52 Nguyễn Khang, P. Yên Hòa, Q. Cầu Giấy",Cô Tô - Nguyễn Khang,11h00 – 14h00 & 17h00 - 22h00,3.7,200.000 – 300.000 đ/người
+"Gọi món, Buffet Lẩu","688 Lạc Long Quân, P. Nhật Tân, Q. Tây Hồ",Lẩu Bà Thúy - Lạc Long Quân ,09h00 - 14h00 & 16h30 - 22h00,3.8,150.000 - 200.000 đ/người
+Gọi Món Việt,"Số 46 Trần Quốc Hoàn, P. Dịch Vọng Hậu, Q. Cầu Giấy",Trung Dũng - Trần Quốc Hoàn,11h00 - 22h00,4,150.000 – 250.000 đ/người
+Buffet lẩu,"485 Nguyễn Văn Cừ, Q. Long Biên",Lẩu Phan – Nguyễn Văn Cừ ,17h00 - 21h00,3.8,130.000 - 200.000 đ/người
+Gọi món Singapore (Chuyên cơm gà),"Số 12 Phạm Ngọc Thạch, Q. Đống Đa, Hà Nội",Kampong Chicken House - Cơm Gà Hải Nam - Phạm Ngọc Thạch ,10h30 – 14h00 & 17h30 – 21h30,4,150.000 - 250.000 vnđ/người
+Gọi món Thái,"Số 75 Láng Hạ, P. Thành Công, Q. Ba Đình, Hà Nội",COCA Restaurant - Nhà hàng Lẩu Thái - Láng Hạ,10h30 – 14h30 & 17h30 – 21h30,4,250.000 – 400.000 đ/người
+Buffet lẩu,"BT24 KĐT mới Nghĩa Đô, Ngõ 106 Hoàng Quốc Việt, P. Nghĩa Đô, Q. Cầu Giấy",Lẩu Phan - KĐT Nghĩa Đô,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.8,130.000 - 200.000 đ/người
+Buffet lẩu,"KĐT Mon City, TT01, Số 04 Hàm Nghi, Q. Nam Từ Liêm",Lẩu Phan - Mon City,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.4,120.000 - 150.000 đ/người
+Buffet lẩu,"7 Đào Duy Anh (trong Khách sạn Kim Liên), Q. Đống Đa",Lẩu Phan – Đào Duy Anh ,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.8,130.000 - 200.000 đ/người
+Buffet lẩu,"Ngõ 131, Số 34 Thái Hà, Q. Đống Đa",Lẩu Phan - Thái Hà,17h00 - 21h00,3.8,120.000 - 150.000 đ/người
+Buffet lẩu,"Số 16 ngõ 59 Láng Hạ, Q. Đống Đa",Lẩu Phan - Láng Hạ,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.8,130.000 - 200.000 đ/người
+Gọi món Việt – Chuyên lẩu nấm,"Số 52 Đào Tấn, Q. Ba Đình",Nấm Tràng An - Đào Tấn ,10h30 - 14h00 &18h00 - 22h00,4,250.000 - 350.000 đ/người
+Buffet lẩu,"Số 278 Thượng Đình, Q. Thanh Xuân,",Lẩu Phan - Thượng Đình,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.8,130.000 - 200.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"Tầng G, TTTM The Garden, đường Mễ Trì, P. Mỹ Đình 1, Q. Nam Từ Liêm",Hotto - The Garden,10h30 – 21h30,3.6,80.000 - 150.000 đ/người
+Gọi món Nhật Bản,"13 Lý Thường Kiệt, P. Phan Chu Trinh, Q. Hoàn Kiếm",Hatoyama - Lý Thường Kiệt ,10h00 -14h00 & 17h00 - 22h00,4,600.000 - 800.000 vnđ/người
+Gọi món hải sản,"Số TT6.2 - 106 khu đô thị mới Đại Kim, P. Đại Kim, Q. Hoàng Mai",Hải Sản Bách Hỷ - KĐT Đại Kim,10h00 - 13h00 & 17h00 - 22h00,3.7,150.000 - 250.000 đ/người
+Buffet Lẩu,"Số 989 Giải Phóng, P. Giáp bát, Q. Hoàng Mai",Lẩu Phan – Giải Phóng,T2 - T5: 11h00-14h00 & 17h00-21h00 và T6-CN:11h00-21h00,3.8,130.000 - 200.000 đ/người
+"Gọi món Á, Âu (Chuyên rượu vang)","Số 13M2, Ngõ 112 Trung Kính, P. Yên Hòa, Q. Cầu Giấy",Thung Lũng Vang - Trung Kính,10h00 – 23h00,3.7,300.000 - 500.000 đ/người
+Gọi món Trung Hoa,"N04 Hoàng Đạo Thuý, Q. Cầu Giấy",Mỹ Tường Viên - Hoàng Đạo Thúy,11h00 - 13h30 & 18h00 - 21h00,4,200.000 - 300.000 đ/người
+Gọi món Việt (Chuyên Bò Tơ),"Số 02 Hoa Lư, P. Lê Đại Hành, Q. Hai Bà Trưng",Bò Tơ Quán Mộc - Hoa Lư,10h30 - 14h00 & 17h30 - 21h30,3.8,200.000 - 250.000 đ/người
+Gọi món Âu (chuyên đồ Pháp),"28 Đỗ Quang, P. Trung Hòa, Q. Cầu Giấy",EMM’s French Bistro - Đỗ Quang,08h00-22h30,3.8,200.000 - 400.000 đ/người
+Buffet lẩu băng chuyền,"Tầng 1 toà nhà Gold Season, 47 Nguyễn Tuân, P. Thanh Xuân Trung, Q. Thanh Xuân",Lẩu Băng Chuyền Kichi Kichi - Nguyễn Tuân  ,11h00 - 14h00 & 17h00 - 20h00,3.9,230.000 - 280.000 đ/người
+Gọi món Lào,"Tầng L3, TTTM Vincom Center Metropolis, 29 Liễu Giai, Q. Ba Đình",Khao Lao - Vincom Metropolis Liễu Giai,11h00 – 21h30,3.9,200.000 - 250.000 đ/người
+"Buffet, Gọi món nướng Trung Hoa","Số 71 Trung Hoà, Q. Cầu Giấy",ChiFan - Trung Hòa,11h00 -14h00 & 18h00 – 22h00,3.8,150.000 - 250.000 đ/người
+Gọi món (Chuyên Lẩu Nấm) ,"SH 16 KĐT Nam Trung Yên, Mạc Thái Tổ, P. Yên Hoà, Q. Cầu Giấy",Lẩu Hoàng Minh - Mạc Thái Tổ ,10h30 – 21h30,3.6,150.000 - 350.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Lô T274, tầng 2 TTTM Aeon Mall Hà Đông, P. Dương Nội, Q. Hà Đông",King BBQ Buffet - Aeon Mall Hà Đông,10h00 - 22h00,4,250.000 - 350.000 đ/người
+Gọi món Việt,"Số 38 Hàm Long, P. Hàng Bài, Q. Hoàn Kiếm",Bếp Quán – Hàm Long,10h00 – 21h30,3.8,150.000 - 250.000 đ/người
+Gọi món Âu ,"Số 66 Nguyên Hồng, P. Láng Hạ, Q. Đống Đa",SBB Belgian Beer Club - Vương Quốc Bia Bỉ - Nguyên Hồng ,09h00 - 23h45,3.7,200.000 - 300.000 đ/người
+"Buffet, Gọi món Nhật","17/19 Trần Quang Diệu, P. Ô Chợ Dừa, Q. Đống Đa",Trạm Sushi - Trần Quang Diệu,09h30 - 14h00 & 17h00 - 21h30,4,200.000 - 300.000 đ/người
+"Gọi món, buffet Nhật Bản","Lô T162, tầng 1, TTTM Aeon Hà Đông, P. Dương Nội, Q. Hà Đông",iSushi - Aeon Mall Hà Đông,10h00 - 14h00 & 17h30 - 21h30,4,350.000 - 550.000 vnđ/người
+Buffet Lẩu,"976 Đường Láng, P. Yên Hoà, Q. Đống Đa",Yum Yum Buffet Hotpot Station - Đường Láng,09h00 – 22h00,4,140.000 - 200.000 đ/người
+Gọi món Việt ,"Số 41  Đường Nguyễn Hoàng, P. Mỹ Đình 2, Q. Nam từ Liêm",Gà Mẹt - Gà Không Lối Thoát – Nguyễn Hoàng,09h30 – 14h00 & 16h30 – 22h00,4,100.000 - 200.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"231 Tô Hiệu, Q. Cầu Giấy",Le Monde Steak - Tô Hiệu,11h00 - 14h00 & 17h00 - 21h30,3.7,150.000 - 250.000 đ/người
+Chuyên lẩu nấm," Số 06 – C11 Shophouse Ngoại Giao Đoàn, P. Xuân Tảo, Q. Bắc Từ Liêm",Lẩu Nấm Gia Khánh - Ngoại Giao Đoàn,10h30 – 21h00,3.5,180.000 - 210.000 đ/người
+"Buffet, Gọi món chay","Ngõ 140 Tố Hữu, Vạn Phúc, Hà Đông, Hà Nội",Chay Phúc Nguyên Hưng - Tố Hữu   ,10h30 – 14h00 & 17h30 – 22h00,4,80.000 - 160.000 đ/người
+Gọi món Âu ,"Số 100 Linh Lang, P. Cống Vị, Q. Ba Đình",Vinci Pizza and Grill - Linh Lang,11h00 – 14h00 & 17h00 – 22h00,4.5,140.000 - 1.000.000 đ/người
+Gọi món (Chuyên Hải Sản) ,"SH17-18, Khu đô thị Nam Trung Yên, Đường Mạc Thái Tổ, P. Yên Hòa, Q. Cầu Giấy",Hải Sản Hạ Long Bay - Mạc Thái Tổ,09h00 – 22h30,4,150.000 - 250.000 đ/người
+Chuyên lẩu bò nhúng dấm,"Số 10 Ngách 76/8 Duy Tân, P.Dịch Vọng Hậu, Q.Cầu Giấy",Bò Ngon 555 - Duy Tân,10h30 - 13h30 & 17h30 - 21h00,3.6,150.000 - 170.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"Số 1A Dịch Vọng Hậu, Q. Cầu Giấy",Le Monde Steak - Trần Thái Tông  ,11h00 - 14h00 & 17h00 - 21h30,3.7,150.000 - 250.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Lô T5- 09, tầng 5 TTTM Vincom Center Trần Duy Hưng, Trung Hòa, Q. Cầu Giấy",Dolpan Sam - Vincom Trần Duy Hưng,10h00 - 22h00,3.9,150.000 - 250.000 đ/người
+Gọi món Việt ,"Số 1 Trần Đăng Ninh, P. Dịch Vọng, Q. Cầu Giấy",Chả Cá Đông Sơn (Dong Son Drum) - Trần Đăng Ninh,10h00 – 22h00,3.6,120.000 - 200.000 đ/người
+Gọi món Trung Hoa,"T263, Tầng 2, TTTM Aeon Mall Hà Đông , P.Dương Nội, Q. Hà Đông",Meiwei - Aeon Mall Hà Đông,10h00 - 22h00,3.9,200.000 - 300.000 đ/người
+Gọi món Âu ,"Số 31 Phan Chu Trinh, P. Phan Chu Trinh, Q. Hoàn Kiếm",Pasta Danza - Phan Chu Trinh,07h00 – 22h30,3.8,100.000 - 300.000 đ/người
+Gọi món Alacarte (Á – Âu),"Số 5 Yên Lãng, P. Trung Liệt, Q. Đống Đa",Zamba Food Garden - Yên Lãng   ,11h00 – 21h30,4.2,300.000 - 350.000 đ/người
+Buffet & Gọi Món,"Tầng 9, Keangnam Landmark 72 Phạm Hùng, P. Mễ Trì, Q. Nam Từ Liêm",Pizza & - Keangnam Landmark 72,Alacarte 10h00 – 22h00; Buffet T2-T6 : 11h30 – 14h00,4,120.000 - 200.000 đ/người
+Gọi món Âu ,"Số 16 Trấn Vũ, P. Quán Thánh, Q. Ba Đình",Fabrik - Trấn Vũ  ,11h00 – 22h00,3.8,200.000 - 500.000 vnđ/người
+Gọi món nướng lẩu Hàn Quốc,"Gian hàng 11B, Đường số 9,tầng B1, TTTM Times city,  458 Minh Khai,Q. Hai Bà Trưng",King BBQ Deli - Times City,10h00 - 22h00,4,200.000 - 350.000 đ/người
+Buffet Nướng Lẩu," Số 14, Đường Cầu Vồng, P. Đức Thắng, Q. Bắc Từ Liêm",The Buffet Garden - Cầu Vồng,10h00 - 13h30 & 17h00 - 21h30,3.5,150.000 - 200.000 đ/người
+Gọi món Nhật Bản,"Số 629 Kim Mã, Q. Ba Đình",Taraumi - Kim Mã,10h00 - 22h00,3.8,100.000 - 350.000 đ/người
+Gọi món Âu ,"Số 100A Xuân Diệu, P. Tứ Liên, Q. Tây Hồ ",Flamant Bistro - Xuân Diệu,09h00 – 24h00,4,200.000 - 700.000 đ/người
+Buffet; Gọi món Nhật Bản,"Số 1A Nguyễn Tri Phương, Q. Ba Đình",G8 Osake House - Nguyễn Tri Phương,10h00 – 14h00 & 17h00 – 22h00,4.3,200.000 - 300.000 đ/người
+Gọi món Lào,"Lô T249-250 - Tầng 2 - TTTM Aeon Mall Hà Đông , P.Dương Nội, Q.Hà Đông",Khao Lao - Aeon Mall Hà Đông,11h00 – 14h00 & 17h30 – 21h00,3.9,200.000 - 250.000 vnđ/người
+Gọi món Việt (chuyên cá),"BT 12a-04 KĐT An Hưng, P.Dương Nội, Q.Hà Đông",Quán Cá Việt Trì 2 - Hà Đông,10h00 – 15h00 & 17h00 – 21h30,3.6,160.000 - 250.000 đ/người
+Gọi món Việt (Chuyên lẩu),"Số 728 Trương Định, Q. Hai Bà Trưng. Cửa phụ: Ngõ 24/77 Phố Kim Đồng, (Sau bến xe Giáp Bát).",Lẩu Đức Trọc - Trương Định,11h00 - 14h00 & 18h00 - 21h30,3.8,150.000 - 250.000 đ/người
+Gọi món lẩu hơi,"51 Võ Chí Công, P. Xuân La, Q. Tây Hồ",Lẩu Sauna Cường Thịnh - Võ Chí Công ,10h30 - 13h30 & 17h30 - 21h00,3.7,125.000 - 350.000 đ/người
+Gọi món Việt (chuyên gà) ,"BT 11-VT 12 (đối diện chung cư CT2B), KĐT Xa La, P. Phúc La, Q. Hà Đông",Vương Quốc Gà - KĐT Xa La,11h00-15h00 & 17h00 – 22h30,3.5,100.000 - 200.000 đ/người
+Gọi món Việt,"Số 3 đường Lâm Du, P. Bồ Đề, Q. Long Biên",Đồng Việt - Lâm Du,10h30 - 22h30,3.8,150.000 - 250.000 đ/người
+Gọi món Âu (chuyên Steak),"79 Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa",Gent Steak - Hoàng Cầu  ,10h00 – 15h00 & 17h00 – 21h30,3.6,200.000 - 350.000 đ/người
+Gọi món Huế,"Tầng 1 – Khu Ẩm Thực – Aeon Mall Hà Đông , Khu Đô Thị  Dương Nội – Q. Hà Đông",Nét Huế - Aeon Mall Hà Đông,09h30 – 21h30,3.8,80.000 - 150.000 đ/người
+Gọi món Huế,"BH 06 - 07, Tầng BH – TTTM Vincom Nguyễn Chí Thanh  - 54A Nguyễn Chí Thanh, P. Láng Thượng –  Q. Đống Đa",Nét Huế - Vincom Nguyễn Chí Thanh,09h30 – 21h30,3.8,80.000 - 150.000 đ/người
+Buffet Nướng lẩu Hải sản,"481 Lạc Long Quân, P. Xuân La, Q. Tây Hồ",OHCHA - Lạc Long Quân  ,11h00 - 14h00 & 17h30 - 22h00,3.8,200.000 - 300.000 đ/người
+Gọi món nướng Hàn Quốc,"Gian số T269-270, Tầng 2 TTTM Aeon Mall, P. Dương Nội, Q. Hà Đông",Meat Plus - Aeon Mall Hà Đông,T2-T6: 10h00 - 14h30 & 17h30 - 21h30,3.8,250.000 - 300.000 đ/người
+Món ăn đồng quê,"Khu liền kề 03, Lô 02-03 Tân Lập, H. Đan Phượng",Quán Sơn Cước - KĐT Tân Tây Đô ,09h00 – 22h00,3.8,100.000 - 300.000 đ/người
+Gọi món Việt,"Số 4, Mạc Thái Tổ, P. Yên Hòa, Q. Cầu Giấy",Châu Giang - Mạc Thái Tổ,08h00 – 15h00 & 17h00 – 21h30,4,200.000 - 350.000 đ/người
+"Buffet Nướng, Lẩu & Dimsum","Số 186 Thượng Đình,P. Thanh Xuân Trung,Q. Thanh Xuân",Deli 4B BBQ & Hotpot - Thượng Đình   ,10h45 - 13h30 & 17h45 – 21h00,3.8,150.000 - 250.000 đ/người
+"Buffet, Gọi món Thái Lan","Tầng 2, TTTM Aeon Mall, P. Dương Nội, Q. Hà Đông",Bếp Thái Koh Yam - Aeon Mall Hà Đông ,T2  -T6 : 11h -13h30 & 17h30 - 20h30,3.8,200.000 - 260.000 đ/người
+Lẩu hơi &  Buffet lẩu nướng ,"Số 273 Tô Hiệu, P. Dịch Vọng, Q. Cầu Giấy",Safodi - Tô Hiệu,10h30 – 22h30 ,3.7,100.000 - 300.000 đ/người
+Gọi món Âu,"Số 7 Xuân Diệu, P. Quảng  An, Q. Tây Hồ",The Vin Steak - Xuân Diệu  ,10h00 – 14h00 & 17h30 – 22h00,4,300.000 - 400.000 đ/người
+Gọi món Việt (đặc sản đồng quê),"LV3, khu biệt thự 96 – 96B Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Q. Thanh Xuân",Xứ Đôông - Nguyễn Huy Tưởng,10h30 – 22h30 ,3.7,100.000 - 200.000 đ/người
+Gọi món Á - Âu ,"23 Hàn Thuyên, P. Phạm Đình Hổ, Q. Hai Bà Trưng",Hầm Rượu Vang Wine & Wood - Hàn Thuyên,10h30 - 22h30,3.8,500.000 - 700.000 đ/người
+Gọi món Việt,"Số 18 Đoàn Trần Nghiệp, P. Bùi Thị Xuân, Q. Hai Bà Trưng",Cuốn N Roll - Đoàn Trần Nghiệp,10h30 – 12h30 & 17h30 – 20h0 ,3.8,150.000 - 250.000 đ/người
+Gọi món Việt (Chuyên Lẩu),"Số 33 Lê Văn Thiêm, P. Nhân Chính, Q. Thanh Xuân",Lạ Quán - Lê Văn Thiêm,10h00 - 20h30,3.9,100.000 - 180.000 đ/người
+Gọi món Việt (Chuyên Gà)," Số 30, Phố Trung Phụng, Q. Đống Đa",Gà Mái Ghẹ - Trung Phụng,07h00 – 23h00,3.8,80.000 - 180.000 đ/người
+Buffet Lẩu & Nướng,"LK6C - Số 48 Đường Nguyễn Văn Lộc, P. Mộ Lao, Q. Hà Đông",Deli Plus BBQ & Hotpot - Nguyễn Văn Lộc    ,10h45 - 13h30 & 17h45 – 21h00,3.8,150.000 - 240.000 đ/người
+Gọi món Việt,"Tầng 3, D2 Giảng Võ, P. Giảng Võ, Q. Ba Đình",Cuốn N Roll - Giảng Võ,10h30 – 12h30 &17h30 – 20h00 ,3.8,150.000 - 250.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 83 Tuệ Tĩnh, P. Nguyễn Du, Q. Hai Bà Trưng",Gui Gui BBQ - Tuệ Tĩnh,11h00 - 13h30 & 17h00 - 21h30,3.7,200.000 - 300.000 đ/người
+Gọi món Việt,"17T6 Hoàng Đạo Thuý, P. Trung Hoà, Q. Thanh Xuân",Cuốn N Roll - Hoàng Đạo Thuý,10h30 – 12h30 &17h30 – 20h00 ,3.8,150.000 - 250.000 đ/người
+Gọi món Việt,"Số 90 Trần Thái Tông, P.  Dịch Vọng Hậu, Q. Cầu Giấy",Cuốn N Roll - Trần Thái Tông,10h30 – 12h30 &17h30 – 20h00 ,3.8,150.000 - 250.000 đ/người
+"Gọi món Á, Âu ","Số 11 Đường Hướng Dương 5, P.  Sài Đồng, Q. Long Biên",SoftWater - Vinhomes Riverside Long Biên ,07h00 – 22h00 ,4.2,250.000 - 500.000 đ/người
+Gọi món Việt,"Số 2, Ngõ 68 Ngọc Thuỵ, Q. Long biên",Ẩm Thực Đồng Quê - Ngọc Thụy,10h00 - 22h00,3.8,100.000 - 150.000 đ/người
+Chuyên hải sản tươi sống,"Số 166 Hào Nam, P. Ô Chợ Dừa, Q. Đống Đa",Đảo Ốc - Hào Nam,18h00 - 3h00 sáng ,3.6,250.000 - 350.000 vnđ/người
+Buffet Hải sản&Dimsum,"Số 01 Thái Hà, Q. Đống Đa",Buffet Hải Sản & Dimsum Cửu Vân Long - Thái Hà,11h00 - 13h00 & 18h00 - 22h00,4,370.000 - 420.000 đ/người
+Gọi món Nhật Bản,"Số 25 phố Tông Đản, P. Tràng Tiền, Q. Hoàn Kiếm",Shamoji Robata Yaki - Tông Đản ,11h00 - 14h00 & 17h30 - 22h00  ,3.9,350.000 - 500.000 đ/người
+Gọi món Nhật Bản,"Số 170 Xuân Diệu, P. Quảng An, Q. Tây Hồ",Shamoji Robata Yaki - Xuân Diệu,T2 – T5: 11h00 – 14h00 & 17h30 – 22h00  và T6 – CN:11h00 – 14h00 & 17h30 – 02h00 sáng hôm sau,3.9,350.000 - 500.000 đ/người
+Gọi món Nhật Bản,"Số 118 Trung Hòa, P. Yên Hòa, Q. Cầu Giấy",Shamoji Robata Yaki - Trung Hoà,11h00 - 14h00 & 17h30 - 22h00  ,3.9,350.000 - 500.000 đ/người
+Gọi món Nhật,"Số 102C5 Trần Huy Liệu, Q. Ba Đình",Let’s Sushi  - Trần Huy Liệu,10h00 - 21h30,4,200.000 - 300.000 đ/người
+Gọi món Nhật Bản,"Tầng 1, Tòa nhà Leopalace21 Granferte, 226 Đường Bưởi, P. Cống Vị, Q. Ba Đình",Hải Sản Nhật Bản Nihonkai - Đường Bưởi,11h00 – 14h00 và 17h00 – 22h30,3.8,300.000 - 400.000 đ/người
+Gọi món Thái Lan,"Số 18 ngõ 9 đường Hoàng Ngọc Phách, P. Láng Hạ, Q. Đống Đa",Khao San - Hoàng Ngọc Phách ,10h00 – 22h00 ,3.6,100.000 - 200.000 đ/người
+Gọi món Việt ,"Số 75 Nguyễn Công Hoan, P.  Ngọc Khánh, Q. Ba Đình",Bánh Tráng Giang Mỹ - Nguyễn Công Hoan,10h00 – 13h30 & 17h30 – 22h30,3.8,150.000 - 250.000 đ/người
+Chuyên hải sản tươi sống,"Số 2 Ngõ 86 Duy Tân, Q. Cầu Giấy ",My Way Seafood – Duy Tân ,10h00 - 14h00,4,250.000 - 350.000 đ/người
+Buffet Lẩu Châu Á,"Lô T273, Tầng 2, TTTM Aeon Mall Hà Đông, P Dương Nội, Q. Hà Đông",Hotpot Story - Aeon Mall Hà Đông,11h00 – 14h00 & 17h30 - 21h30,3.7,200.000 - 250.000 đ/người
+Gọi món Việt ,"Số 42 Hàng Nón, P. Hàng Gai, Q. Hoàn Kiếm",Ngan Ngon Trâm - Hàng Nón,09h00 – 23h00,3.6,100.000 - 200.000 đ/người
+Gọi món Việt,"Số 105 đường Trích Sài , P. Bưởi , Q. Tây Hồ",Tây Vương Quán - Trích Sài,09h00 – 22h00,4.2,120.000 - 150.000 đ/người
+Gọi món Singapore (Chuyên cơm gà),"TTTM Aeon Mall Hà Đông, Đường Ngô Thì Nhậm kéo dài, P. Dương Nội, Q. Hà Đông",Kampong Chicken House - Cơm Gà Hải Nam - Aeon Mall Hà Đông ,10h30 – 14h30 & 17h30 – 21h30,4.2,150.000 - 250.000 đ/người
+Gọi món Việt ,"Tầng 1-2, Tòa nhà 17T1, Phố Hoàng Đạo Thúy, P.Trung Hòa, Q.Cầu Giấy",Bánh Tráng Thịt Heo Giang Mỹ - Hoàng Đạo Thúy,10h00 – 14h00 & 17h00 – 22h30,3.6,150.000 - 250.000 đ/người
+Gọi món nướng Trung Hoa,"Số 299 Giảng Võ, P. Ngọc Khánh, Q. Ba Đình",Măm Măm BBQ - Giảng Võ,10h00 - 14h00 & 17h00 - 21h30,3.8,100.000 - 250.000 đ/người
+Cơm niêu Singapore,"Lô L5-12, tầng L5, Vincom Center Nguyễn Chí Thanh, Số 54A Nguyễn Chí Thanh, P. Láng Thượng, Q. Đống Đa",Kombo - Cơm niêu Singapore - Vincom Nguyễn Chí Thanh,10h30 -  21h00,3.8,70.000 - 100.000 đ/người
+Gọi món Thái Lan,"Số 31, phố Triệu Việt Vương, P. Nguyễn Du, Q. Hai Bà Trưng",TukTuk Thai Bistro - Triệu Việt Vương ,10h00 - 21h30,3.9,150.000 - 250.000 đ/người
+Gọi món steak phong cách Hàn Quốc,"Lô J1, tầng 4 tòa nhà Center Point, 27 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân",GoGi Steak House - Lê Văn Lương,10h30 - 21h30,3.8,400.000 - 500.000 đ/người
+Gọi Món Việt,"Số 66 Đường Nguyễn Văn Tuyết (Ngõ 298 Tây Sơn), P. Trung Liệt, Q. Đống Đa",Vitamin Beer - Nguyễn Văn Tuyết,09h00 – 22h00 ,4.3,200.000 - 300.000 đ/người
+Gọi món Việt,"Số 26 Nguyễn Thị Định, P. Trung Hòa, Q. Cầu Giấy",Timibon Quán - Nguyễn Thị Định   ,10h00 - 14h00 & 17h00 - 21h30,3.7,150.000 - 250.000 đ/người
+"Buffet, Gọi món Trung Hoa","Số 2 Lý Thường Kiệt, P. Phan Chu Trinh, Q. Hoàn Kiếm",Tao Li Canting - Lý Thường Kiệt,10h00 – 22h00,3.9,350.000 - 500.000 đ/người
+Gọi món Việt ,"Số 12, Ngõ 40 Hồng Tiến, P. Bồ Đề, Q. Long Biên",Gà Mẹt - Gà Không Lối Thoát - Long Biên,09h30 – 14h00 & 16h30 – 22h30,3.9,100.000 - 200.000 đ/người
+Chuyên lẩu & các món nhậu,"Số 33 Phan Chu Trinh, Q. Hoàn Kiếm",Lẩu Đức Trọc - Phan Chu Trinh,10h00 - 13h30 & 16h30 - 22h00,3.5,150.000 - 250.000 đ/người
+"Buffet, Gọi món nướng Nhật Bản","B2 - R6 - 37 38 TTTM Royal City, 72 Nguyễn Trãi, P. Thượng Đình, Q. Thanh Xuân",Shogun - Royal City   ,10h30 - 21h00,3.8,300.000 - 380.000 đ/người
+Ẩm thực đường phố Hàn Quốc,"Số 110 Hai Bà Trưng, P. Cửa Nam, Q. Hoàn Kiếm",Gà Rán Seoul Soul - Hai Bà Trưng,10h30-14h30 & 17h30 - 21h00,3.8,60.000 - 190.000 đ/người
+Chuyên Dê ré,"39 Trần Kim Xuyến, Q. Cầu Giấy",Dê Ré Song Dương - Trần Kim Xuyến,10h00 – 21h00,3.8,280.000 - 300.000 vnđ/người
+"Buffet, Gọi món Cá Lăng","Số 445 Bạch Đằng, Q. Hoàn Kiếm",Cá Lăng Toàn Thắng - Bạch Đằng,11h00 - 22h00,4,300.000  – 400.000 đ/người
+Buffet Lẩu,"Số 1 Ngõ 117 Thái Hà, P. Trung Liệt, Q. Đống Đa",Golden Laksa 38 - Thái Hà,10h30 - 14h00 & 17h30 - 21h00,3.9,150.000 - 270.000 đ/người
+"Buffet, gọi món nướng lẩu Nhật Bản","TTTM BigC 222 Trần Duy Hưng, Q. Cầu Giấy",Sumo Yakiniku  – Trần Duy Hưng,11h00 - 21h30,3.9,250.000 - 400.000 vnđ/người
+Buffet hải sản & Dimsum,"TTTM Discovery Complex, Tầng 6, Số 302 Cầu Giấy, P. Dịch Vọng, Q. Cầu Giấy",Buffet Hải sản & Dimsum Cửu Vân Long – TTTM Discovery Complex,11h00 - 13h00 và 18h00 - 21h00,3.8,370.000 - 420.000 đ/người
+Gọi món Việt - Thái,"85 Thái Hà, Q. Đống Đa", Food House – Thái Hà ,11h00 -13h00 và 17h30 - 20h30,4,150.000 - 250.000 đ/người
+Chuyên hải sản tươi sống,"Số 2 Ngõ 84 Trần Thái Tông, Q. Cầu Giấy",Hải Sản Biển Đông - Trần Thái Tông,10h00 - 14h00 & 17h30 - 21h30,4,250.000 - 400.000 vnđ/người
+Gọi món Tây Bắc,"Số 1, Ngã 5 Hà Trì, P. Hà cầu , Q. Hà Đông",Pao Quán - Hà Đông ,10h00 - 22h30 ,4,180.000 - 250.000 đ/người
+Gọi món Việt (Chuyên bò tơ),"Số 88 Ngã tư Vạn Phúc, P. Vạn Phúc, Q. Hà Đông",Bò Tơ Quán Mộc - Vạn Phúc,10h30 - 14h00 & 17h30 -  21h30,4,150.000 - 200.000 đ/người
+Buffet Lẩu Hồng Kông,"Số 6, Ngõ 71 Láng Hạ, P. Thành Công, Q. Ba Đình",Yixin – Lẩu Hồng Kông – Láng Hạ,11h00 - 14h00 và 17h30 - 22h00,3.8,100.000 - 150.000 đ/người
+Chuyên Dê ré,"Số 9 Hàn Thuyên, Q. Hai Bà Trưng",Dê Ré Song Dương - Hàn Thuyên,10h00 - 14h30 & 17h00 - 22h00,3.8,280.000 - 300.000 vnđ/người
+Gọi món Mỹ,"229 Tây Sơn, Mipec Tower, Q. Đống Đa",Cowboy Jack’s Saloon - Mipec Tây Sơn,11h00 – 14h00 và 17h00 – 21h30,3.8,200.000 - 250.000 vnđ/người
+Buffet Lẩu,"Số 25 ngõ 173 Thái Hà (đối diện rạp chiếu phim quốc gia), P. Láng Hạ, Q. Đống Đa ",Lẩu Laksa 38 – Thái Hà  ,17h30 - 22h00,3.5,130.000 - 150.000 đ/người
+Gọi món Âu (phong cách Pháp),"184 Hào Nam, Q. Đống Đa (đối diện ga tàu điện trên không)",GRILL66 Steakhouse - Hào Nam,10h00 - 22h00,3.8,150.000 - 250.000 đ/người
+Chuyên hải sản tươi sống,"Số 89 Nguyễn Khang, Q. Cầu Giấy",Hải Sản Biển Cua - Nguyễn Khang,10h00 – 22h00,3.8,200.000 - 300.000 đ/người
+"Buffet Lẩu, Gọi món Thái lan","474 Xã Đàn, Q. Đống Đa",Chai Talay - Xã Đàn ,10h30 - 13h30 & 17h30 - 21h30,3.5,120.000 – 150.000 đ/người
+Gọi món Âu (phong cách Pháp),"116 D4 Giảng Võ, Q. Ba Đình",Botanica - Giảng Võ,10h00 - 22h00,3.8,150.000 - 250.000 đ/người
+Gọi món Tây Bắc,"Ngõ 62 Trần Thái Tông, Q. Cầu Giấy",Pao Quán - Trần Thái Tông,10h30 - 22h00,4,180.000 – 250.000 đ/người
+Gọi món Mỹ,"Tầng 1 Sunrise Building, D11 Trần Thái Tông, Q. Cầu Giấy",Cowboy Jack’s Saloon – Trần Thái Tông,11h00 – 14h00 và 17h00 – 21h30,3.8,200.000 - 250.000 vnđ/người
+Gọi món Miền Nam,"Ngõ 69 Chùa Láng, Số 2, Q. Đống Đa",Phương Nam - Chùa Láng,10h30 -14h00 và 17h30 -21h30,3.5,150.000 - 180.000 đ/người
+Chuyên lẩu nấm,"28 Tây Sơn, Q. Đống Đa",Lẩu Nấm Gia Khánh - Tây Sơn,10h30 - 14h00 và 17h00 - 20h00,4,180.000 – 210.000 đ/người
+Gọi món Âu (phong cách Pháp),"3 Thái Phiên, Q. Hai  Bà Trưng",Botanica - Thái Phiên,10h00 - 22h00,3.8,150.000 - 250.000 đ/người
+Gọi món Việt (Chuyên rắn),"Ngõ 82 Lệ Mật, Số 4 , Q. Long Biên",Nguyễn Văn Dực - Lệ Mật,10h30 - 13h30 & 17h30 - 20h30,4,170.000 - 200.000 đ/người
+Món Âu - Á," 49 Hai Bà Trưng, Tầng 4 Tháp Hà Nội",Jaspas - Hanoi Towers,06h30 - 21h30,4,250.000 - 270.000 đ/người
+"Gọi món Âu, Á","14 Trần Phú, Q. Hà Đông",Pepperonis - Trần Phú (Hà Đông),11h00 - 21h00,3.8,130.000 - 150.000 đ/người
+Chuyên hải sản tươi sống,"75A Trần Hưng Đạo, Q. Hoàn Kiếm",Thế Giới Hải Sản - Trần Hưng Đạo,10h30 - 22h00,4.1,400.000 - 600.000 vnđ/người
+Chuyên món Hải Sản,"99 Mễ Trì, Tầng 1-2, Tháp C, Tòa nhà Golden Palace, Q. Nam Từ Liêm",Thế Giới Hải Sản - Mễ Trì  ,10h30 – 22h00,4.1,400.000 - 600.000 vnđ/người
+Gọi món Việt,"124 Kim Mã, Q. Ba Đình",Nhà hàng 124 - Kim Mã,10h30 - 14h00 ; 17h00 - 24h00,4.1,500.000 – 900.000 đ/người
+Gọi món Hong Kong,"91 Nguyễn Chí Thanh, Tầng 7, M5",Hải Cảng - Nguyễn Chí Thanh,10h00 - 14h00 & 16h30 - 21h00,4,300.000 - 500.000 vnđ/người
+Gọi món Âu - Á,"37 Trần Đăng Ninh, Q. Cầu Giấy",Pepperonis - Trần Đăng Ninh,11h00 - 21h00,3.8,130.000 - 150.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"16 Đường 3, B1 Times City, 458 Minh Khai",King BBQ Buffet – Times City,10h00 - 22h00,4,250.000 - 350.000 đ/người
+Gọi món Ý,"TTTM Vincom Bà Triệu, Tầng 5, 191 Bà Triệu, Q. Hai Bà Trưng",Capricciosa - Vincom Bà Triệu,10h00 - 14h30 và 17h30 - 22h30,3.7,200.000 - 250.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"TTTM Hồ Gươm Plaza, 110 Trần Phú, Tầng 1 , Shop 07,  P. Mỗ Lao, Q. Hà Đông",King BBQ Buffet - Hồ Gươm Plaza,10h00 - 22h00,4,250.000 - 350.000 đ/người
+"Gọi món, buffet nướng lẩu Hàn Quốc","Tòa nhà 24T2, Hoàng Đạo Thúy, Q. Cầu Giấy",King BBQ – Hoàng Đạo Thúy,10h00 - 22h00,4,200.000 - 350.000 đ/người
+"Buffet nướng, lẩu","TTTM Royal City, B2-R6-30C - 72 Nguyễn Trãi, Q. Thanh Xuân",Dedi Deli BBQ - Royal City,10h30 – 13h30; 17h30 – 21h30,3.8,200.000 – 300.000 đ/người
+Gọi món Việt (Chuyên bò tơ),"B52 Nguyễn Thị Định, P. Nhân Chính, Q. Thanh Xuân",Bò Tơ Quán Mộc - Nguyễn Thị Định,10h30 - 14h00 & 17h30 -  21h30,3.8,150.000đ – 200.000đ/người
+"Buffet, gọi món nướng lẩu Nhật Bản","132 - 134 Hoàng Quốc Việt, Q. Cầu Giấy",Sumo Yakiniku - Hoàng Quốc Việt,11h00 - 21h00 ,3.9,250.000 - 400.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"109 Đào Tấn, Q.Ba Đình",King BBQ - Đào Tấn ,11h00 - 13h30 & 18h00 - 20h40,4,250.000 - 350.000 đ/người
+Gọi món Tây Bắc,"Số 55 Cửa Đông, Q. Hoàn Kiếm",Đông Môn Bistro (Gộc Quán 6B Đường Thành cũ) - Cửa Đông,10h00 – 14h00 ; 17h00 – 22h00,4,200.000 – 250.000 đ/người
+Gọi món Việt (Chuyên Bò Tơ),"Số 47 Nguyên Hồng, Q. Đống Đa",Bò Tơ Quán Mộc - Nguyên Hồng,10h30 - 14h00 & 17h30 - 21h30,3.8,200.000 - 250.000 đ/người
+Gọi món Thái,"Số 18 Đào Tấn, Phường Cống Vị, Quận Ba Đình",COCA Restaurant - Đào Tấn,10h30 - 14h00 & 17h30 - 22h00,4,350.000 - 500.000 đ/người
+"Gọi món, buffet Nhật Bản","Tầng 02, tháp A, tòa nhà UDIC N04 Hoàng Đạo Thúy, Q. Cầu Giấy",Isushi – Hoàng Đạo Thúy ,11h00 - 21h00,3.9,350.000 - 550.000 đ/người
+Món Âu - Á,"Tầng 2 Trung tâm thương mại, tòa nhà The Legend 109 Nguyễn Tuân, Q. Thanh Xuân,",Legend Seafood & Hotpot - Nguyễn Tuân,10h30 – 22h30,4,250.000 - 500.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"Số 24 - 26 Nguyễn Trường Tộ, Tầng 1 - 2 - 3, Q. Ba Đình",Seoul BBQ - Nguyễn Trường Tộ,11h30 - 13h30 & 18h00 - 21h30,3.5,180.000 - 300.000 đ/người
+"Gọi món, buffet Nhật Bản","158 Triệu Việt Vương, Q. Hai Bà Trưng",Isushi - Triệu Việt Vương,11h00 - 13h00 & 17h30 - 21h00,4,350.000 - 550.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"155 Bà Triệu, Q. Hai Bà Trưng",Season BBQ - Bà Triệu ,10h30-13h00 & 17h30 – 21h00,4,300.000 - 390.000 đ/người
+Gọi món Việt (Chuyên hải sản),"Số 685 Lạc Long Quân, P. Phú Thượng Q. Tây Hồ",Phúc Thành - Lạc Long Quân,10h30 - 13h30 và 17h30 -  21h30,3.9,250.000 - 300.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Big C Thăng Long, Tầng 1, 222 Trần Duy Hưng, Q. Cầu Giấy",King BBQ Buffet – Big C Thăng Long ,10h00 - 22h00,4,250.000 - 350.000 đ/người
+Gọi món Việt,"Số 132 Trung Hòa, Quận Cầu Giấy, Hà Nội",Bếp Quán - Trung Hòa,10h00 – 14h00 & 17h00 - 21h30,3.9,250.000 - 350.000 đ/người
+"Gọi món Á, Âu","Tập thể F361 An Dương, 42 Đường 9",Soft Water - An Dương,10h00 - 22h00,4,300.000 đ/người
+Gọi món Hàn Quốc,"400 Ngọc Lâm, Q.Long Biên",Gimbab Hàn Quốc - Ngọc Lâm,08h00 - 21h30,3,80.000 – 100.000 đ/người
+Gọi món Việt,"TTTM Royal City, B2 - R6, 72A Nguyễn Trãi",Quán Ăn Ngon - Royal City,10h00 - 21h30,4.1,180.000 - 250.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"KĐT Vinhomes Gardenia Hàm Nghi, Shophouse B2-06, Q. Nam Từ Liêm",King BBQ Buffet - Hàm Nghi ,11h00 - 13h00 & 17h00 - 21h30,4,250.000 - 400.000 đ/người
+Gọi món Việt,"809 Giải Phóng, Q. Hoàng Mai",Nam Sơn - Giải Phóng,10h00 - 14h00 & 17h00 - 23h00,4,200.000 - 350.000 đ/người
+"Gọi món Âu, Á","98 Hàng Trống, Q. Hoàn Kiếm",Pepperonis - Hàng Trống,11h00 - 21h00,3.8,130.000 - 150.000 đ/người
+"Gọi món Âu, Á","13 Huỳnh Thúc Kháng, Q. Đống Đa",Pepperonis - Huỳnh Thúc Kháng,11h00 - 21h00,3.8,130.000 - 150.000 đ/người
+Gọi món Việt (Chuyên rắn),"16 Việt Hưng, Q. Long Biên",Nguyễn Văn Dực - Việt Hưng,10h00 - 22h00,4,170.000 – 200.000 đ/người
+Gọi món Tây Bắc,"100 Tuệ Tĩnh, Q. Hai Bà Trưng",Quán Kiến - Tuệ Tĩnh,10h00 - 14h00 & 17h30 - 21h00,4,200.000 - 300.000 đ/người
+Gọi món Việt,"25T2 Hoàng Đạo Thúy, Tầng 1, Q. Cầu Giấy",Quán Ăn Ngon - Hoàng Đạo Thúy,06h30 - 21h30,4.1,180.000 - 250.000 vnđ/người
+Buffet nướng lẩu Nhật Bản,"109E1 Ngõ 29 Tạ Quang Bửu, P. Bách Khoa, Q. Hai Bà Trưng",Kochi BBQ - Tạ Quang Bửu,10h00 - 14h00 & 17h00 - 22h00,3.5,130.000 - 250.000 đ/người
+"Buffet Á, Âu","684 Minh Khai, Tầng 18 Sahul Hotel",Buffet Sen Việt - Minh Khai,18h00 - 21h00,4,250.000 - 350.000 đ/người
+Gọi món Âu (Chuyên hải sản),"Số 3 Yết Kiêu,P. Nguyễn Du, Q. Hai Bà Trưng",Tanh Tách - Seafood Society - Yết Kiêu,11h00 - 14h00 & 17h00 - 23h00,4.5,300.000 - 600.000 đ/người
+Gọi món Việt – Đặc sản Tây Bắc,"Số 37A Trần Kim Xuyến, P. Yên Hoà, Q. Cầu Giấy",Chim To Dần Bình An - Trần Kim Xuyến,09h00 – 22h30,3.8,150.000 - 250.000 đ/người
+Gọi món Việt ,"Số 47 Bát Đàn, P. Hàng Bồ, Q. Hoàn Kiếm",Sỉn Quán - Bát Đàn,17h00 - 02h00 sáng hôm sau,3.8,150.000 - 300.000 đ/người
+Gọi món Việt ,"Số 531 Bạch Đằng, P. Chương Dương, Q. Hoàn Kiếm",Cá Giò Viễn Đông - Bạch Đằng,09h00 – 22h00 ,4,250.000 - 300.000 đ/người
+Gọi món Việt,"Số 37 ngõ 603 Lạc Long Quân, Q.Tây Hồ",Hải Sản Cát Lục Thuỷ - Lạc Long Quân,10h00 – 14h00 & 17h00 – 23h00,3.7,150.000 - 250.000 đ/người
+Gọi món Việt,"Số 18 ngõ 75 Trần Quang Diệu, Q Đống Đa",Quán Nhỏ - Trần Quang Diệu,10h00 - 3h00 sáng hôm sau,3.7,150.000 - 250.000 đ/người
+Gọi món Việt,"Số 109c ngõ 11 Ngọc Khánh, Q. Ba Đình",Quán Nhỏ - Ngọc Khánh,15h00 - 3h00 sáng hôm sau,3.7,150.000 - 250.000 đ/người
+Gọi món Tây Bắc,"Số 59 Nguyễn Lương Bằng, P. Nam Đồng, Q. Đống Đa",Bếp Mị - Nguyễn Lương Bằng,17h00 - 2h00 sáng hôm sau,3.8,150.000 - 250.000 đ/người
+"Buffet lẩu, gọi món Nhật Bản","Tầng 2, TTTM Aeon Mall Hà Đông , P. Dương Nội, Q. Hà Đông",Sushi Kei - Aeon Mall Hà Đông,11h00 – 14h00 & 17h30 - 21h00,3.9,250.000 - 350.000 đ/người
+Gọi món Nhật,"Đầu ngõ 4 Hàm Nghi (đối diện HD Mon), Phường Mỹ Đình 2, Quận Nam Từ Liêm",Alo Sushi - Hàm Nghi,10h00 – 22h00,4,100.000 - 300.000 đ/người
+Gọi món Á ,"Số 48 Mã Mây, P.  Hàng Buồn, Q. Hoàn Kiếm",Bò Nướng Era - Mã Mây,10h30 – 22h00 ,4,100.000 - 200.000 đ/người
+Gọi món Việt,"Đầu ngõ 4 Hàm Nghi (đối diện HD Mon), Phường Mỹ Đình 2, Quận Nam Từ Liêm",An Nam Cháo - Hàm Nghi,07h00 – 22h00,4,66.000 - 220.000 đ/người
+Buffet & Gọi món Á - Âu,"Số 19 Đường Phạm Đình Hổ, P. Phạm Đình Hổ,  Q. Hai Bà Trưng",Khách sạn Sunway Hotel Hanoi – The Restaurant,06h00 – 22h00,4.2,150.000 - 350.000 đ/người
+Buffet Nướng Lẩu,"Số 87 Lĩnh Nam, Tòa HH1 Shop House 8, Q.Hoàng Mai",King Fe - Buffet Nướng Lẩu - Lĩnh Nam,11h00-14h30 &17h30-22h30,3.5,169.000 - 298.000 đ/người
+Gọi món Trung Hoa,"101K1 Giảng Võ, P. Cát Linh, Q. Đống Đa",Mỹ Tường Viên - Giảng Võ,10h30 – 22h00,4,200.000 - 350.000 đ/người
+Gọi món Âu,"Tòa B6 The Golden Armor , Phố Nam Cao, P.Giảng Võ, Q.Ba Đình ",VanHoangGroup - L'amour  Steak - Nam Cao   , 06h00- 02h00 sáng hôm sau.,4,100.000 - 500.000 đ/người
+Gọi món Việt (Chuyên Gà),"Số 269 Kim Mã, P. Giảng Võ, Q. Ba Đình",Vua Gà Tươi - Kim Mã,08h00 – 22h00,3.8,100.000 - 200.000 đ/người
+Gọi món Âu & BBQ,"Số 4 Tông Đản, P. Lý Thái Tổ, Q. Hoàn kiếm",Wicked BBQ n’ Bar - Tông Đản,10h00 – 21h00,3.7,250.000 - 300.000 đ/người
+Gọi món Lào,"Tòa Nhà M3-M4, Số 91 Nguyễn Chí Thanh, Q. Đống Đa",Khao Lao - Nguyễn Chí Thanh,11h00 - 14h00 & 18h00 - 21h00,3,200.000 - 300.000 đ/người
+Gọi món Nhật,"Số 173 Yên Lãng, Q. Đống Đa",Let’s Sushi - Yên Lãng,10h00 - 13h45 &17h00 - 21h30,4,200.000 - 300.000 đ/người
+"Gọi món, Buffet Nướng Lẩu Nhật Bản","Số 137 đường Mai Hắc Đế, P. Lê Đại Hành, Q. Hai Bà Trưng",Sakashi - Mai Hắc Đế,11h00 – 14h00 & 17h00 – 22h00,4,250.000 - 500.000 đ/người
+Gọi món Thái,"Số 57 Chùa Láng, P. Láng Thượng, Q. Đống Đa",Mr. Tuktuk - Chùa Láng ,10h00 - 14h00 & 17h00 - 22h00,3.8,140.000 - 150.000 đ/người
+Gọi món Việt,"Lô V6-A05 The Terra An Hưng, đường Nguyễn Thanh Bình, P. La Khê, Q. Hà Đông",Trạng Nguyên - Hà Đông,10h00 -14h00 & 16h30 - 22h00,4.2,150.000 - 250.000 đ/người
+"Buffet Nướng Lẩu, Gọi món Việt","Số 65 Hàm Long, P. Hàng Bài, Q. Hoàn Kiếm",Chef Mama - Lẩu nướng thượng hạng - Hàm Long,10h00 - 14h00 & 17h00 - 22h00,3.9,250.000 - 500.000 đ/người
+Đặc sản núi rừng,"Số BT10-12A KĐT An Hưng, 102 đường Tố Hữu, P. La Khê, Q. Hà Đông",Ẩm Thực Gió Việt - Hà Đông  ,10h00 - 22h00,3.8,150.000 - 350.000 đ/người
+"Buffet Hải Sản, Gọi Món Viêt","Số 08TT2A, Ngõ 622 Phố Minh Khai, P. Vĩnh Tuy, Q. Hai Bà Trưng",Panxin - Minh Khai,10h30 - 14h30 & 16h30 - 22h30,3.8,250.000 - 650.000 đ/người
+Gọi món Huế,"Số 12 Huỳnh Thúc Kháng, P. Thành Công, Q. Đống Đa",Long Hạnh Cơm - Bún bò Huế - Huỳnh Thúc Kháng   ,06h30 -14h00 & 17h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Gọi món Việt ,"Tầng 6, Số 17 Tràng Thi, P.Hàng Trống, Q. Hoàn Kiếm",Affa Restaurant - Tràng Thi,11h30 - 14h00 & 18h00 - 22h00,3.8,150.000 - 250.000 đ/người
+Buffet Lẩu ,"Tầng 3, Số 40, TTTM Aeon Mall Long Biên, Số 27 Cổ Linh, P. Long Biên, Q. Long Biên",Buffet Lẩu Ếch Jiang Hu - Aeon Mall Long Biên,"T2-  T6: 11h00- 22h00 &T7,CN: 10h00 – 22h00",3.9,250.000 - 500.000 đ/người
+"Buffet, Gọi món nướng Nhật Bản","F6 – B05 – 06, Tầng 6, Tòa nhà Lotte Centre, 54 Liễu Giai, P. Cống Vị, Q. Ba Đình",Shogun - Lotte Center,10h30 - 21h00,3.8,300.000 - 380.000 đ/người
+"Buffet, Gọi món Thái","Biệt thự Hải Âu 01-01, Vinhomes Ocean Park, Xã Kiêu Kỵ, H. Gia Lâm",Bếp Thái Koh Yam - Vinhomes Ocean Park ,11h -13h30 & 17h30 - 20h30,4,150.000 - 300.000 đ/người
+Gọi món Việt,"Số 12, Ngõ 1, Phố Dịch Vọng Hậu, P. Dịch Vọng, Q. Cầu Giấy",Kiên Hương Rừng - Dịch Vọng Hậu,10h00 - 24h00,4,150.000 - 250.000 đ/người
+Bufet chay,"Tầng 3, số 109 Đào Tấn, Ngọc Khánh",Buffet chay Love Vegan - Đào Tấn  ,11h00- 14h00 & 18h00 – 20h30,3.8,100.000 - 150.000 đ/người
+Gọi món Việt,"Số 2A, Ngõ 44 Đỗ Quang, P. Trung Hoà, Q. Cầu Giấy",Hồng Thái 3 -  Đặc sản Ngựa các món - Đỗ Quang,10h00 - 22h00,3.8,150.000 - 550.000 đ/người
+Nướng Lẩu Trung Hoa,"Số 15A Hàng Cót, P. Hàng Mã, Q. Hoàn Kiếm,",Lẩu Tứ Xuyên - Hàng Cót,10h30-14h00 & 16h30-21h30,4,200.000 - 300.000 đ/người
+Gọi món Việt,"Số 115 Trung Hòa, P. Yên Hòa, Q. Cầu Giấy",Tiệm Đà Lạt -Trung Hòa,06h00 – 14h30 & 17h00 – 22h00,4,200.000 - 300.000 đ/người
+Gọi món nướng Hàn Quốc,"C4 Giảng Võ, Quận Ba Đình",Meat Plus - Giảng Võ  ,"T2-T7: 11h00 -14h30 & 17h00 - 21h30, CN: 11h00-22h00",4,250.000 - 300.000 đ/người
+"Buffet, Gọi món Thái","Số 26 Vũ Phạm Hàm, P. Trung Hòa, Q. Cầu Giấy",Bếp Thái Koh Yam - Vũ Phạm Hàm,11h00 – 21h00,4.1,150.000 - 300.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"Số 109 đường Nguyễn Hoàng, P. Mỹ Đình 2, Q. Nam Từ Liêm",Shin BBQ - Nguyễn Hoàng,11h00-14h00 & 17h00-22h30,4.4,250.000 - 300.000 đ/người
+Gọi món Lào,"2B Phạm Ngọc Thạch, P. Trung Tự, Q. Đống Đa",Khao Lao – Vincom Phạm Ngọc Thạch ,09h00 - 22h15,3.9,200.000 - 250.000 vnđ/người
+Gọi món Việt,"18 Phan Bội Châu, Q. Hoàn Kiếm",Quán Ăn Ngon - Phan Bội Châu,06h30 - 21h45,4.1,180.000 - 250.000 vnđ/người
+"Buffet, gọi món nướng lẩu Nhật Bản","Số 122 Trung Hòa, P. Yên Hòa, Q. Cầu Giấy",Sumo Yakiniku – Trung Hòa,11h00 - 21h00,3.9,250.000 - 400.000 vnđ/người
+Gọi món Lào,"Tầng 1, Lô A004, Tháp The Manor, đường Mễ Trì, Q.Nam Từ Liêm",Khao Lao – The Manor,10h00 – 22h00,3.9,200.000 - 250.000 vnđ/người
+Gọi món Nhật Bản,"27 Cổ Linh, Tầng 3, TTTM Aeon Mall Long Biên, Q.Long Biên",Sushi Kei - Aeon Mall Long Biên,10h00 - 14h30 và 17h30 - 22h30,3.9,200.000 - 300.000 vnđ/người
+Gọi món Âu (phong cách Pháp),"Số 21 Lê Văn Hưu, Q. Hai Bà Trưng",GRILL66 Steakhouse - Lê Văn Hưu,10h00 – 22h00,3.8,150.000 - 250.000 đ/người
+Gọi món Miền Nam,"Số 96 Chùa Hà, P. Quan Hoa, Q. Cầu Giấy",Hẻm Quán - Chùa Hà,10h30 - 22h00	,3.9,150.000 - 300.000 vnđ/người
+"Buffet, gọi món nướng lẩu Nhật Bản","67 Tô Hiến Thành, Q. Hai Bà Trưng",Sumo Yakiniku - Tô Hiến Thành,11h00 - 14h00 & 18h00 - 22h00,3.9,250.000 - 400.000 vnđ/người
+Gọi món Lẩu 1 người,"Tầng 2 & 3, Số 63A Trần Nhân Tông, Q. Hai Bà Trưng",Trư Ký Hotpot - Trần Nhân Tông,10h30 – 22h30,3.8,100.000 – 200.000 đ/người
+Gọi món Miền Nam,"Số 151 - 161 Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa",Hẻm Quán – Hoàng Cầu,10h30 – 22h30,3.9,150.000 - 300.000 vnđ/người
+"Buffet lẩu, gọi món Nhật Bản","Vincom Center, 54A Nguyễn Chí Thanh, Tầng 5,  P. Láng Thượng, Q. Đống Đa",Daruma – Vincom Nguyễn Chí Thanh,10h30 – 21h30,3.9,250.000 - 400.000 đ/người
+Buffet lẩu Châu Á,"Vincom Nguyễn Chí Thanh, Tầng 5, 54A Nguyễn Chí Thanh, Q. Đống Đa",Hotpot Story – Vincom Nguyễn Chí Thanh ,11h00 - 13h00 & 18h00 - 21h00,3.7,250.000 - 350.000 vnđ/người
+Buffet Lẩu Châu Á,"Số 126 Nguyễn Khánh Toàn, Q. Cầu Giấy",Hotpot Story - Nguyễn Khánh Toàn,11h00 - 13h00 & 18h00 - 21h00,3.7,250.000 - 350.000 vnđ/người
+Buffet Nướng & Lẩu,"số 96 - 96B Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Q. Thanh Xuân",Buffet Sapasa - Nguyễn Huy Tưởng ,11h00 - 13h30 & 18h00 - 21h00,3.5,200.000 - 300.000 đ/người
+"Buffet lẩu, gọi món Nhật Bản","Indochina Plaza Hanoi, Tầng 1, 241 Xuân Thuỷ, Q. Cầu Giấy",Daruma - IPH Xuân Thủy,11h00 – 21h30,3.9,150.000 - 300.000 đ/người
+"Buffet, Gọi món nướng Nhật Bản","TTTM Vincom Phạm Ngọc Thạch, Tầng 5, Số 2 Phạm Ngọc Thạch, Q. Đống Đa",Shogun – Phạm Ngọc Thạch,11h00 - 13h30 & 17h30 - 21h00,3.8,300.000 - 380.000 đ/người
+Gọi món Âu (phong cách Pháp),"Số 54 Trung Hòa, P. Trung Hòa, Q. Cầu Giấy",Botanica - Trung Hòa ,10h00 – 22h00,3.6,150.000 - 250.000 đ/người
+"Buffet, gọi món nướng lẩu Nhật Bản","TTTM Savico Megamall  07 – 09 Nguyễn Văn Linh, Q. Long Biên",Sumo Yakiniku - Savico Megamall,11h00 - 14h00 & 18h00 - 22h00,3.9,250.000 - 400.000 vnđ/người
+Gọi món Miền Nam,"Tầng 2 + 3, số 35 Dịch Vọng Hậu, Q. Cầu Giấy",Phương Nam – Dịch Vọng Hậu,10h30 - 14h00 và 17h30 - 21h30,3.5,150.000 - 180.000 đ/người
+Buffet Lẩu Châu Á,"Tầng 3, TTTM Aeon Mall Long Biên, số 27 đường Cổ Linh, P. Long Biên, Q. Long Biên",Hotpot Story – Aeon Mall Long Biên   ,11h00 - 13h00	và 18h00 - 21h00,3.7,250.000 - 350.000 đ/người
+Gọi món Việt (Chuyên rắn),"Số 10 Ngõ 71 Việt Hưng, Q. Long Biên",Vườn Ẩm Thực Rắn Ráo - Việt Hưng ,09h00 – 22h00 ,3.5,300.000 – 350.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 106 – B24 , Ngõ 41, Phố Đông Tác, Q. Đống Đa",Wang Wang - Quán thịt nướng Hàn Quốc – Đông Tác,11h00 – 13h30 & 17h30 – 21h30,3.2,115.000 - 190.000đ/người
+Gọi món Âu (Chuyên Steak),"24 Trần Hưng Đạo, Q. Hoàn Kiếm",Steakout - Trần Hưng Đạo,10h00 – 22h00,3.7,200.000 – 400.000đ/người
+Buffet nướng lẩu Nhật Bản,"Số 36 Trúc Khê, Q. Đống Đa",Panda BBQ - Trúc Khê,11h00- 13h30	và 18h00 -21h30,3.8,100.000 - 200.000 vnđ/người
+Chuyên món Việt,"KĐT Mỹ Đình Sông Đà, Số 4, TT4, Phố Trần Văn Lại, Q. Nam Từ Liêm",Làng Niêu & Nướng - Trần Văn Lai,10h00 - 14h00 và 17h00 - 22h00,3.8,200.000 – 300.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 63 Kim Đồng, Q. Hoàng Mai",Nhà hàng A1 Restaurant - Kim Đồng,11h00 – 14h00 và 18h00 – 22h00,3.7,180.000 – 200.000 đ/người
+Gọi món Việt,"Số 4 Nguyễn Quyền, Q. Hai Bà Trưng",Hoa Lộc Quán - Nguyễn Quyền,11h00 – 21h30,3.5,170.000 – 250.000 đ/người
+Món Âu - Á,"59 Văn Miếu, Q. Đống Đa",Nhà hàng Koto,"10h:30 - 13h:30, 17h:30 - 20h:30",4,150.000 vnđ/người
+Chuyên Pizza,"Số 36 Nguyên Hồng, Q. Đống Đa",Full House Pizza - Nguyên Hồng,09h00 - 22h00,3.5,100.000 - 200.000 đ/người
+Món Hàn Quốc,"191 Xã Đàn, Q. Đống Đa",Little Korea - Xã Đàn,"10h:30 - 13h:30, 17h:30 - 20h:30",3,100.000 vnđ/người
+Gọi món Trung Quốc,"Số 24A, Tôn Thất Thiệp, Q. Ba Đình",Quận 5 Dining House - Tôn Thất Thiệp,10h30 - 22h30,3.8,350.000 - 450.000 đ/người
+Ẩm thực Nga,"4 Nguyễn Gia Thiều, Q. Hoàn Kiếm",Giấc Mơ Nhỏ Moscow - Nguyễn Gia Thiều ,09h30 - 14h00 và 16h30 - 21h30,3.5,200.000 – 300.000 vnđ/người
+"Món Á Âu, Beer Club","Số 319, Tây Sơn, Quận Đống Đa, Hà Nội",319 Beer Club - Tây Sơn,08h00 – 12h00,4.2,200.000 - 500.000 vnđ/người
+Gọi Món Việt (Chuyên Hải Sản),"Số 652 Đường Láng,Q. Đống Đa",Tadifar – Đường Láng,10h00 - 13h30 & 16h30 - 22h30,3.8,150.000 - 250.000 đ/người
+Chuyên món Việt,"33 Huỳnh Thúc Kháng, Q. Đống Đa",Nhà hàng Ao Ta - Huỳnh Thúc Kháng,11h00 - 13h30 & 17h30 - 20h30,4,250.000 - 300.000 đ/người
+Gọi món Miền Nam,"360 Xã Đàn, Q. Đống Đa",Hẻm Quán – Xã Đàn,10h30 - 14h00 & 17h00 - 22h00,3.9,150.000 - 300.000 vnđ/người
+"Buffet lẩu, gọi món Nhật Bản","Mipec Tower, 229 Tây Sơn, Tầng 1 , Q. Đống Đa",Daruma – Mipec Tower,11h00 – 14h00 & 18h00 – 21h30,3.9,250.000 - 400.000 đ/người
+Chuyên hải sản tươi sống,"Tầng B2-R6-30, TTTM Royal City, Q. Thanh Xuân",Hải Sản Biển Đông - Royal City ,10h00 - 21h00,4,250.000 - 400.000 vnđ/người
+Gọi món Việt,"Số 5 Ngõ Núi Trúc (Ngõ 57 Cũ), Phố Núi Trúc, Q. Ba Đình",Vietnam 938 - Ngõ Núi Trúc,11h00 - 13h30 & 17h00 -  22h00,3.8,220.000 - 300.000 đ/người
+Gọi món Việt (Chuyên bò tơ),"Tầng 1, Tòa nhà CT2A, KĐT Nam Cường, Ngõ 234 Hoàng Quốc Việt, Q. Bắc Từ Liêm",Bò Tơ Quán Mộc - Hoàng Quốc Việt,10h30 - 13h30 & 17h30 - 21h30,3.9,180.000 – 220.000 đ/người
+Chuyên hải sản tươi sống,"Số 60 Vũ Trọng Khánh, P. Mộ Lao, Q. Hà Đông",Thế Giới Hải Sản - Vũ Trọng Khánh,10h30 – 22h00,4.1,400.000 - 600.000 vnđ/người
+Buffet Lẩu,"Biệt thự 2A, Ngõ 521 Cổ Nhuế 2, Quận Bắc Từ Liêm",Buffet Cô Lô Nhuê - Lẩu Hải Sản 2 Ngăn - Cổ Nhuế 2,10h30-13h30 & 18h00-21h30,3.5,120.000 – 220.000 đ/người
+Chuyên món Trâu,"Số 145 Bùi Thị Xuân, P. Bùi Thị Xuân, Q. Hai Bà Trưng",Trâu Ngon Quán - Bùi Thị Xuân,10h30 – 14h00 & 17h30 – 22h00,4,200.000 – 250.000 đ/người
+Ẩm thực Việt,"Khu 31Ha, Ngõ 237 Ngô Xuân Quảng, Xã Trâu Quỳ, Huyện Gia Lâm",Kim Thủy Quán - Ngô Xuân Quảng    ,09h00-22h00,3.6,200.000 - 250.000 đ/người
+Gọi món Âu - Á,"Tầng 9, Số 27 Hàng Bè, P. Hàng Bạc, Q. Hoàn Kiếm",Cloud Nine - Hàng Bè ,11h30 – 21h45,4.5,250.000 - 500.000 đ/người
+Gọi món Việt,"BT3, Ngõ 114 Trung Kính, Yên Hòa, Q. Cầu Giấy",Ngan Anh Khoai ,06h00 - 21h00,3.6,99.000 - 169.000 đ/người
+Gọi món  (Chuyên hải sản),"Số 33 Đường Nguyễn Văn Huyên, P. Quan Hoa, Q. Cầu Giấy, ",Ốc An - Hải Sản 3 Miền - Nguyễn Văn Huyên,10h00 – 21h30,3.8,150.000 - 250.000 đ/người
+Gọi món Việt ,"Km5+200, đường Lê Trọng Tấn, An Khánh, H. Hoài Đức",Hobby - Thiên đường Bảo Sơn,10h00 – 22h00,3.8,220.000 - 350.000 đ/người
+"Gọi món Á, Âu","Tầng 4, khách sạn Grand Vista Hanoi, 146 Giảng Võ, P. Giảng Võ, Q. Ba Đình",Déli - Grand Vista Hanoi ,11h30 - 14h00 ,4,200.000 - 800.000 đ/người
+"Gọi món Việt (chuyên chim, cá tự nhiên)"," Số 181 Yên Lãng, P.Thịnh Quang, Q. Đống Đa",Chim trời - Cá sông Trình Lưu - Yên Lãng ,10h00-15h00 & 17h00 – 22h00,3.6,150.000 - 300.000 đ/người
+Buffet lẩu Hongkong,"Tầng 1 - TTTM Lotte Mart - Số 229 Tây Sơn, Q. Đống Đa",IPOT - Lẩu Hồng Kông - Lotte Mart Tây Sơn,10h30 – 14h00 & 18h00 – 22h00,3.7,200.000 - 300.000 đ/người
+Gọi món Việt (chuyên món Huế),"Số 21 Phan Bội Châu, P. Cửa Nam, Q. Hoàn Kiếm",Vỹ Dạ - Phan Bội Châu,09h00 – 15h00 & 17h00 – 22h00,3.6,100.000 - 200.000 đ/người
+"Buffet hải sản, lẩu & nướng","Tầng 2 – Tòa nhà D’office, Thành Thái, Tổ 28, P. Dịch Vọng, Q. Cầu Giấy, Hà Nội",London Buffet Hải Sản Lẩu Nướng - Thành Thái,11h00 - 13h00 & 18h00 - 21h00,3.9,300.000 - 500.000 đ/người
+Gọi món Nhật Bản,"Tòa nhà N04 Hoàng Đạo Thúy, Q. Cầu Giấy",Tokyo Deli - Hoàng Đạo Thúy,T2-T6: 11h00 – 21h30 ,3.8,160.000 - 250.000 đ/người
+Hải sản tươi sống,"Số 5 Trần Kim Xuyến, P. Yên Hòa, Q. Cầu Giấy",Phố Hải Sản - Trần Kim Xuyến  ,10h00 – 22h30,3.9,200.000 - 500.000 đ/người
+Gọi món Âu ,"Số 50 Ngõ 36 Giang Văn Minh, Q. Ba Đình",Galleon Pub & Dining - Giang Văn Minh,07h00 -  02h00 (sáng hôm sau),3.6,150.000 - 250.000 đ/người
+Gọi món Việt,"23 Lê Thánh Tông, P. Phan Chu Trinh, Q. Hoàn Kiếm",Trường Thịnh - Lê Thánh Tông,10h00 – 15h00 & 16h30 – 22h00,3.9,200.000 - 300.000 đ/người
+Buffet Nướng lẩu Hải sản,"Ngách 1 ngõ 233 Tô Hiệu, Q. Cầu Giấy",OHCHA - Tô Hiệu   ,11h00 – 14h00 & 17h30 – 22h00,3.8,200.000 - 300.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"T305, Tầng 3, TTTM Aeon Mall, số 27 đường Cổ Linh, Q. Long Biên",King BBQ Buffet - Aeon Mall Long Biên  ,10h00 - 22h00,4,250.000 - 350.000 đ/người
+Chuyên Hải sản tươi sống,"16 Phạm Tuấn Tài, P. Dịch Vọng Hậu, Q. Cầu Giấy",Hải Sản Trung Dũng – Phạm Tuấn Tài,11h00 - 21h30,4,300.000 - 450.000 đ/người
+Chuyên hải sản tươi sống,"794 Đường Láng, Q. Đống Đa",Hải Sản Biển Đông - 794 Đường Láng,10h30 - 21h00	,3.8,250.000 - 400.000 vnđ/người
+Gọi món Việt,"C101 Ngõ Thái Hà, P. Láng Hạ, Q. Đống Đa", +84.Food - Ngõ Thái Hà  ,06h30 – 21h30,3.6,80.000 - 150.000 đ/người
+"Buffet Lẩu, Gọi món Việt - Thái","Số 204 Nguyễn Trãi, Q. Thanh Xuân",Food House - Nguyễn Trãi,11h00 -13h00 và 17h30 - 20h30,4,150.000 - 250.000 đ/người
+Chuyên Burger & Pizza,"289 Kim Mã, P. Giảng Võ, Q. Ba Đình",Maxi Burger - Kim Mã ,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Buffet Lẩu,"Số 106 K11A Nguyễn Hiền, P. Bách Khoa, Q. Hai Bà Trưng",Lẩu Laksa 38 - Nguyễn Hiền,10h30 - 14h00 & 17h00 - 22h00,3.8,100.000 - 170.000 đ/người
+Chuyên hải sản tươi sống,"3 Trần Quốc Toản , Q. Hoàn Kiếm",Vựa Hải Sản Biển Đông - Trần Quốc Toản,09h30 – 21h30,4,250.000 - 400.000 vnđ/người
+Chuyên Burger & Pizza,"Số 1 Văn Miếu, Q. Ba Đình",Maxi Burger - Văn Miếu,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Chuyên Burger & Pizza,"28 Đại Cổ Việt, Q. Hai Bà Trưng",Maxi Burger - Đại Cồ Việt,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+"Gọi món Âu, Á"," TTTM Times City, 458 Minh Khai, Số 6, đường số 9, B1",Al Fresco’s - Times City,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+Chuyên Burger & Pizza,"Số 168 Trung Kính, P. Yên Hoà, Q. Cầu Giấy",Maxi Burger - Trung Kính,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+"Gọi món Việt (chuyên Gà, Cá)","Số 2 Ngõ 20 Láng Hạ, P. Láng Hạ, Q. Đống Đa",Đệ Nhất Quán – Láng Hạ ,10h00 - 22h00,3.8,150.000 - 200.000 đ/người
+Gọi món Hàn Quốc (Chuyên Gà),"250 Hàng Bông, P. Cửa Nam, Q. Hoàn Kiếm",Don Chicken - Hàng Bông,11h00 – 22h00,3.7,150.000 – 300.000 đ/người
+Ẩm thực Việt,"11V Trần Phú, P. Điện Biên, Q. Đống Đa",Lim Dim Restaurant - Trần Phú ,10h30-14h30 & 17h30-05h00 (sáng hôm sau),3.7,200.000 - 300.000 đ/người
+Gọi món & Vườn Bia,"Số 168 Trường Chinh, P. Khương Thượng , Q. Đống Đa",Vườn Bia M5+ - Trường Chinh,10h00 – 22h00,3.9,250.000 - 500.000 đ/người
+"Buffet Lẩu, Gọi món Việt - Thái","Số 227 Tô Hiệu, P. Dịch Vọng, Q. Cầu Giấy",Food House - Tô Hiệu ,11h00 -13h00 và 17h30 - 20h30,4,150.000 - 250.000 đ/người
+"Gọi món Âu, Beefsteak"," Lô 22C, Khu biệt thự A10, Nguyễn Chánh, P. Yên Hòa, Q. Cầu Giấy",Joy Plus - Nguyễn Chánh,11h00 – 21h30,3.8,400.000 – 600.000 đ/người
+Gọi món (Món ăn trên đĩa nóng),"Gian hàng T257, Tầng 2 TTTM Aeon Mall, P. Dương Nội, Q. Hà Đông",Hotto - Aeon Mall Hà Đông,"T2 – T6: 09h30 – 21h30, T7 - CN: 09h00 – 22h00",3.8,80.000 - 150.000 đ/người
+Gọi món Việt (Món đường phố),"Gian hàng T167, Tầng 1 TTTM Aeon Mall, P. Dương Nội, Q. Hà Đông",VietStreet - Aeon Mall Hà Đông,"T2 – T6: 09h30 – 21h30, T7 - CN: 09h00 – 22h00",3.8,120.000 - 180.000 đ/người
+Gọi món Việt,"Kiot số 1 chung cư A2 KĐT Mỹ Đình 1, Nguyễn Cơ Thạch, P. Cầu Diễn, Q. Nam Từ Liêm",Hiroshima Lẩu Nấm Thiên Nhiên - Nguyễn Cơ Thạch,10h00 - 14h00 & 16h00 - 21h30,3.7,200.000 - 250.000 đ/người
+Buffet lẩu hơi & buffet lẩu nướng,"123-C5 Tô Hiệu, P. Nghĩa Tân, Q. Cầu Giấy",Won Won - Tô Hiệu   ,11h00 – 23h00 ,3.6,100.000 - 200.000 đ/người
+"Gọi món, Buffet lẩu nướng","Mặt sau toà nhà Golden Palace, số 54 Lê Văn Lương, P. Nhân Chính, Q. Thanh Xuân",668 BBQ & Hotpot - Lê Văn Lương,10h30 - 14h00 & 18h00 - 22h00,3.7,200.000 - 300.000 đ/người
+"Gọi món, Buffet lẩu nướng","Số 2B Trần Thánh Tông, Q.Hai Bà Trưng, Hà Nội",668 BBQ & Hotpot - Trần Thánh Tông,10h30 - 14h00 và 18h00 - 22h00,3.7,200.000 - 300.000 đ/người
+Gọi món Việt,"Lô 21-TT1A Khu liền kề, Ngõ 622 Minh Khai, P. Vĩnh Tuy, Q. Hai Bà Trưng",1977 - Minh Khai ,10h30 - 22h00,3.7,100.000 - 300.000 đ/người
+Gọi món Việt (chuyên cá lăng sông Đà),"Liền kề 11B-40, KĐT Mỗ Lao, Q. Hà Đông",Lăng+ - KĐT Mỗ Lao,10h30 - 14h00 & 17h30 - 21h00,3.6,150.000 - 200.000 đ/người
+Gọi món Việt ,"181 – 183 Nguyễn Tuân, P. Nhân Chính, Q. Thanh Xuân",Dê Việt - Bảo Dương Viên - Nguyễn Tuân ,10h00 – 14h00 & 17h30 – 22h00,4,150.000 - 180.000 đ/người
+Buffet lẩu nướng hải sản,"Tầng 4 TTTM Mê Linh Plaza Hà Đông, Tô Hiệu, Q. Hà Đông ",Buffet Lẩu Nướng Hải Sản BBQHome - Melinh Plaza ,10h30 – 14h00 &18h00 – 22h00,4,350.000 - 450.000 đ/người
+"Gọi món Á, Âu","Số 17 Đường  Đoàn Trần Nghiệp, P. Lê Đại Hành, Q. Hai Bà Trưng",Hẻm 8 - Đoàn Trần Nghiệp ,08h00 – 22h30 ,3.8,150.000 - 250.000 đ/người
+Buffet tự chọn ,"Số 52 Phố Miếu Đầm, P. Mễ Trì, Q. Nam Từ Liêm",Buffet Hải Sản Hương Sen - Miếu Đầm  ,11h00 – 14h00 & 18h00 – 21h30 ,4.5,320.000 - 350.000 đ/người
+Gọi món Ý (Chuyên Pizza),"Tầng 2, L2-11, Vincom Center Metropolis, 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình",Al Fresco's - Vincom Metropolis Liễu Giai,11h00 - 21h00,4.2,180.000 - 250.000 đ/người
+Gọi Món Nhật Bản,"1F, A10, KĐT Nam Trung Yên, P. Yên Hoà, Q. Cầu Giấy",Narita - KĐT Nam Trung Yên ,17h00 – 22h00,4,350.000 - 500.000 đ/người
+Gọi món Trung Hoa,"Lô 31, số 35 phố Lê Văn Thiêm, P. Thanh Xuân Trung, Q. Thanh Xuân",Thiên Vương Quán - Lê Văn Thiêm   ,10h30 – 14h00 & 17h30 – 21h00,4,100.000 - 200.000 đ/người
+Buffet Nướng Lẩu,"Số 915 Hồng Hà, P. Chương Dương, Q. Hoàn Kiếm",Wang Wang - Hồng Hà,10h00 – 03h00 sáng hôm sau,4,100.000 - 200.000 đ/người
+Buffet & Gọi Món,"128 Đường Nguyễn Khoái , P. Thanh Lương, Q. Hai Bà Trưng",Buffet Lẩu TacaTaca - Nguyễn Khoái,10h00 – 23h00 ,3.5,150.000 - 250.000 đ/người
+"Gọi món, Buffet lẩu nướng","Số 128 Vũ Phạm Hàm, Q.Cầu Giấy",668 BBQ & Hotpot - Vũ Phạm Hàm,10h30 - 14h00 và 18h00 - 22h00,4.2,200.000 - 300.000 đ/người
+Gọi món miền Nam,"Số 8A Hàng Tre, P. Lý Thái Tổ, Q. Hoàn Kiếm",Góc Phố Sài Gòn - Hàng Tre,11h00 – 22h00 ,4,150.000 - 300.000 đ/người
+Gọi món Việt,"Tầng 3 AEON Mall Long Biên, 27 Cổ Linh",Ngon Phố - Aeon Mall,"10h:30 - 13h:30, 17h:30 - 20h:30",4,180.000 - 250.000 vnđ/người
+"Gọi món, buffet lẩu","Số 21 Ngũ Xã, P. Trúc Bạch, Q. Ba Đình",Vua Hải Sản Đường Phố - Ngũ Xã,10h30 – 13h30 & 17h30 - 22h30,3.6,100.000 - 300.000 đ/người
+Gọi món Âu - Á,"123 K1 Giảng Võ, Q. Ba Đình",Pepperonis - Giảng Võ,11h00 - 21h00,3.8,130.000 - 151.000 đ/người
+"Gọi món Âu, Á","62 Xuân Diệu, Q. Tây Hồ",Al Fresco’s - Xuân Diệu,11h00 - 21h00,4,185.000 - 395.000 đ/người
+Buffet nướng lẩu,"Số 3 Dịch Vọng Hậu, P. Dịch Vọng Hậu, Q. Cầu Giấy",Habit BBQ - Dịch Vọng Hậu,10h30 - 13h00 & 17h30 - 21h00,4,150.000 - 330.000 vnđ/người
+Gọi món Âu - Á,"Số 374 Nguyễn Văn Cừ, Q. Long Biên ",Pepperonis - Nguyễn Văn Cừ,11h00 - 21h00,3.8,130.000 - 150.000 đ/người
+"Gọi món Âu, Á","Vincom Long Biên, Tầng 4, Gian 402B",Al Fresco’s - Vincom Long Biên,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+"Gọi món Âu, Á","114B2 Nguyễn Chí Thanh, Q. Ba Đình",Pepperonis - Nguyễn Chí Thanh,11h00 - 21h00,3.8,130.000 - 150.000 đ/người
+"Gọi món Âu, Á","106 Trần Thái Tông, Q. Cầu Giấy",Al Fresco’s - Trần Thái Tông,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+"Gọi món Âu, Á","Vincom Nguyễn Chí Thanh, L5-16-17 ",Al Fresco’s - Vincom Nguyễn Chí Thanh,11h00 - 21h00,4.2,150.000 - 250.000 đ/người
+"Gọi món Á, Âu","23 Nguyễn Đình Chiểu, Q. Hai Bà Trưng",Sứ Bia - Nguyễn Đình Chiểu,10h00 - 22h00,4.1,270.000 - 300.000 đ/người
+Gọi món Hong Kong,"13 Hai Bà Trưng, Tầng 12 Sun City",Hải Cảng - Hai Bà Trưng,9h00 - 14h00 & 16h30 - 21h30,4,300.000 - 500.000 vnđ/người
+Gọi món Lào,"Số 9 Nhà Chung, Q. Hoàn Kiếm",Khao Lao – Nhà Chung,09h00 - 22h15,3.9,200.000 - 250.000 vnđ/người
+Gọi món Nhật Bản,"65 Triệu Việt Vương, Q. Hai Bà Trưng",Shinbashi – Triệu Việt Vương,10h00 – 14h00 & 17h00 – 22h30,4.2,300.000 - 1.500.000 đ/người 
+Buffet nướng lẩu Hàn Quốc,"TTTM Mipec Tây Sơn, Tầng 1, 229 Tây Sơn, Q. Đống Đa",King BBQ Buffet Mipec – Tây Sơn ,10h00 - 22h00,4,250.000 - 350.000 đ/người
+Gọi món Việt,"Số 35 Nhà Chung, Q. Hoàn Kiếm",Bếp Xuka - Nhà Chung,11h00 - 13h00 & 18h00 - 21h00,3.7,150.000 – 250.000 đ/người
+Gọi món Việt - Bia thủ công,"322 Trần Khát Chân, P. Đống Mác, Q. Hai Bà Trưng",Bia Sành Điệu - Trần Khát Chân,10h00 - 22h00,3.8,150.000 - 250.000 đ/người
+"Buffet Nướng, Gọi món Hàn Quốc","Tòa M2 Vicom metropolis 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình",Jeonbok - Vincom Metropolis Liễu Giai,11h00 – 22h30,4.2,600.000 - 700.000 đ/người
+"Buffet Nướng, Gọi món Hàn Quốc","Số 32 Hàm Long, P. Hàng Bài, Q. Hoàn Kiếm",Jeonbok - Hàm Long,11h00 – 22h30,4.2,600.000 - 700.000 đ/người
+"Gọi Món, Buffet Lẩu Hải Sản","Số 20 Bát Đàn, P. Hàng Bồ, Q. Hoàn Kiếm",Ẩm Thực Hoàng - Bát Đàn,09h00 – 22h30,3.8,150.000 - 300.000 đ/người
+Buffet lẩu Châu Á,"27 Lê Văn Lương, Tầng 5,  TTTM Center Point, Q. Thanh Xuân",Hotpot Story - Center Point ,11h00 - 13h00 & 18h00 - 21h00,3.7,250.000 - 350.000 vnđ/người
+Buffet Nướng Lẩu,"Số 109 Nguyễn Hoàng, P. Mỹ Đình, Q. Nam Từ Liêm ",King Fe - Buffet Nướng Lẩu - Nguyễn Hoàng,11h00 - 14h30 & 17h30 - 22h30,3.5,169.000 - 298.000 đ/người
+Gọi món Việt,"Số 17A Đường Nguyễn Văn Lộc, P. Mộ Lao, Q. Hà Đông ",Quê Hương - Nguyễn Văn Lộc  ,10h30 – 21h30,4,100.000 - 180.000 đ/người
+Gọi món Âu,"16 Phố Quảng An, P. Quảng An, Q. Tây Hồ",El Vino Wine & Restaurant - Quảng An,10h00 – 21h30,4.1,250.000 - 600.000 đ/người
+"Gọi món, Buffet Nhật Bản","Số 6 Kim Đồng, Q.Hoàng Mai",Tamaya Japanese Restaurant - Kim Đồng ,10h00 - 14h00 và 17h00 - 22h00,4,140.000 - 500.000 đ/người
+Gọi món Nhật Bản,"Shophouse 35-36 Nguyễn Chánh - Khu đô thị mới Nam Trung Yên, P. Trung Hòa, Q. Cầu Giấy",Wabi Premium Japanese Restaurant - Nguyễn Chánh,10h00 - 14h00 & 17h00 - 22h00,4,700.000 - 1.000.000 đ/người
+"Gọi món, buffet nướng lẩu Hàn Quốc"," 103, D5C Trần Thái Tông, Quận Cầu Giấy",Yukssam BBQ - Trần Thái Tông      ,11h00 – 14h00; 17h30 – 22h00,4,200.000 - 400.000 đ/người
+Chuyên lẩu,"Số 50 Nguyễn Chí Thanh, Láng Thượng, Q. Đống Đa",Hobby - Nguyễn Chí Thanh,09h00 – 20h00,3.6,150.000 - 250.000 đ/người
+Gọi món Việt ,"Số 30 Đường Phan Chu Trinh, Q. Hoàn Kiếm",Dê núi - Lươn đồng - Phan Chu Trinh,10h00 – 23h00,3.8,150.000 - 250.000 đ/người
+Gọi món Âu,"Số 51 Lý Thường Kiệt , P. Trần Hưng Đạo , Q. Hoàn Kiếm",Teddy’s America Grill House - Lý Thường Kiệt,07h00 – 22h00,4,250.000 - 500.000 đ/người
+Gọi món việt,"Số 15 Đào Duy Từ, Q. Hoàn Kiếm",Gạo Restaurant - Đào Duy Từ,10h30 - 23h00,3.5,150.000 - 300.000 đ/người
+Món Việt (Lẩu cháo chim),"Số 30 Đại Cồ Việt, P. Lê Đại Hành, Q. Hai Bà Trưng",Lu Quán - Đại Cồ Việt,10h00 - 22h00,3.8,100.000 - 180.000 đ/người
+Gọi món Việt (chuyên lẩu),"Số 1B Hàm Long, P. Phan chu Chinh, Q. Hoàn Kiếm", Lẩu Cua Đồng - Hàm Long,07h00 - 23h00,3.6,150.000 - 250.000 đ/người
+Chuyên món chả cá,"Số 57 Đường Thành, P. Cửa Đông, Q. Hoàn Kiếm",Chả Cá Lang Liêu - Đường Thành,11h00 – 21h30,3.9,150.000 - 250.000 đ/người
+Gọi món Việt,"Cổng Số 7 - Khu Biệt Thự Trung Tâm Hội Nghị Quốc Gia, Đường Miếu Đầm, P. Mễ Trì, Q. Nam Từ Liêm,",NCC - Trung tâm Hội nghị Quốc gia,08h00 - 22h00,4.5,400.000 - 800.000 đ/người
+Chuyên cơm gà,"Số 1 ngõ 3B Đặng thái Thân, Q. Hoàn Kiếm",Chicken Now - Cơm gà Singapore ,08h00 - 22h00,3.5,35.000 - 70.000 đ/người
+Buffet nướng lẩu Nhật Bản  ,"T246, Tầng 2 TTTM Aeon Mall, Q. Hà Đông",Yakimono - Aeon Mall Hà Đông,11h00 - 13h30 và 18h00 - 21h30,3.8,260.000 - 300.000 đ/người
+Chuyên Combo nướng lẩu,"Ngõ 195 Phố Trần Cung , Q. Bắc Từ Liêm",Combo Lẩu Nướng OriFood M2C - Trần Cung  ,09h00 - 21h00,3.6,100.000 - 200.000 đ/người
+Gọi món Âu - Á,"Tầng 1M, HH01, phố Tố Hữu, P. Vạn Phúc, Q.Hà Đông",Lounge @M - Tố Hữu,06h00 – 21h30,4,200.000 - 350.000 đ/người
+Gọi món việt," Lô 20 TT5B Tây Nam Linh Đàm, Hoàng Mai",Tây Vương Quán – Đệ Nhất Gà Ngon – Linh Đàm ,09h00 - 22h00,4.2,120.000 - 150.000 đ/người
+Chuyên món Âu Mỹ,"Số 1 Văn Miếu, Q. Ba Đình",Taco Zone - Văn Miếu ,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Gọi món lẩu hơi,"Số 25 Nguyễn Thị Định, Q.  Cầu Giấy",Steam Box - Nguyễn Thị Định,10h30 – 14h00 & 17h00 – 22h00,3.5,180.000 - 300.000 đ/người
+Chuyên món Âu Mỹ,"Số 168 Trung Kính, P. Yên Hoà, Q. Cầu Giấy",Taco Zone - Trung Kính,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Chuyên lẩu nướng,"Số 9 Nguyễn Trung Trực, P. Nguyễn Trung Trực, Q. Ba Đình",Lẩu Nướng Cô Quỳnh - Nguyễn Trung Trực,18h00 – 24h00,3.5,100.000 - 200.000 đ/người
+Chuyên gà tươi & gà nướng lu,"Số 63, LK 6A, Nguyễn Văn Lộc, P. Mộ Lao, Q. Hà Đông, Hà Nội",Vua Gà Tươi Mạnh Hoạch - Gà Nướng Lu   ,10h00 - 21h30,3.6,150.000 - 200.000 đ/người
+Chuyên lẩu nướng,"Số 20B Gầm Cầu, P.Đồng Xuân, Q. Hoàn Kiếm",Lẩu Nướng Cô Quỳnh - Đồng Xuân      ,18h00 – 24h00,3.5,100.000 - 200.000 đ/người
+Chuyên món vịt & món nhậu,"Số 7A Ngõ 58 Nguyễn Khánh Toàn, Q. Cầu Giấy",Vịt Cỏ 1991 - Nguyễn Khánh Toàn ,10h00 - 23h00,3.5,150.000 - 200.000 đ/người
+Chuyên phở & lẩu,"Số 90 Trần Điền, P. Định Công, Q. Hoàng Mai",Phở Nam Nhất - Trần Điền,06h30 - 23h30,3.5,100.000 - 150.000 đ/người
+Chuyên món gà & lẩu,"Số 6, ngõ 1, Khu Hà Trì 1,  P. Hà Cầu, Q. Hà Đông, Hà Nội",Bếp Bà Lan - Hà Trì,08h00 – 22h00,3.5,80.000 - 150.000 đ/người
+Chuyên Dimsum & món Việt,"Số 43 ngõ 158 Ngọc Hà, Q.Ba Đình ",Dimsum Ngọc Lục Bảo - Ngọc Hà  ,08h00 - 20h00,3.5,80.000 - 150.000 đ/người
+Chuyên cơm văn phòng,"Số 168 Trung Kính, P. Yên Hoà, Q. Cầu Giấy",Rice Home - Trung Kính  ,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Chuyên cơm văn phòng,"Số 28 Đại Cổ Việt, Q. Hai Bà Trưng, Hà Nội",Rice Home - Hai Bà Trưng,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Chuyên Pizza,"Số 168 Trung Kính, P. Yên Hoà, Q. Cầu Giấy",Pizza Home - Trung Kính ,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Chuyên cơm văn phòng,"Số 1 Văn Miếu, Q. Ba Đình",Rice Home - Văn Miếu,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Gọi món Việt – Chuyên Dê,"Số 11, Ngõ 290  Kim Mã,  P. Kim Mã, Q. Ba Đình",Lẩu Dê Khô Thu Béo - Kim Mã ,09h00 – 22h00 ,3.8,100.000 - 150.000 đ/người
+Gọi món Việt,Đường Võ Nguyên Giáp – Thạch Lỗi – Thanh Xuân – Sóc Sơn  ,Tre Vàng - Võ Nguyên Giáp,07h00 - 22h00,3.5,150.000 – 200.000 đ/người
+Chuyên Pizza,"Số 1 Văn Miếu, Q. Ba Đình",Pizza Home - Văn Miếu,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+Gọi món Việt (Chuyên dê - gà đồi),"M09 Khu A đô thị mới Dương Nội, P. La Khê, Q. Hà Đông ",GP Cỗ Quán - KĐT Dương Nội,10h00 – 14h00 & 17h00 – 22h00,3.8,200.000 – 300.000 đ/người
+"Gọi Món, Buffet Lẩu Hải Sản","Số 259A Tô Hiệu, P. Dịch Vọng, Q,Cầu Giấy",Ẩm Thực Hải Dương Xanh - Tô Hiệu  ,10h00 - 22h30,3.8,250.000 – 400.000đ/người
+"Tổ chức sự kiện, Buffet","Cung thể thao dưới nước, đường Lê Đức Thọ",Nhà Hàng Aquaria - Mỹ Đình,"10h:30 - 13h:30, 17h:30 - 20h:30",3,239.000 - 329.000 vnđ/người
+Gọi món Việt,"193 Cầu Diễn, P. Phúc Diễn, Q. Bắc Từ Liêm",Thắng Còi - Trâu Giật Tây Bắc - Cầu Diễn ,10h00 – 22h00,3.7,200.000 – 300.000đ/người
+Café và món ăn nhẹ Á Âu,"6 Hội Vũ, Q. Hoàn Kiếm",The Hanoi Social Club,"10h:30 - 13h:30, 17h:30 - 20h:30",3,190.000 – 220.000 vnđ/người
+"Café, Cocktail, Gọi món Á – Âu","24 Tông Đản, Q. Hoàn Kiếm",Nhà Hàng Cosa Nostra,"10h:30 - 13h:30, 17h:30 - 20h:30",4,100.000 – 130.000 vnđ/người
+Gọi món Á (Chuyên rượu vang),"Số 81 Quán Thánh, P. Quán Thánh, Q. Ba Đình ",81QT Restaurant - Quán Thánh,10h00 – 21h00,3.9,250.000 – 300.000 đ/người
+Chuyên cơm văn phòng,"Số 289 Kim Mã, P. Giảng Võ, Q. Ba Đình",Rice Home - Kim Mã ,09h00 - 22h00,3.5,100.000 - 150.000 đ/người
+"Cơm Hàn Quốc, Gọi món Lẩu","Số 9, Ngõ 233 Tô Hiệu, Q. Cầu Giấy",Chubin Brothers – Tô Hiệu,11h00 – 13h00 & 18h00 – 21h00,3.8,80.000 – 180.000 đ/người
+Chuyên món nhậu Việt,"3 ngõ 192 Thái Thịnh, Q. Đống Đa",Nhậu Quán 192 - Thái Thịnh,"10h:30 - 13h:30, 17h:30 - 20h:30",3.5,200.000 vnđ/người
+Món Việt đa dạng,"281 Đội Cấn, Q. Ba Đình",Vườn Treo Pacific - Đội Cấn,"10h:30 - 13h:30, 17h:30 - 20h:30",3,100.000 – 200.000 vnđ/người
+Chuyên món Hàn Quốc,"30A Thợ Nhuộm, Q. Hoàn Kiếm",Gimbap House - Thợ Nhuộm,08h00 - 22h00,3,100.000 vnđ/người
+Chuyên hải sản,"42 Ngõ 12 Nghĩa Dũng, Quận Ba Đình",Nhà Hàng Hải Sản Hương Lan,"10h:30 - 13h:30, 17h:30 - 20h:30",3,130.000 - 150.000 vnđ/người
+Chuyên chả cá,"171 Thái Hà, Q. Đống Đa",Chả Cá Lão Ngư - Thái Hà ,"10h:30 - 13h:30, 17h:30 - 20h:30",3,120.000 – 145.000 vnđ/người
+Gọi món Việt,"52 Tôn Đức Thắng, Q. Đống Đa",Nhà Hàng FA 1975,"10h:30 - 13h:30, 17h:30 - 20h:30",3,200.000 - 230.000 đ/người
+Chuyên chả cá,"14 Lô 2C Trung Hòa, Q. Cầu Giấy",Chả Cá Anh Vũ - Trung Hòa,"10h:30 - 13h:30, 17h:30 - 20h:30",3,150.000 – 180.000 vnđ/người
+Chuyên món gà,"76 Nguyễn Chí Thanh, Q. Đống Đa",BBQ Chicken - Nguyễn Chí Thanh,"10h:30 - 13h:30, 17h:30 - 20h:30",3,70.000 – 100.000 vnđ/người
+Chuyên món gà,"D9-11A/B1 Times City, 458 Minh Khai",BBQ Chicken – Times City,"10h:30 - 13h:30, 17h:30 - 20h:30",3,70.000 – 100.000 vnđ/người
+Chuyên món nấm,"76 Lò Đúc, Q. Hai Bà Trưng",Nấm Việt - Lò Đúc ,"10h:30 - 13h:30, 17h:30 - 20h:30",3,80.000 – 100.000 vnđ/người
+Chuyên chả cá,"120 K1 Giảng Võ, Q. Ba Đình",Chả Cá Anh Vũ - Giảng Võ,"10h:30 - 13h:30, 17h:30 - 20h:30",3,150.000 – 180.000 vnđ/người
+Gọi món Âu (Chuyên Steak Pháp),"T248, Tầng 2, TTTM Aeon Mall, Q. Hà Đông",Le Monde Steak - Aeon Mall Hà Đông,11h00 - 14h00 & 17h00 - 21h30,4,150.000 - 250.000 đ/người
+Chuyên Pizza,"Số 6 Đào Duy Từ, Q. Hoàn Kiếm",Full House Pizza - Đào Duy Từ,09h00 - 22h00,3.5,100.000 - 200.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"GH - L5 - 01, Tòa A Vincom Center Bà Triệu, Q. Hai Bà Trưng",Le Monde Steak - Vincom Bà Triệu ,11h00 - 14h00 & 17h00 - 21h30,4,150.000 - 250.000 đ/người
+Chuyên món ngan,"Số 77 Hai Bà Trưng, P. Cửa Nam, Q. Hoàn Kiếm",Khoa Ngan Xưa và Nay - Hai Bà Trưng,08h00 - 22h00,3.8,200.000 - 300.000 đ/người
+Gọi món Việt,"165A Phùng Hưng, P. Cửa Đông, Q. Hoàn Kiếm,",Tùng Lẩu Ngõ Trạm - 165A Phùng Hưng,10h30 -  03h00 sáng hôm sau,4,100.000 - 350.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"T3-03, Tầng 3, TTTM Aeon Mall, Q. Long Biên",Monde Steak - Aeon Mall Long Biên,11h00 - 14h00 & 17h00 - 21h30,4,150.000 - 250.000 đ/người
+"Gọi món, buffet Nhật Bản","Tầng 2, Số 08 Tràng Thi, Q. Hoàn Kiếm",iSushi - Tràng Thi,11h00 - 13h00 & 17h30 - 21h00,4.5,350.000 - 550.000 đ/người
+Gọi món Việt,"Tầng 20, Toà nhà 789, Số 147 Hoàng Quốc Việt, P. Nghĩa Đô, Q. Cầu Giấy",789 - Hoàng Quốc Việt,09h30 - 22h00,4.3,150.000 - 250.000 đ/người
+Gọi món Việt,"Số 12 Hàng Điếu, Q. Hoàn Kiếm",Bếp Prime - Hàng Điếu ,10h30 - 23h00,4,500.000 - 700.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"L4-04A, Tầng 4, Tòa nhà A,B, TTTM Vincom Trần Duy Hưng, Q. Cầu Giấy",Le Monde Steak - Vincom Trần Duy Hưng,11h00 - 14h00 & 17h00 - 21h30,4,150.000 - 250.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 5 Ngõ 107 Nguyễn Chí Thanh, Q. Đống Đa",Gabil Kimchi - Nguyễn Chí Thanh,11h00 - 14h00 & 17h30 - 22h00,4,100.000 - 200.000 đ/người
+"Gọi món, Buffet Nướng Lẩu Thái Lan","Tầng 2, TTTM Aeon Mall, P. Dương Nội, Q.Hà Đông ",Thai Pattaya - Aeon Mall Hà Đông,10h00-14h00 & 17h00-22h00 ,4,200.000 - 350.000 đ/người
+Gọi món Việt,"Cổng Số 7 - Khu Biệt Thự Trung Tâm Hội Nghị Quốc Gia, Đường Miếu Đầm, Phường Mễ Trì, Q. Nam Từ Liêm",Xanh Drinks - Trung tâm Hội nghị Quốc gia,08h00 – 22h00,4.5,250.000 - 500.000 đ/người
+"Gọi món, Buffet lẩu & Dimsum","Số 45, Phố Trung Hòa, P. Trung Hòa, Q. Cầu Giấy",Yi Long – Dimsum Lẩu Trung Hoa - Trung Hòa,11h00 – 14h00 và 18h00 – 21h30,3.8,200.000 – 250.000 đ/người
+Gọi món Việt,"Số 183 Nguyễn Tuân, Q. Thanh Xuân",Focus – Nguyễn Tuân  ,"11h00 – 14h00, 17h00 – 22h00",3.5,200.000  – 250.000 đ/người
+Gọi món Á –  Âu,"Số 37A Hùng Vương, P. Điện Biên, Q. Ba Đình",37A Hùng Vương Restaurant - Ba Đình ,06h00 - 23h00,4.5,200.000 - 700.000 đ/người
+Gọi món Việt," Số 1187 Giải Phóng, Q. Hoàng Mai ",Trâu Tây Bắc - Giải Phóng ,10h30 - 14h00 & 16h30 - 22h30,3.5,100.000 - 300.000 đ/người
+Gọi món Việt,"Số 65 đường 23 KĐTTP Giao Lưu, P. Cổ Nhuế 2, Q. Bắc Từ Liêm",Cánh Buồm Đỏ - KĐTTP Giao Lưu,10h00 – 22h00,3.6,250.000 - 400.000 đ/người
+Chuyên món gà,"70 Nguyên Hồng, Q. Ba Đình",Gà 99 - Nguyên Hồng,"10h:30 - 13h:30, 17h:30 - 20h:30",3,250.000 – 280.000 vnđ/người
+"Cơm Việt, Món Á","365 Kim Mã, Q. Ba Đình",Nhà Hàng 123 - Kim Mã,"10h:30 - 13h:30, 17h:30 - 20h:30",3,85.000 – 115.000 vnđ/người
+Lẩu nướng Nhật Bản,"47 - 49 Mai Hắc Đế, Q. Hai Bà Trưng",Chen - Mai Hắc Đế,"10h:30 - 13h:30, 17h:30 - 20h:30",4,270.000 – 300.000 vnđ/người
+"Cơm Việt, Món Á","55 Phố Huế, Q. Hai Bà Trưng",Nhà Hàng 123 - Phố Huế,"10h:30 - 13h:30, 17h:30 - 20h:30",3,85.000 – 115.000 vnđ/người
+Chuyên lẩu băng chuyền,"171 Thái Hà, Q. Đống Đa",Lẩu Băng Chuyền BKK,"10h:30 - 13h:30, 17h:30 - 20h:30",3,150.000 vnđ/người
+Chuyên món lẩu Nhật Bản,"5 Trúc Bạch, Q. Ba Đình",Lẩu Sỹ Phú - Trúc Bạch ,"10h:30 - 13h:30, 17h:30 - 20h:30",4,190.000 - 220.000 vnđ/người
+Chuyên món lẩu Nhật Bản,"152 Đường Láng, Q. Đống Đa",Lẩu Sỹ Phú - Đường Láng,"10h:30 - 13h:30, 17h:30 - 20h:30",4,190.000 - 220.000 vnđ/người
+Món Việt,"Tổ 6 Làng Lệ Mật, Q. Long Biên",Quốc Phương Trại Việt Hưng ,"10h:30 - 13h:30, 17h:30 - 20h:30",4,150.000- 180.000 vnđ/người
+Chuyên ẩm thực Nhật Bản,"52 - 54 Lý Thường Kiệt, Q. Hoàn Kiếm",Kimono,"10h:30 - 13h:30, 17h:30 - 20h:30",4,270.000 – 300.000 vnđ/người
+"Món Việt, chuyên Chả Cá","19 - 2D Đường Thành, Q. Hoàn Kiếm",Chả Cá Thăng Long - Đường Thành,"10h:30 - 13h:30, 17h:30 - 20h:30",3.5,150.000 – 170.000 vnđ/người 
+Món chay,"34 Hàng Bài, Q. Hoàn Kiếm",Ưu Đàm Chay - Hàng Bài,,3.8,100.000– 280.000 vnđ/người
+"Ẩm thực núi rừng, món Việt","116 Hào Nam, Q. Đống Đa",Nhà hàng Sơn Cước 116 Hào Nam,10h00 – 22h00,3.8,200.000 – 300.000 vnđ/người
+Gọi món Việt,"23 - 25 Văn Cao, Q. Ba Đình",Bắc Việt Phố – Văn Cao,10h00 – 21h00,3.2,200.000 – 300.000 đ/người
+Chuyên các món baba,"31A Nguyễn Chí Thanh, Q. Ba Đình",Ba Ba Ao Quê - Nguyễn Chí Thanh,11h00 – 14h00 và 18h00 – 21h00,3.8,350.000 – 500.000 vnđ/người
+Chuyên món Âu,"28 Hàng Tre, Q. Hoàn Kiếm",Nhà hàng Masterchef - Hàng Tre,11h00 - 14h00; 18h00 - 22h00,4,230.000 - 300.000 vnđ/người
+Ẩm thực Thái,"81 Nguyễn Chí Thanh, Q. Đống Đa",Nhà hàng Sayam Chang - Nguyễn Chí Thanh ,10h30 – 22h30,3.8,150.000 – 250.000 vnđ/người
+Chuyên các món baba,"129 Thái Thịnh, Q. Đống Đa",Ba Ba Ao Quê – Thái Thịnh,11h00 – 14h00 và 18h00 – 21h00,3.8,350.000 – 500.000 vnđ/người
+Chuyên bánh tráng cuốn thịt heo,"45LK6A Làng Việt Kiều, P. Mỗ Lao, Q. Hà Đông",Bánh Tráng Hoàng Bèo - Hà Đông,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"40 Duy Tân, Q. Cầu Giấy",Bánh Tráng Hoàng Bèo – Duy Tân,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên món Âu,"404 Xã Đàn, Q. Đống Đa",Nhà hàng Masterchef – Xã Đàn,11h00 - 14h00; 18h00 - 22h00,4,230.000 - 300.000 vnđ/người
+Chuyên bánh tráng cuốn thịt heo,"111 Láng Hạ, Q. Đống Đa",Bánh Tráng Thịt Heo Hoàng Bèo - Láng Hạ,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"129D Nguyễn Trãi, Q. Thanh Xuân",Bánh Tráng Hoàng Bèo – Nguyễn Trãi,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"HH2A Linh Đàm, Kiot 20, Q. Hoàng Mai",Bánh Tráng Hoàng Bèo - Linh Đàm,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"59 Nguyễn Hoàng, Q. Nam Từ Liêm",Bánh Tráng Thịt Heo Hoàng Bèo – Nguyễn Hoàng,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"60 Trần Đăng Ninh, Q. Cầu Giấy",Bánh Tráng Hoàng Bèo - Trần Đăng Ninh,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Gọi món Việt (Chuyên Ngỗng),"Số 23 Đỗ Quang, P. Trung Hòa, Q. Cầu Giấy ",Ẩm thực & Âm nhạc Hoàng Tống - Đỗ Quang,10h00 – 22h00,3.5,150.000 – 200.000 đ/người
+Chuyên kem,"Aeon Long Biên, T152, Tầng trệt, Số 27 Đường Cổ Linh, Q. Long Biên",Swensen's – Aeon Mall Long Biên,11h00 – 22h00,3.8,Dưới 150.000 đ/người
+Chuyên Lẩu,"454 Bạch Đằng, Q. Hoàn Kiếm",Phong Quán - Bạch Đằng,10h30 – 14h00 và 17h00 – 23h00,3,150.000 - 200.000 vnđ/người
+Chuyên kem,"Tầng 4 Artemis, Số 03 Lê Trọng Tấn, Q. Thanh Xuân",Swensen's - The Artemis,11h00 – 22h00,3.8,Dưới 150.000 đ/người
+Chuyên món chả cá,"Số 269 Kim Mã, P. Giảng Võ, Q. Ba Đình",Chả Cá Ngon Hà Nội - Kim Mã,10h00 - 14h00 & 17h00 - 22h00,3.5,180.000 – 200.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"Số 47 Kim Đồng, Q. Hoàng Mai",Bánh Tráng Thịt Heo Hoàng Bèo - Kim Đồng,11h00 - 22h00,3.5,50.000 - 100.000 đ/người
+Chuyên kem,"Lotte Mart, Tầng 1, Số 229 Tây Sơn, Q. Đống Đa",Swensen's – Lotte Mart ,11h00 – 22h00,3.8,Dưới 150.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"Số 82 Vũ Trọng Phụng, P. Thanh Xuân Trung, Q. Thanh Xuân",Bánh Tráng Thịt Heo Hoàng Bèo - Vũ Trọng Phụng,11h00 - 22h00,3.5,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"36A Đội Cấn, Q. Ba Đình",Bánh Tráng Thịt Heo Hoàng Bèo – Đội Cấn,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Gọi món Việt đa dạng,"18 ngõ 264 Âu Cơ, Q. Tây Hồ",Nhà Hàng Hải Yến - Tre Bãi Đá,"10h:30 - 13h:30, 17h:30 - 20h:30",3.5,200.000 – 230.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"Số 273 Phố Ngọc Lâm, Q. Long Biên",Bánh Tráng Thịt Heo Hoàng Bèo - Ngọc Lâm,11h00 - 22h00,3.5,50.000 - 100.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"Số 338 Hồ Tùng Mậu, P. Phú Diễn, Q. Bắc Từ Liêm",Bánh Tráng Thịt Heo Hoàng Bèo - Hồ Tùng Mậu,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Chuyên kem,"Hầm B1, Gian D9-5B, TTTM Vincom Mega Mall Times City, Hà Nội ",Swensen’s - Times City,11h00 – 22h00,3.8,Dưới 150.000 đ/người
+Chuyên bánh tráng cuốn thịt heo,"Số 42Z Lý Thường Kiệt, P. Trần Hưng Đạo, Q. Hoàn Kiếm",Bánh Tráng Thịt Heo Hoàng Bèo - Lý Thường Kiệt,11h00 - 22h00,3.2,50.000 - 100.000 đ/người
+Gọi món Việt,"Số 11TT3A Tây Nam Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai ",Song Cầm Quán - KĐT Tây Nam Linh Đàm,11h00  - 14h00 & 17h00 -  23h00,3.6,200.000 – 250.000 đ/người
+"Chuyên Gà Rán, Kem","L3-K1A TTTM Vincom Liễu Giai, Số 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình",DQ Grill & Chill – Vincom Liễu Giai ,11h00 – 22h00,3.8,150.000 – 250.000 đ/người
+Buffet Chay,"Số 19, Ngõ 275 Âu Cơ, P. Quảng An, Q. Tây Hồ",Chay Veggie Castle - Âu Cơ ,11h00 – 13h30 & 18h00 – 21h00,3.7,150.000 – 200.000 đ/người
+Buffet Lẩu Châu Á,"TTTM Vincom Center, Tầng 4, Số 119 Trần Duy Hưng, P. Trung Hòa, Q. Cầu Giấy",Hotpot Story - Vincom Trần Duy Hưng,11h00 - 13h00 & 18h00 - 21h00,3.7,250.000 - 350.000 đ/người
+Buffet Chay,"Số 7 Yên Ninh, P. Trúc Bạch, Q. Tây Hồ",Chay Veggie Castle - Yên Ninh,11h00 – 13h30 & 18h00 – 21h00,3.7,150.000 – 200.000 đ/người
+Chuyên Chả Cá,"118 Lê Duẩn, P. Cửa Nam, Q. Hoàn Kiếm",Miss Chả Cá – Lê Duẩn,10h30  – 21h30,3.9,130.000 – 180.000 đ/người
+Món Việt đồng quê,"19 ngõ 183 Đặng Tiến Đông, Q. Đống Đa",Nhà hàng Góc Quê - Đặng Tiến Đông,10h30 - 22h00,3.5,150.000 – 180.000 vnđ/người 
+"Gặp gỡ bạn bè, tiếp khách, liên hoan gia đình, ...","Tòa nhà VTC Online, 18 Tam Trinh, Hai Bà Trưng,Hà Nội",Nhà Hàng PasGo demo - Hà Nội,"10h:30 - 14h:30, 17h:30 - 21h:30",4,200.000 – 350.000 vnđ/người
+Món chay,"Số 38 Thi Sách, P. Phạm Đình Hổ, Q. Hai Bà Trưng",ChayA Pizza - Thi Sách,10h00 - 22h30,4,200.000 - 450.000 đ/người
+Gọi món Á,"Số 87 Láng Hạ, P.Thành Công, Q. Ba Đình",CityFood - Ngon Ngon Đủ Món - Rạp Chiếu phim Quốc gia,T2-T6 10h00-21h00 & T7&CN : 09h00 - 22h00,3.8,80.000 - 150.000 đ/người
+Gọi món Huế,"Số 83, Trần Duy Hưng, Q. Cầu giấy",Nét Huế - Trần Duy Hưng,07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+PasGo Demo 2,"25 Lạc Trung, Quận Hai Bà Trưng",Nhà hàng PasGo Demo 2,,5,150.000 – 400.000 vnđ/người
+Gọi món Việt,"8 ngõ 97 Phạm Ngọc Thạch, Q. Đống Đa",Quán Sành - Phạm Ngọc Thạch,10h00 - 14h00 & 17h30 - 21h45,3.2,180.000 – 200.000 đ/người
+Gọi món Việt,"46/25 ngõ Thổ Quan, Q. Đống Đa",Nhà Sàn Quán Giang Dung - Thổ Quan,10h30 - 13h30 & 17h30 -  20h30,3,150.000 - 250.000 đ/người
+Gọi món Nhật Bản,"6 Phan Kế Bính Kéo Dài, Q. Ba Đình",Paku Paku - Phan Kế Bính,10h00 - 13h30 và 17h00 - 21h30,3.8,150.000 – 350.000 vnđ/người
+"Gọi món Âu, Á","23L Hai Bà Trưng, Q. Hoàn Kiếm",Al Fresco’s - Hai Bà Trưng,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+Gọi món Miền Nam,"13 Mai Hắc Đế, Q. Hai Bà Trưng",Phương Nam - Mai Hắc Đế,10h30 - 14h00 và 17h30 - 21h30,3.5,150.000 - 180.000 đ/người
+Chuyên món chả cá,"32 Nguyễn Văn Huyên, Q. Cầu Giấy",Chả Cá Hà Thành - Nguyễn Văn Huyên,10h00 - 21h30,3.5,180.000 – 250.000 đ/người
+Gọi món Việt,"Số 38 Đặng Thai Mai, Q. Tây Hồ",Sen Đầm Trị - Đặng Thai Mai ,"10h00 - 14h00, 17h00 - 22h00",3.9,180.000 - 250.000 đ/người
+Gọi món Nhật,"Số 40 - 42 Đào Tấn, Q. Ba Đình, Hà Nội.",New Sake - 40-42 Đào Tấn,10h30 - 13h30 & 17h30 - 21h00,4.1,470.000 - 500.000 vnđ/người
+Gọi món Việt,"685 Lạc Long Quân, Q. Tây Hồ",Lẩu Cua Đồng 685 - Lạc Long Quân ,09h00 - 22h00,3.5,150.000 – 170.000 đ/người
+Gọi món Việt,"36/76 An Dương, Q. Tây Hồ",Công Viên Nhỏ - An Dương,11h00 - 14h30 và 17h00 - 21h00,4,200.000 - 300.000 đ/người
+Gọi món Việt,"48 Bát Đàn, Q. Hoàn Kiếm",An Viên - Bát Đàn,11h00-14h00 & 16h30-23h00,3.2,80.000 - 120.000 đ/người
+Gọi món Việt,"127 Chùa Láng, Q. Đống Đa",An Viên - Chùa Láng,11h30 -14h00 & 16h30-22h00,3.2,80.000 - 120.000 đ/người
+"Gọi món Âu, Á","TTTM Royal City, B2-R6-29A, 72A Nguyễn Trãi",Al Fresco’s - Royal City  ,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+"Gọi món Âu, Á","TTTM AEON Mall Long Biên, Tầng 3, T308 ",Al Fresco’s – Aeon Mall Long Biên,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+Gọi món Việt (Chuyên lẩu),"61 Ngõ 298 Tây Sơn, Đống Đa ",Lẩu Đức Trọc – Tây Sơn ,10h30 - 13h30 và 17h00 - 22h00,3.5,150.000 - 250.000 vnđ/người
+Gọi món Tây Bắc,"Số 45 Nguyễn Khang, P. Yên Hòa, Q. Cầu Giấy",Ẩm Thực Tây Bắc – Nguyễn Khang,10h00 - 22h00,3.7,150.000 - 250.000 đ/người
+"Gọi món Âu, Á","TTTM The Garden, Mễ Trì,Tầng G, Cửa số 1 ",Al Fresco’s - The Garden,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+Gọi món Hải Phòng,"108 D5 Trần Thái Tông, Q. Cầu Giấy",An Biên Eatery - Trần Thái Tông,T2-T7: 09h30 - 17h00,3.5,120.000 - 200.000 đ/người
+Gọi món Hải Phòng,"111 Triệu Việt Vương, Q. Hai Bà Trưng",An Biên Eatery - Triệu Việt Vương,T2-T7: 09h30 - 17h00,3.5,120.000 - 200.000 đ/người
+Gọi món Việt (Chuyên hải sản),"12 Tổ 6, Nguyễn Văn Hưởng, Q. Long Biên",Hương Quê - Long Biên,10h30 - 13h00 & 17h30 - 21h00,4,200.000 – 350.000 đ/người
+Gọi món Âu (Chuyên Steak),"59A Trần Quốc Toản, Q. Hoàn Kiếm",Moo Beef Steak - Trần Quốc Toản,10h30 - 13h30 & 18h00 - 21h30,4,350.000 – 500.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"Số 10, Lô 10 Ngõ 67 Đường Phùng Khoang, Q. Nam Từ Liêm                                 ",Galbi Express - Phùng Khoang,10h30 – 21h30,3,200.000 –  300.000 đ/người
+"Gọi món Á, Âu","95 Lê Đức Thọ, Q. Nam Từ Liêm",Hoa An Viên - Mỹ Đình ,6h00 - 20h30,4.1,300.000 -  500.000 đ/người
+Gọi món Nhật Bản,"65C Trần Quốc Toản, Q. Hoàn Kiếm",Kisu Sushi - Trần Quốc Toản,10h30 - 14h00 & 17h30 - 21h00,4.1,500.000 – 700.000 đ/người
+Chuyên món chả cá,"Tầng 1, Nhà A2 Nguyễn Cơ Thạch, Q. Nam Từ Liêm",Chả Cá Ngon - Nguyễn Cơ Thạch,10h00 - 21h30,3.5,150.000 – 180.000 đ/người
+Chuyên hải sản tươi sống,"48 Liễu Giai, Q. Ba Đình",Hải Sản Phố - Liễu Giai,10h00 - 21h30	,4,450.000 - 500.000 vnđ/người
+Gọi món miền Nam,"127 Láng Hạ, Q. Đống Đa",Nhà hàng Nét Huế ,7h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Miền Nam,"36C Mai Hắc Đế, Q. Hai Bà Trưng","Nhà hàng Gia Thành - Hủ tiếu, bánh canh - Mai Hắc Đế ",07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Huế,"43 Mai Hắc Đế, Q. Hai Bà Trưng ",Nét Huế - Mai Hắc Đế,08h00 - 21h30,3.5,50.000 - 150.000 đ/người
+Gọi món Huế,"198 Hàng Bông, Q. Hoàn Kiếm",Nét Huế - Hàng Bông ,07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Huế,"153 Láng Hạ, Q. Đống Đa",Nét Huế - Láng Hạ,07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Huế,"Big C Thăng Long - 222 Trần Duy Hưng, P. Trung Hoà, Q. Cầu Giấy",Nét Huế - Big C Thăng Long,09h30 - 22h00 ,3.5,50.000 - 150.000 đ/người
+Chuyên món Trâu,"Ngõ 53 Yên Lãng, Số 89 (hoặc đi vào Ngõ 298 Tây Sơn), Q. Đống Đa",Trâu Vườn Quán - Yên Lãng ,10h00 - 14h00  và 17h00 – 22h00,3.5,150.000 – 200.000 đ/người
+"Buffet, Gọi món Âu","Biệt Thự TT4.5, Khu Đô Thị Nam Cường,Q. Bắc Từ Liêm",Della Seta - Hoàng Quốc Việt ,10h00 - 13h30 & 17h00 - 22h00,3.5,150.000 - 350.000 đ/người
+Gọi món Huế,"Số 34 – 36 Thái Hà, Q. Đống Đa",Nét Huế - Thái Hà,07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Huế,"TTTM Royal City, B2-R6-41, 72 Nguyễn Trãi, Q. Thanh Xuân",Nét Huế - Royal City,07h00 - 22h00,3.5,50.000 - 150.000 đ/người
+Gọi món Việt (Chuyên lẩu),"Số 6A Hàng Lược, Q. Hoàn Kiếm",Lạ Quán - Hàng Lược ,10h00 - 24h00,3.5,120.000 – 150.000 đ/người
+Gọi món Nướng,"Số 117 Bùi Thị Xuân, Quận Hai Bà Trưng",Mr.Bigbeef Bò Nướng Tảng - Bùi Thị Xuân,10h30 - 14h00 và 18h00 - 22h00,3.5,300.000 - 500.000 đ/người
+Gọi món Nướng,"70 Nguyên Hồng, Q. Đống Đa",Mr.Bigbeef Bò Nướng Tảng - Nguyên Hồng,10h30 - 13h30 & 17h30 - 21h30,3.5,330.000 - 450.000 đ/người
+Gọi món Việt (Chuyên lẩu),"Số 100 Dịch Vọng Hậu, Q. Cầu Giấy",Lẩu Đức Trọc - Dịch Vọng Hậu,10h30 - 13h30 và 17h00 - 22h00,3.6,150.000 - 250.000 vnđ/người
+Chuyên Lẩu,"Số 67 Phan Kế Bính, P. Liễu Giai , Q. Ba Đình",Lẩu Phan - Phan Kế Bính,17h00 - 21h00,3.8,130.000 - 200.000 đ/người
+Gọi món Âu (Chuyên Steak Pháp),"Số 25 Hoàng Cầu, Q. Đống Đa",Le Monde Steak - Hoàng Cầu,11h00-14h00 & 17h00-21h30,3.7,150.000 - 250.000 vnđ/người
+Chuyên Lẩu Nấm,"Số 12 Lê Đức Thọ, Q. Nam Từ Liêm",Lẩu Nấm Thảo Quý - Lê Đức Thọ,10h00 - 14h00 và 16h00 - 21h30,3.5,200.000 – 250.000 đ/người
+Chuyên lẩu nấm,"Đường Hàm Nghi, B2 – 02, Khu Biệt Thự Vinhom, P. Cầu Diễn, Q. Nam Từ Liêm",Lẩu Nấm Gia Khánh - Hàm Nghi ,10h30 - 21h30,3.5,180.000 – 210.000 đ/người
+Gọi món Tây Bắc,"Số 1B Lê Ngọc Hân, P. Phạm Đình Hổ, Q. Hai Bà Trưng",Ẩm Thực Tây Bắc - Lê Ngọc Hân ,10h00 - 21h30,3.5,150.000 – 250.000 đ/người
+Gọi món Nhật Bản,"8 Vạn Phúc, Q. Ba Đình",Nhà hàng Hatoyama - Vạn Phúc ,10h00 - 22h00	,4,600.000 - 800.000 vnđ/người
+Gọi món Việt,"Số 10 ngõ 12 Trần Quý Kiên, Q. Cầu Giấy",2V - Trần Quý Kiên,10h30 - 13h30 & 17h30 - 20h30,3,250.000 - 270.000 đ/người
+Chuyên lẩu nấm,"Số 67 Vũ Phạm Hàm, Q. Cầu Giấy",Lẩu Nấm Gia Khánh - Vũ Phạm Hàm,10h30 - 21h00,4,180.000 – 210.000 đ/người
+Gọi món Việt,"Đối diện 24 Lạc Chính, Q. Ba Đình",Sơn Ca - Lạc Chính,10h30 - 13h30 & 17h30 - 20h30,3,100.000 - 300.000 đ/người
+Gọi món Việt,"39 ngõ 165 Thái Hà, Q. Đống Đa",Quán Mộc - Thái Hà,10h00 - 14h00 và 17h00 - 21h30,3.5,150.000 – 180.000 đ/người
+Gọi món Việt,"Số 462 Đội Cấn, Q. Ba Đình",Hội Quán - Đội Cấn,10h30 - 13h30 & 17h30 - 20h30,3.2,220.000 - 250.000 đ/người
+Chuyên lẩu bò nhúng dấm,"Ngõ 12, Phố Núi Trúc, 105-C8 Giảng Võ, Q. Đống Đa",Bò Ngon 555 – Phố Núi Trúc ,10h30 - 13h30 & 17h30 - 21h00,3.5,150.000 – 170.000 đ/người.
+Gọi món Việt,"38 Linh Đường, Q. Hoàng Mai",Ẩm Thực Hồng Hạc - Linh Đàm,10h30 - 13h30 & 17h30 - 20h30,3,150.000 - 200.000 đ/người
+Chuyên lẩu bò nhúng dấm,"TT7B khu biệt thự Tây Nam Linh Đàm, Linh Đường, P. Hoàng Liệt, Q. Hoàng Mai",Bò Ngon 555 – Linh Đàm,10h30 - 13h30 & 17h30 - 21h00,3.5,150.000 – 170.000 đ/người
+Gọi món Âu,"23J Hai Bà Trưng, Q. Hoàn Kiếm",Jacksons SteakHouse - Hai Bà Trưng,09h30 – 23h30,4.1,670.000 - 700.000 đ/người
+Cơm niêu Singapore,"60 Lê Văn Thiêm, Q. Thanh Xuân",Kombo - Cơm Niêu Singapore - Lê Văn Thiêm,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Gọi món chay,"79A Trần Hưng Đạo, Q. Hoàn Kiếm",Cơm Chay Nàng Tấm - Trần Hưng Đạo,09h00 - 21h00,3,80.000 – 120.000 đ/người
+Cơm niêu Singapore,"Số 30 Nguyễn Phong Sắc, Q. Cầu Giấy",Kombo - Cơm Niêu Singapore - Nguyễn Phong Sắc,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Gọi món Hàn Quốc,"Số 77 Đào Tấn, Q. Ba Đình",Gimbab Hàn Quốc - Đào Tấn,08h00 - 21h30,3,80.000 – 100.000 đ/người
+Gọi món Việt,"Số 17A Nguyễn Đình Chiểu, Q. Hai Bà Trưng",Phủi Quán - Nguyễn Đình Chiểu,10h00 - 13h30 & 17h00 - 22h00,3.7,150.000 - 250.000 vnđ/người
+Chuyên lẩu bò nhúng dấm,"275, 279, 285 Tô Hiệu, Q. Cầu Giấy",Bò Nhúng Dấm 555 - Tô Hiệu,10h30 - 13h30 & 17h30 - 21h00,3.5,110.000 - 150.000 đ/người
+Chuyên lẩu bò nhúng dấm,"56 Trung Hòa, Q. Cầu Giấy",Bò Nhúng Dấm 555 – Trung Hòa,10h30 - 13h30 & 17h30 - 21h00,3.5,110.000 - 150.000 đ/người
+Cơm niêu Singapore,"257 Giảng Võ, Q. Đống Đa",Kombo - Cơm Niêu Singapore - Giảng Võ,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Gọi món Việt (Chuyên lẩu),"69 Phó Đức Chính, Q. Ba Đình",Lẩu Đức Trọc - Phó Đức Chính,"10h:30 - 13h:30, 17h:30 - 20h:30",3.5,150.000 - 250.000 vnđ/người
+Gọi món Huế,"KĐT Dịch Vọng Hậu, Lô 4, Nhà D1, Q. Cầu Giấy (Ngã tư Nguyễn Văn Huyên & Nguyễn Khánh Toàn)",Nét Huế - KĐT Dịch Vọng Hậu,07h00 – 22h00,3.8,50.000 - 150.000 đ/người
+Gọi món Việt,"Số 316 Nguyễn Trãi, P. Trung Văn, Q. Nam Từ Liêm",Nhà hàng Thiên Trúc - Nguyễn Trãi ,10h00 – 14h00; 16h00 – 22h00,3.2,150.000 - 200.000 đ/người
+Buffet Nướng Lẩu Hải sản ,"Số 3 Nguyễn Hoàng (Đối diện tòa Dolphin Plaza, cách cổng vào bến xe Mỹ Đình 300m), Q. Nam Từ Liêm",Buffet Sea Star - Nguyễn Hoàng ,10h30 - 13h30 & 17h30 - 20h30,3.5,230.000 - 300.000 đ/người
+"Gọi món Âu (Chuyên Steak), Buffet Lẩu","Số 91 Phố Văn Cao , Q. Ba Đình",Family Steak House - Văn Cao,10h30 - 14h00 và 17h00 - 21h00,3.6,150.000 - 200.000 đ/người
+"Gọi món, Buffet Lẩu Thái","Số 5 Quan Hoa, P. Quan Hoa, Q. Cầu Giấy",Thai Deli - Buffet Lẩu Thái - Quan Hoa   ,17h30 - 23h00,3.8,120.000 - 160.000 đ/người
+Buffet nướng lẩu Châu Á,"TTTM The Garden, Tầng G, Mễ Trì, Q. Nam Từ Liêm",Seoul Garden - The Garden,11h00 - 13h45 và 18h00 - 21h45,4,250.000 - 350.000 vnđ/người
+Gọi món Việt,"Ngõ 163, Số 1 Hoàng Ngân, Q. Cầu Giấy",Chợ Quê - Hoàng Ngân,10h00 –  22h00,3.5,150.000 - 250.000 đ/người
+Buffet nướng lẩu Châu Á,"Vincom Bà Triệu, Tầng 5, Số 191 Bà Triệu, Q. Hai Bà Trưng",Seoul Garden – Vincom Bà Triệu,11h00 - 14h00 & 18h00 - 21h00,4,250.000 - 300.000 vnđ/người
+Chuyên Lẩu Nấm,"KĐT An Hưng, BT12 – 11, P. Dương Nội, Q. Hà Đông, Hà Nội",Vua Lẩu Nấm Thiên Nhiên – King Mushroom – Hà Đông,10h00 – 14h00; 17h00 – 22h00,3.8,200.000 - 250.000 đ/người
+Gọi món Á,"Số 39 Cầu Diễn, P. Phúc Diễn, Q.  Bắc Từ Liêm",Venus - Cầu Diễn,9h00 – 22h30,3.7,200.000 – 500.000 đ/người
+Gọi món Thái Lan,"Tòa nhà 24T2, Hoàng Đạo Thúy, Q. Cầu Giấy",ThaiExpress - Hoàng Đạo Thúy,11h00 – 21h30,3.8,250.000 - 350.000 đ/người
+Gọi món nướng lẩu Nhật Bản,"TTTM Aeon Mall Long Biên, T302, Số 27 Cổ Linh, Q. Long Biên",Gyu-Kaku – Aeon Mall Long Biên,10h30 - 20h00,3.8,250.000 - 350.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"Số 37 Trung Hòa, Q. Cầu Giấy",Gui Gui BBQ - Trung Hòa,11h00 - 13h30 & 17h00 - 21h30,3.7,200.000 - 300.000 vnđ/người
+Gọi món nướng lẩu Nhật Bản,"V – Tower, Tầng 2, Số 649 Kim Mã, Q. Ba Đình",Gyu-Kaku - Kim Mã,T2 – T6: 11h00 – 14h00 và 17h00 – 22h00 & T7 – CN: 11h00 – 23h00,3.8,200.000 - 350.000 vnđ/người
+Buffet nướng lẩu Hàn Quốc,"Số 9 Trần Hưng Đạo, Q. Hoàn Kiếm",Gu-i92 BBQ - Trần Hưng Đạo,11h00 - 13h30 & 17h00 - 21h30,3.7,200.000 - 300.000 vnđ/người
+Gọi món Việt,"Số 107 C8 ngõ 12 Núi Trúc, Q. Ba Đình",La Cà Quán – Núi Trúc,10h00 - 14h30 và 17h00 - 23h00,3.5,250.000 - 300.000 đ/người
+"Buffet, Gọi món nướng lẩu Nhật Bản","TTTM Vincom Bắc Từ Liêm, B1 – 17, Số 234 Phạm Văn Đồng, Q. Từ Liêm",Gyu-Kaku - Vincom Bắc Từ Liêm ,T2-T6: 11h00 – 20h00 & T7-CN: 10h30 - 20h00,3.8,200.000 - 350.000 vnđ/người
+Gọi món Thái Lan,"TTTM Times City, Gian 18 Đường 3, B1, 458 Minh Khai",ThaiExpress - Times City,10h30 – 22h00,3.8,250.000 - 350.000 vnđ/người
+Gọi món Việt,"Số 59 Hoàng Cầu Mới (51 Hoàng Cầu cũ), Q. Đống Đa",Tiêu Dao Quán - Hoàng Cầu,10h00 - 21h00,3.7,130.000 - 180.000 đ/người
+Gọi món Nga,"61 Tô Ngọc Vân, Q. Tây Hồ",BUD’MO – 61 Tô Ngọc Vân,09h00 – 23h00,3.5,250.000 – 350.000 đ/người
+Cơm niêu Singapore,"Số 26 Kim Đồng, P. Giáp Bát, Q. Hoàng Mai",Kombo - Cơm Niêu Singapore - Kim Đồng,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"2 Phạm Ngọc Thạch, TTTM Vincom Phạm Ngọc Thạch, Tầng 5",King BBQ – Vincom Phạm Ngọc Thạch,10h00 - 22h00,4,250.000 - 350.000 đ/người
+"Buffet lẩu, Gọi món Việt (Chuyên lẩu)","325 Trần Đại Nghĩa, Q. Hai Bà Trưng",Lẩu Sơn Tùng  – Trần Đại Nghĩa,10h00 - 13h30 & 17h00 - 22h00,3.7,150.000 – 200.000 đ/người
+"Buffet, Gọi món Thái Lan","34A Quang Trung, Q. Hoàn Kiếm",Bếp Thái Koh Yam - Quang Trung,11h -13h30 & 17h30 - 20h30,3.8,200.000 - 260.000 đ/người
+Gọi món Việt (Chuyên Bò),"37 Trần Kim Xuyến, Q. Cầu Giấy",Sơn Thiên – Trần Kim Xuyến,10h00 – 22h30,3.7,200.000 – 300.000 đ/người
+"Gọi món Âu, Á","4 Vũ Ngọc Phan, Q. Đống Đa",Legend Beer - Vũ Ngọc Phan ,10h00 - 21h00,3.6,300.000 – 350.000 đ/người
+Cơm niêu Singapore,"108 A1 Phạm Ngọc Thạch, Q. Đống Đa",Kombo - Cơm Niêu Singapore - Phạm Ngọc Thạch ,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+"Buffet, Gọi món hải sản","102 Phố Tố Hữu, Q. Hà Đông",Hải Sản Mỹ Hạnh - Tố Hữu ,11h00 - 14h00 và 17h00 - 22h00,4,250.000 - 500.000 đ/người
+Gọi món Tây Bắc,"9, TT3C, Khu đô thị Tây Nam Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai",Mường Hoa Quán - Linh Đàm  ,10h30 – 22h00,3.7,120.000 – 150.000 đ/người
+Gọi món lẩu hơi,"26 Hoàng Cầu mới (FPT Thái Hà rẽ phải 50m), Q. Đống Đa",Hoàng Gia - Lẩu cháo nấm thiên nhiên - Hoàng Cầu,11h00 – 14h00; 18h00 – 21h30,3.9,200.000 – 300.000 đ/người
+Gọi món Việt (Chuyên Cá),"544 Đường Láng, Q. Đống Đa",Quán Cá Zozo - Đường Láng,10h00 – 23h00,3.5,200.000 – 250.000 đ/người
+Gọi món Nhật Bản,"41 Trần Quốc Toản, Q. Hoàn Kiếm",Nhà hàng Ganeya - Trần Quốc Toản ,10h00 - 14h00 ; 17h00 - 22h00,3.8,200.000 - 500.000 đ/người
+Cơm niêu Singapore,"46 Trần Đại Nghĩa, Q. Hai Bà Trưng",Kombo - Cơm Niêu Singapore - Trần Đại Nghĩa,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Gọi món Âu (Chuyên Steak),"B40 Nguyễn Thị Định, P. Trung Hòa, Q. Cầu Giấy",Moo Beef Steak - Nguyễn Thị Định,10h30 - 13h30 & 18h00 - 21h30,4,350.000 – 500.000 đ/người
+Gọi món Lào,"27 Lê Văn Lương, Tầng 5,  TTTM Center Point, Q. Thanh Xuân",Khao Lao - Center Point ,11h00 - 21h30,3.9,200.000 - 250.000 vnđ/người
+Gọi món nướng lẩu Hàn Quốc,"TTTM Royal City, R2 – 14 –  B2,  72A Nguyễn Trãi, Q. Thanh Xuân",King BBQ Deli - Royal City,10h00 - 22h00,4,200.000 - 350.000 đ/người
+Gọi món Nga,"9 Phạm Sư Mạnh, Q. Hoàn Kiếm",Quán Nga Số 9 Phạm Sư Mạnh ,07h00 -  21h30,3.5,150.000 – 250.000 đ/người
+Chuyên lẩu bò nhúng dấm,"Khu chung cư A4 Đền Lừ 2, Tầng 1, P. Tân Mai, Q. Hoàng Mai",Bò Ngon 555 - Đền Lừ ,10h30 - 13h30 & 17h30 - 21h00	,3.6,120.000 - 150.000 đ/người
+Gọi món Việt (Chuyên Cua),"Số 74 Nguyễn Chí Thanh, Q. Đống Đa",Hải Sản 5 Cua – Nguyễn Chí Thanh,10h00 – 22h00,3.5,250.000 – 350.000 đ/người
+Gọi món Á – Âu,"Số 38 Bà Triệu, Q. Hoàn Kiếm",New York Sports Bar - Bà Triệu,10h00 – 22h00,3.8,250.000 - 300.000 đ/người
+Buffet lẩu & Dimsum,"178 Triệu Việt Vương, Q. Hai Bà Trưng",Dimsum & Lẩu Trung Hoa - FengHuang – Triệu Việt Vương,11h00 - 13h00 & 18h00 - 20h00,3.5,209.000 - 269.000 đ/người
+Buffet lẩu & Dimsum,"Tầng 1, Tòa Nhà Sun Square, Số 21 Lê Đức Thọ, Q. Nam Từ Liêm",Dimsum & Lẩu Trung Hoa - FengHuang - Lê Đức Thọ,11h00 - 13h00 & 18h00 - 20h00,3.5,209.000 - 269.000 đ/người
+Gọi món Việt,"51 - 53 Tô Ngọc Vân, Q. Tây Hồ",Phương Nguyên – Tô Ngọc Vân ,09h00 – 22h30,4,200.000 - 300.000 vnđ/người
+Buffet nướng lẩu Nhật Bản ,"Ô số 5, Dãy A, Lô TT3 Tây Nam Hồ Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai",Yakimono – Linh Đàm ,18h00 - 21h30,3.8,260.000 - 300.000 đ/người
+"Buffet, Gọi món Thái Lan","Số 330 Thái Hà, P. Láng Hạ, Q. Đống Đa",Bếp Thái Koh Yam -  Thái Hà,11h -13h30 & 17h30 - 20h30,3.8,200.000 - 260.000 đ/người
+Gọi món nướng lẩu Hàn Quốc,"TTTM The Garden, Tầng SO-08, Tầng G,  Mễ Trì, Q. Từ Liêm",King BBQ Deli - The Garden,10h00 - 22h00,4,200.000 - 350.000 đ/người
+Gọi món Việt,"Số 790 Đường Láng, Q. Đống Đa",Bia Đức Trọc – Đường Láng ,10h00 - 13h30 & 17h00 - 22h00,3.5,150.000 - 250.000 đ/người
+Chuyên món Dê,"Số 59, Phố Yên Lãng, Q. Đống Đa",Dê + - Yên Lãng,10h00 – 22h00,3.5,250.000 - 350.000 đ/người
+Gọi món Việt,"Số 10 Phố Thợ Nhuộm, Q. Hoàn Kiếm",Bếp Quán – Thợ Nhuộm,10h00 - 13h45 & 17h30 - 04h00 sáng hôm sau,3.8,200.000 – 350.000 đ/người
+"Buffet Nướng, Lẩu & Dimsum","Số 52 Võ Thị Sáu, Q. Hai Bà Trưng",Deli 4B BBQ & Hotpot – Võ Thị Sáu ,10h45 - 13h30 và 17h45 – 21h00,3.5,150.000 – 180.000 đ/người
+Gọi món Nhật Bản,"Tầng M -  Khách sạn Candle Hotel, Số 287 - 301 Đội Cấn, Q. Ba Đình",Sakura – Khách Sạn Candle,11h30 - 13h45 & 18h00 - 21h45,4,250.000 – 300.000 đ/người
+Beer - Club,"Số 165 Thái Hà, P. Láng Hạ, Q. Đống Đa",Sparta Beer – Thái Hà,16h00 - 22h00,3.8,300.000 - 500.000 đ/người
+Gọi món Việt (Chuyên Chim),"Số 96 Nguyễn Huy Tưởng, P. Thanh Xuân Trung, Q. Thanh Xuân",Quý Cò – Nguyễn Huy Tưởng ,"10h30 – 14h00 , 17h00 – 22h00",3.7,200.000  – 300.000 đ/người
+Gọi món lẩu hơi,"Tòa nhà D2 Giảng Võ, Q. Ba Đình",Nhà hàng Lẩu Hơi Cosmos - Giảng Võ,10h30 – 14h00 ; 17h00 – 22h00,3.7,200.000 – 300.000 đ/người
+Chuyên món chả cá,"Số 13 - 15 Ngô Thì Nhậm, Q. Hai Bà Trưng",Chả Ká - Ngô Thì Nhậm,10h30 – 21h30,3.5,150.000 – 250.000 đ/người
+Gọi món Việt,"Số 25, Ngõ 59 Đường Láng Hạ, Q. Đống Đa",Quán Xưa - Láng Hạ,10h00 - 13h00 & 17h30 - 21h45,3.7,150.000 - 200.000 đ/người
+Gọi món Việt,"Số 13A Lê Đại Hành, P. Lê Đại Hành, Q. Hai Bà Trưng",Coco Á – Lê Đại Hành,10h00 – 14h00 và 17h00 – 21h00,3.9,130.000 – 300.000 đ/người
+Gọi món Âu (Chuyên Steak),"Số 2F Nguyễn Khánh Toàn, P. Quan Hoa, Q. Cầu Giấy",Moo Beef Steak - Nguyễn Khánh Toàn,10h30 - 13h30 & 18h00 - 21h30,4,350.000 - 500.000 đ/người 
+Chuyên Cháo,"Tầng 1 Số 20  Phố Đào Tấn, P. Cống Vị, Q. Ba Đình",An Nam Cháo - Đào Tấn,09h00 – 00h30 sáng hôm sau,3.3,50.000 - 170.000 đ/người
+Chuyên hải sản tươi sống,"Số 77 Cầu Đất, P Chương Dương, Q Hoàn Kiếm",Hải Sản Sầm Sơn – Cầu Đất,10h30 - 13h30 & 17h00 - 21h00,4,250.000 - 350.000 vnđ/người
+Gọi món miền Trung,"Số 35 Trần Hưng Đạo, Q. Hoàn Kiếm",Vị Quảng – Trần Hưng Đạo,10h30 -14h00 ; 17h00 - 21h00,3.5,150.000 - 180.000 đ/người
+Gọi món miền Trung,"Số 109 Nguyễn Chí Thanh, Q. Đống Đa",Vị Quảng – Nguyễn Chí Thanh,10h30 -14h00 & 17h00 - 21h00,3.5,150.000 - 180.000 đ/người
+Buffet nướng lẩu Nhật Bản  ,"98 Lê Trọng Tấn, Q. Thanh Xuân",Yakimono – Lê Trọng Tấn ,18h00 - 21h30,3.8,260.000 - 300.000 đ/người
+Buffet nướng lẩu Nhật Bản ,"36 Nguyên Hồng, Q. Đống Đa",Yakimono – Nguyên Hồng ,18h00 - 21h30,3.8,260.000 - 300.000 đ/người
+Buffet nướng lẩu Nhật Bản ,"170 Trần Bình, P. Mỹ Đình, Q. Nam Từ Liêm",Yakimono - Trần Bình ,18h00 - 21h30,3.8,260.000 - 300.000 đ/người
+Gọi món Nhật Bản,"121 Triệu Việt Vương, Q. Hai Bà Trưng",Izakaya Yancha – Triệu Việt Vương,T2-T7: 11h30 – 13h30 & 17h30 – 21h30 ,3.8,300.000 - 500.000 đ/người
+Gọi món Nhật Bản,"Số 579 Kim Mã, P. Ngọc Khánh, Q. Ba Đình",Izakaya Yancha - Kim Mã,T3 - CN: 11h30 – 13h30 và 17h30 – 21h30,3.8,300.000 - 500.000 đ/người
+"Gọi món, Buffet Nướng Lẩu Thái Lan","6A Láng Hạ, Q. Ba Đình",Thai Pattaya - Láng Hạ,11h00 - 13h00 & 17h30 - 21h00,4,199.000 - 350.000 đ/người
+"Gọi món, Buffet nướng lẩu Hàn Quốc","Số 179 (Đối diện Ngõ 183) Lĩnh Nam, Q. Hoàng Mai",Nhà hàng Quán Toọng – Lĩnh Nam,11h00 – 13h30 & 17h00 - 21h30,3.5,170.000 - 190.000đ/người
+Cơm niêu Singapore,"Tầng 1 Tòa nhà TTC số 19 Duy Tân,P. Dịch Vọng Hậu, Q. Cầu Giấy",Kombo - Cơm Niêu Singapore - Duy Tân,10h30 - 21h30,3.2,70.000 - 100.000 đ/người
+Gọi món Lào,"Tầng 5 + 6 Số 10 Duy Tân, Q. Cầu Giấy",Khao Lao – Duy Tân,10h30 - 14h00 & 17h00 - 21h00,3.9,200.000 - 250.000 vnđ/người
+Gọi món Trung Hoa,"Tầng 6, Lotte Center, Số 54 Liễu Giai, P. Cống Vị, Q. Ba Đình ",Meiwei - Lotte Center    ,10h00 - 22h00,3.9,150.000 - 250.000 đ/người
+Gọi món Âu,"Số 118 Nguyễn Khánh Toàn, Quận Cầu Giấy",HL’S Restaurant - Wine & Steak - Nguyễn Khánh Toàn ,10h00 – 23h00,3.6,350.000 – 500.000 đ/người
+Gọi Món Việt,"CX 8 Phố Nguyễn Cao Luyên, Khu Đô Thị Việt Hưng, Q. Long Biên",Vườn Ẩm Thực Tre Việt - Nguyễn Cao Luyên,10h00 – 22h00,3.5,200.000 – 250.000 đ/người
+"Gọi món, Buffet nướng lẩu","B12 – Biệt Thự Pandora, Số 53 Triều Khúc (Đối diện Ngõ 54 Triều Khúc), P. Thanh Xuân Nam, Q. Thanh Xuân",Nhà hàng Lẩu nướng 23 Zô – Triều Khúc ,17h00 – 21h00 ,3.4,110.000 - 130.000 đ/người
+Gọi món Việt (Món đường phố)," TTTM Vincom Center, Tầng 5, 119 Trần Duy Hưng, P. Trung Hòa, Q. Cầu Giấy",VietStreet - Vincom Trần Duy Hưng,10h00 – 21h00,3.8,120.000 - 180.000 đ/người
+Gọi món trên chảo nóng,"L36-07 Tầng 3 Vincom Skylake Phạm Hùng, Q. Nam Từ Liêm, Hà Nội",Hotto - Vincom Skylake Phạm Hùng,10h00 – 21h00,3.8,80.000 - 150.000 vnđ/người
+Gọi món Việt (Món đường phố),"Tòa nhà Mipec, Tầng 1, 229 Tây Sơn, Q. Đống Đa",VietStreet - Mipec Tây Sơn,10h00 – 21h00,3.8,120.000 - 180.000 đ/người
+Gọi món trên chảo nóng,"Vincom Center,Tầng 5, Số 119 Trần Duy Hưng, P. Trung Hòa, Q. Cầu Giấy",Hotto - Vincom Trần Duy Hưng    ,10h00 – 21h00,3.8,80.000 - 150.000 vnđ/người
+Gọi món (Món ăn trên đĩa nóng),"Tòa nhà Mipec Tây Sơn,Tầng 1, Số 229 Tây Sơn, Q. Đống Đa",Hotto - Mipec Tây Sơn,10h00 – 21h00,3.8,80.000 - 150.000 đ/người
+Món Á – Âu và Bia thủ công đặc sắc,"Số 48 Lê Văn Lương (phía sau tòa Diamond Flower), P. Nhân Chính, Q. Thanh Xuân",iBiero Craft Beer Station - Lê Văn Lương,10h00 - 21h30,3.7,250.000 – 500.000 đ/người
+Gọi món lẩu hơi,"Số 112-113K1 Giảng Võ, Q. Ba Đình  (Gần ngõ 185 Giảng Võ)",Steam Box - Giảng Võ,10h30 – 13h30 và 17h30 – 21h30,3.8,250.000 – 350.000 đ/người
+Beer - Club,"Số 275 Nguyễn Trãi, P. Thanh Xuân Trung, Q. Thanh Xuân",Vuvuzela - Nguyễn Trãi,10h00 - 22h00,3.9,350.000 - 450.000 đ/người
+Beer - Club,"Số 90 Trần Thái Tông, Tầng 1, Sunrise Building, P. Dịch Vọng Hậu, Q. Cầu Giấy",Vuvuzela - Trần Thái Tông,10h00 - 22h00,3.9,350.000 - 450.000 vnđ/người
+Gọi món Pháp,"Số 54 Quảng An, P. Quảng An, Q. Tây Hồ, Hà Nội",Le Jardin – French Bistro - Quảng An  ,10h00 – 14h00 & 18h00 – 22h00,3.7,400.000 – 500.000 đ/người
+Gọi món Hồng Kông,"26 Lý Thường Kiệt, Q. Hoàn Kiếm",Thiên Di Quán - Lý Thường Kiệt,10h00 - 14h00 và 17h00 - 22h00,3.8,200.000 - 300.000 đ/người
+Gọi món Việt,"Khu chợ ẩm thực Ngọc Lâm, P. Ngọc Lâm, Q. Long Biên",Yum Hy - Chợ ẩm thực Ngọc Lâm,10h00 – 14h00 & 17h30 - 21h00,3.7,200.000 – 300.000 đ/người
+Buffet lẩu,"Số 284 Đặng Tiến Đông, P. Ô Chợ Dừa, Q. Đống Đa",Xuýt Xoa Xì Xụp - Đặng Tiến Đông,10h30 - 14h00 và 17h00 - 22h00,3.7,100.000 - 170.000 đ/người
+Gọi món Nhật Bản,"35 Linh Lang, Q. Ba Đình",Paku Paku – Linh Lang ,10h00 - 13h30 và 17h00 - 21h30,3.8,150.000 – 350.000 đ/người
+Gọi món Việt,"Số 95B Quán Thánh, Q. Ba Đình",Seasons Of Hanoi - Quán Thánh,10h30 - 13h30 & 17h30 - 20h30,5,200.000 - 300.000 đ/người
+Gọi món Việt (Chuyên lẩu),"Số 1A Tăng Bạt Hổ  (đối diện 36 Tăng Bạt Hổ), Q. Hai Bà trưng",Lẩu Nhớ - Tăng Bạt Hổ,10h00 – 15h00 & 17h00 – 24h00,3.4,120.000 - 150.000 đ/người
+Gọi món Mexico,"Số 76 ngõ 12 Núi Trúc, Q. Ba Đình",Latino - Núi Trúc,10h00 - 14h00 và 17h30 - 22h00,3.5,280.000 - 300.000 đ/người
+Gọi món Hong Kong,"Tầng 4 Nhà ga T2, Sân bay Nội Bài",Nhà Hàng Hải Cảng Sân Bay,"10h:30 - 13h:30, 17h:30 - 20h:30",4,350.000 - 380.000 vnđ/người
+Buffet nướng lẩu,"TTTM Times City, B1-D3-22A, 458 Minh Khai, Q. Hai Bà Trưng",Trúc Quyên Lầu Quán – Times City ,11h00 – 14h00 & 17h30 – 22h00,3.5,170.000 – 220.000 đ/người
+Gọi món Việt,"Ngõ 42, Số 8 Võ Thị Sáu, Q, Hai Bà Trưng",Gia Trang Quán - 42 Võ Thị Sáu,11h00 – 22h00,3.8,150.000 - 250.000 đ/người
+Gọi món nướng lẩu,"Ngõ 68, Số 22 Ngọc Thuỵ (Gần TTTM Mipec Long Biên), Q. Long Biên",Xóm Nướng - Ngọc Thụy ,10h00 - 22h30,3.6,100.000 – 150.000 đ/người
+Gọi món Việt,"Số 15 Tố Hữu, P. Nhân Chính, Q. Thanh Xuân",Ẩm thực N – One - Tố Hữu,06h30 – 23h00 ,3.6,150.000 - 250.000 đ/người
+"Chuyên cua, Hải sản tươi sống","17T1 Hoàng Đạo Thuý, Q. Cầu Giấy",Queen's Crab - Crab & Seafood Restaurant - Hoàng Đạo Thúy,10h00 – 23h00,3.8,250.000 - 350.000 đ/người
+Gọi món Âu,"Số 13 Lý Thái Tổ, Tầng 11, Q. Hoàn Kiếm",Panorama Restaurant & Bar Top - Lý Thái Tổ,15h00 – 22h30,3.7,200.000 – 300.000 đ/người
+Gọi món Âu,"Số 20 Ngõ 211 Xã Đàn, P. Nam Đồng, Q. Đống Đa",Cube Beefsteak & Drinks - Xã Đàn,10h00 – 22h00,3.5,100.000 – 150.000 đ/người
+"Gọi món Á, Âu","Số 94 Mã Mây, Tầng 1, P Hàng Buồm, Q. Hoàn Kiếm",Red Bean Restaurant - Mã Mây,11h30 – 22h00 ,4,350.000 – 500.000 đ/người
+Buffet Nướng Lẩu,"Số 32 Phú Diễn, P. Phú Diễn, Q. Bắc Từ Liêm",Phát Quán - 32 Phú Diễn,10h00 – 14h00 & 18h00 - 22h00,3.6,100.000 - 200.000 vnđ/người
+Chuyên món Trâu,"Khu thảo nguyên xanh Ecopark, Lô 149 -150, H. Văn Giang, Hưng Yên",Trâu Ngon Quá - Ecopark,10h00 – 22h00,3.6,150.000  – 250.000đ/người
+Bar & Gọi món Âu - Á,"Tầng 10, Số 27 Hàng Bè, P. Hàng Bạc, Q. Hoàn Kiếm",Lighthouse Sky Bar - Hàng Bè ,16h00 – 23h45,4.5,200.000 - 500.000 đ/người
+"Gọi món Âu, Á","Tầng 12, Số 32 Lò Sũ, Q. Hoàn Kiếm",The Gourmet Corner - Lò Sũ,11h30 – 21h45,4.5,400.000 – 600.000 đ/người
+Gọi món Việt,"CC Hoà Bình Green City, Số 505 Minh Khai, Shophouse 07 (Đối diện 33 Mạc Thị Bưởi), Q. Hai Bà Trưng",Bếp Xuka – Minh Khai,11h00 - 13h30 và 17h30 - 21h30,3.7,150.000 – 250.000 đ/người
+Gọi món Việt,"Số 153 Đội Cấn, Q. Ba Đình",Bếp Xuka - Đội Cấn,11h00 - 13h00 & 18h00 - 21h00,3.7,150.000 – 250.000 đ/người
+Lẩu và chả cá,"256 – 258 Nguyễn Văn Cừ, P. Bồ Đề, Q. Long Biên",The Safari - Hotpot & Grilled Fish House - Nguyễn Văn Cừ    ,11h00 – 13h00 & 17h30 – 21h00,3.7,150.000 - 250.000 đ/người
+Gọi món Châu Âu,"Số 34 Nguyễn Thị Định, P. Trung Hòa, Q. Cầu Giấy",L’Mo Dining - Nguyễn Thị Định,10h00 – 22h00,4.2,200.000 - 350.000 đ/người
+Gọi món Tây Bắc,"287 Trần Khát Chân, Q. Hai Bà Trưng",Cỗ Lá - Trần Khát Chân,10h30 - 13h30 và 17h00 - 21h30,3.2,110.000 – 140.000 đ/người
+Buffet lẩu,"Số 17 LK6C Nguyễn Văn Lộc, P. Mộ Lao, Q. Hà Đông",HP3 Buffet Lẩu - Nguyễn Văn Lộc,10h00 - 13h00 & 18h00 - 21h00,3.5,100.000  – 130.000 đ/người
+Buffet nướng lẩu,"Ngõ 92 Nguyễn Khánh Toàn, Số 32, Q. Cầu Giấy",Moon BBQ - Nguyễn Khánh Toàn,10h30 - 13h30 & 17h30 - 21h00,3.5,200.000 - 300.000 đ/người
+Gọi món Trung Hoa,"2 Hòe Nhai, Q. Ba Đình",Nhà Hàng Vượng Vượng - Hòe Nhai,"10h:30 - 13h:30, 17h:30 - 20h:30",3,150.000 – 180.000 đ/người
+Gọi món Việt,"Số 11 TD3D Tây Nam Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai",Khói Bếp 2 - Linh Đàm,11h00 - 14h00 & 17h00 - 21h30,3.4,150.000 - 250.000 vnđ/người
+"Gọi món, buffet Nhật Bản","A2L1 TTTM Ecolife, Số 58 Tố Hữu, P. Trung Văn, Q. Nam Từ Liêm,",Tomita Bento – Ecolife Tố Hữu,"10h30 - 13h30, 17h30 - 21h30",4,150.000  – 250.000 đ/người
+Buffet nướng Hàn Quốc,"14N7B Nguyễn Thị Thập, P. Nhân Chính, Q. Thanh Xuân",Box BBQ – Nguyễn Thị Thập,17h00 - 21h00,4,200.000 - 250.000 đ/người
+Buffet Hải sản,"Tầng 4 TTTM Mac Plaza, Số 10 Trần Phú, Q. Hà Đông",Dragon Sea Buffet – Mac Plaza,11h00 - 13h00 & 18h00 - 20h30,4,330.000 – 400.000 đ/người
+Chuyên Lẩu Nấm,"Số 3 TT01 KĐT MonCity, Ngõ 6 Nguyễn Cơ Thạch, Q. Nam Từ Liêm",Lẩu Nấm Hoàng Gia – KĐT MonCity - Nguyễn Cơ Thạch,10h00 – 14h00 & 17h30 – 22h30,3.6,200.000  – 250.000 đ/người
+Gọi món Việt,"Số 2 Ngõ 431 đường Âu Cơ, P. Nhật Tân, Q. Tây Hồ",Tràng An Hà Nội - Âu Cơ,10h00 – 14h00 & 17h00 – 22h00,3.8,150.000 – 250.000 đ/người
+Chuyên món Trâu,"Tầng 1, Tòa Nhà UDIC Complex, Hoàng Đạo Thúy, P. Trung Hòa, Q. Cầu Giấy",Trâu Ngon Quán -  Hoàng Đạo Thúy,10h30 – 14h00 & 17h30 – 22h00,4,200.000 – 250.000đ/người
+"Gọi món Á, Âu (Bia tươi Tiệp)","Số 10 Nguyễn Biểu, P. Quán Thánh, Q. Ba Đình",Hoa Viên Pilsner Original – Nguyễn Biểu ,10h00 – 23h00,4,350.000 – 500.000 đ/người
+Gọi món Việt (Chuyên bia thủ công),"Số 13 lô 12B, Trung Yên 3, P. Trung Hòa, Q. Cầu Giấy",Bia Sành Điệu - Trung Yên 3,10h00 – 23h30,3.8,150.000 – 250.000 đ/người
+Gọi món Nhật Bản,"Tầng 1 tòa nhà Comatce Tower, 61 Ngụy Như Kon Tum, P. Nhân Chính, Q. Thanh Xuân",Tokyo Deli – Ngụy Như Kon Tum,11h00 – 21h30,4,160.000 - 250.000 đ/người
+Buffet Nướng Lẩu Hàn Quốc,"Tầng 2, số 2A Láng Hạ, P. Thành Công, Q. Ba Đình",Buk Buk – Láng Hạ,10h00 - 22h00,3.6,150.000 - 250.000 đ/người
+Buffet Lẩu Nướng Hàn Quốc,"Số 53 Triều Khúc, B14 Khu Biệt Thự Pandora, Q. Thanh Xuân",Wang Wang - Quán thịt nướng Hàn Quốc Triều Khúc,11h00 – 13h30 & 17h30 – 21h30,3.8,115.000 – 190.000đ/người
+Gọi món Singapore,"Tầng 3, TTTM Vincom Metropolis, 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình",Holy Crab – Vincom Metropolis Liễu Giai ,10h00 - 22h00,4,250.000 – 500.000 đ/người
+Gọi món Nhật Bản," TTTM Times City, T4-L1-07, 458 Minh Khai, P. Vĩnh Tuy, Q. Hai Bà Trưng",Tokyo Deli – Times City,11h00 – 21h30,4,160.000 - 250.000 đ/người
+"Gọi món, Buffet Nướng Nhật Bản","Tầng 5, Vincom Metropolis, 29 Liễu Giai, P. Ngọc Khánh, Q. Ba Đình",Aka House – Vincom Metropolis Liễu Giai,10h00 - 22h00,4,250.000 – 500.000 đ/người
+Gọi món Việt,"  Số 2 BT16B5, đường Nguyễn Văn Lộc, P. Mộ Lao, Q. Hà Đông ",Mái Ngói Xưa – Nguyễn Văn Lộc   ,10h00 – 22h00,3.9,150.000 – 300.000 đ/người
+Gọi món Mỹ,"Số 8 Tràng Thi, P. Hàng Trống, Q. Hoàn Kiếm",Cowboy Jack’s American Dining – Tràng Thi ,10h30 – 21h30,3.8,200.000 - 250.000 vnđ/người
+Buffet lẩu băng chuyền,"Số 1A Tăng Bạt Hổ, P. Phạm Đình Hổ, Q. Hai Bà Trưng",Lẩu Băng Chuyền Kichi-Kichi - Tăng Bạt Hổ,11h00 – 14h00 & 17h00 – 21h30,3.9,230.000 - 280.000 đ/người
+Gọi món Việt,"Số 8 Ngõ Hàng Bột, Q. Đống Đa",Phủi Quán - Ngõ Hàng Bột,10h30 -13h30	 và 17h30- 21h45,3.6,150.000 - 250.000 vnđ/người
+Chuyên lẩu cháo,"Số 6 Thụy Khuê, Q. Tây Hồ",Lẩu Cháo Hòa Hương - Thụy Khuê,10h30 - 13h30 & 17h30 - 20h30,3.5,200.000 - 350.000 đ/người
+Gọi món Việt,"86 Hoàng Ngân, Q. Cầu Giấy",Độc Quán - Hoàng Ngân,9h00 - 23h00,3.5,150.000 – 200.000 đ/người
+"Gọi món Á, Âu","Số 42 Phạm Huy Thông, Q. Ba Đình",Chiêng - Phạm Huy Thông,10h30 - 13h30 & 17h30 - 20h30,3.5,250.000 - 300.000 đ/người
+Gọi món Nhật Bản,"15 Tô Hiến Thành, Q. Hai Bà Trưng",Wabi Sabi Vườn Nhật - Tô Hiến Thành ,T2 - T6: 10h30 - 13h30 & 17h00 - 21h30,3.5,400.000 - 500.000 đ/người
+"Gọi món Âu, Á","240 Hoàng Ngân, Q. Cầu Giấy",Al Fresco’s - Hoàng Ngân,11h00 - 21h00,4.2,150.000 - 250.000 đ/người
+Gọi món Nướng Lẩu,"116 Hoàng Ngân, Q. Cầu Giấy",Chen – Hoàng Ngân,10h30 -14h00 và 17h30 - 22h00,4.1,270.000 - 300.000 đ/người
+"Gọi món Âu, Á","108 K1 Láng Hạ, Q. Ba Đình",Al Fresco’s - Láng Hạ,11h00 - 21h00,4.2,200.000 - 250.000 đ/người
+Buffet nướng lẩu Thái Lan,"TTTM MIPEC Long Biên L5-07-08, P. Ngọc Lâm , Q. Long Biên",Thái BBQ - Mipec Long Biên,11h00 – 14h00 và 18h00 – 21h30,3.8,250.000 - 300.000 đ/người
+"Buffet, gọi món nướng lẩu Thái Lan","TTTM Royal City, B2-R6-34-35 - 72 Nguyễn Trãi, Q. Thanh Xuân",Asia Snack - Thai Restaurant - Royal City,09h00 – 21h30,3.8,160.000 – 200.000 đ/người
+Beer - Club,"289A Khuất Duy Tiến, T1, Khu D Vinaconex, Q. Cầu Giấy",911 Beer Club - Khuất Duy Tiến,10h00 – 22h00,3.5,150.000 – 250.000 đ/người
+Gọi món Nhật Bản,"288 Bà Triệu, Q. Hai Bà Trưng",Asahi Sushi - Bà Triệu,10h30 - 21h30		,4.2,500.000 – 1.000.000 đ/người
+Buffet nướng lẩu Hàn Quốc,"CT 2A-B Lê Đức Thọ, Tầng 1, Q. Từ Liêm",Buk Buk - Lê Đức Thọ,10h00 - 22h00,3.6,150.000 - 250.000 đ/người
+Gọi món Á,"46 Phan Bội Châu , Q. Hoàn Kiếm",Sentosa - Phan Bội Châu ,11h00 - 21h00,3.8,180.000 - 230.000 đ/người
+Gọi món Việt,"60 Tô Hiến Thành, Q. Hai Bà Trưng ",Quán Xưa - Tô Hiến Thành ,10h00 - 13h00 & 17h30 - 21h45,3.7,150.000 - 200.000 đ/người
+Gọi món Việt,"81 Nguyễn Khang, Q. Cầu Giấy",Khang Viên Quán - Nguyễn Khang ,10h00-14h00 & 17h00-22h00,3.5,200.000 – 300.000 đ/người
+Gọi món chay,"Số 20 Ngõ 113, Phố Hoàng Cầu, P. Ô Chợ Dừa, Q. Đống Đa",Cơm Chay An Phúc - Hoàng Cầu,11h00 – 14h00; 18h00 – 21h00,3.2,80.000 - 120.000 đ/người
+"Buffet & Gọi món Á, Âu","66 Lê Văn Lương, P. Trung Hòa, Q. Thanh Xuân",Buffet Sen Xanh - Lê Văn Lương ,11h00 - 13h00 & 18h00 - 20h00,3.8,250.000 - 350.000 đ/người
+Buffet nướng lẩu Thái Lan,"27 Lê Văn Lương, Tầng 5, CC Center Point, Q. Thanh Xuân",Thái BBQ - Hà Nội Center Point ,11h00 – 14h00 và 18h00 – 21h30,3.8,250.000 - 300.000 đ/người
+Gọi món Huế,"33 Nguyễn Chí Thanh, Q. Đống Đa",Nét Huế - Nguyễn Chí Thanh,08h00 - 21h30 ,3.5,50.000 - 150.000 đ/người
+Chuyên món chả cá,"29 Nguyễn Chí Thanh, Q. Ba Đình",Chả Cá Vọng Ngư - Nguyễn Chí Thanh ,10h30 - 14h00 ; 16h30 - 21h00,3.5,100.000 – 130.000 đ/người
+Gọi món Âu,"Số 124 Hoàng Văn Thái, Q. Thanh Xuân",MAPA Cafe & Restaurant - Hoàng Văn Thái,17h00 - 21h30,3.5,200.000 - 500.000 đ/người
+Gọi món Việt,"Số 26, Ngõ 254, Đường Bưởi, Ba Đình",Độc Quán - Đường Bưởi,09h30 – 14h30 ; 16h00 – 23h00,3.8,150.000 - 250.000 vnđ/người
+Buffet chay,"Số 261 Xã Đàn, Q. Đống Đa",Buffet Chay Hương Thiền - Xã Đàn,11h00 - 13h30 & 18h00 - 21h00,3.7,100.000 - 150.000 đ/người
+Gọi món Lào,"Big C Thăng Long, Tầng 1, 222 Trần Duy Hưng, Q. Cầu Giấy",Khao Lao - BigC Thăng Long ,10h30 - 14h00 & 17h00 - 21h00,3.9,200.000 - 250.000 vnđ/người
+"Buffet nướng, lẩu","TTTM Times City, Số 15, Đường 3, Tầng B1, 458 Minh Khai",Dedi Deli Seafood BBQ & Hot Pot Buffet - Times City,10h30 – 13h30 và 17h30 – 21h30,3.8,200.000 – 300.000 đ/người
+Buffet nướng lẩu Châu Á,"TTTM Times City, D3-22A, 458 Đường Minh Khai, Q. Hai Bà Trưng",Sakaku BBQ - Times City ,10h00 – 22h00,3.5,200.000 – 300.000 đ/người
+"Gọi món, buffet nướng lẩu Hàn Quốc","Số 43 Ô Chợ Dừa, Q. Đống Đa",Yukssam BBQ - Ô Chợ Dừa,11h00 – 14h00; 17h30 – 21h30,3.8,250.000 - 350.000 đ/người
+Gọi món Nhật Bản,"Số 50 Đào Tấn, Q. Ba Đình",Hashiya – Đào Tấn,11h00 – 14h00 và 18h00 – 22h00,3.9,300.000 – 600.000 đ/người
+Gọi món Việt (Đặc sản núi rừng),"Số 18 Liền kề 23, KĐT Văn Khê, Q. Hà Đông",Nhà hàng Quán Họ Hứa,09h00 - 14h00 và 17h00 - 22h00,3.7,150.000 – 500.000 đ/người
+"Buffet Dimsum & Lẩu Hongkong, Gọi món Lẩu Hơi","Số 173 Xuân Thuỷ (Đằng sau Điện máy Pico), Q. Cầu Giấy",Linh Nhạn Restaurant – Xuân Thủy,10h00 - 15h00 và 17h00 - 22h00,3.8,200.000 – 300.000 đ/người
+"Gọi món, buffet nướng lẩu Hàn Quốc ","Gian số 5, đường 9 (cạnh Thuỷ Cung), TTTM Times City, Q. Hai Bà Trưng",K-Pub - Times City,11h00 - 13h30	và 17h00 - 21h30,3.8,150.000 - 250.000 vnđ/người
+Gọi món miền Trung,"Số 2B Ngõ Tràng Tiền, Q. Hoàn Kiếm",Vị Quảng – Tràng Tiền,10h30 -14h00 & 17h00 - 21h00,3.5,150.000 - 180.000 đ/người
+"Gọi món Á, Âu (Chuyên bia thủ công)","Số 99 Lê Duẩn, P. Cửa Nam, Q. Đống Đa",iBiero Craft Beer Station  – Lê Duẩn,10h00 - 21h30,3.7,250.000 – 500.000 đ/người
+Buffet nướng lẩu Thái Lan,"TTTM Times City, Số 7, Đường 9, Minh Khai, Q. Hai Bà Trưng",Thái BBQ - Times City,11h00 – 14h00 và 18h00 – 21h30,4,250.000 - 300.000 đ/người
+"Buffet Á, Âu","Khách sạn Crowne Plaza West Hà Nội, Số 36 Lê Đức Thọ, Q. Nam Từ Liêm", Lackah - Crowne Plaza West Hà Nội,11h30 - 14h00 và 18h00 - 22h00,4,400.000 – 800.000 đ/người
+Chuyên hải sản tươi sống,"Số 24 liền kề 6C, Đường Nguyễn Văn Lộc, Q. Hà Đông",Hải Sản Gia Đình - Nguyễn Văn Lộc,10h30 – 14h00 và 18h00 – 22h00,3.5,150.000 – 200.000 đ/người
+"Gọi món, Buffet Lẩu Thái","KĐT HD Mon City, Số 2 Lô TT01,  Ngõ 4  Hàm Nghi, P. Mỹ Đình 2, Q. Nam Từ Liêm",Thai Deli - Buffet Lẩu Thái - Hàm Nghi,17h30 - 21h00,3.8,120.000 - 160.000 đ/người
+"Gọi món Á, Âu","Số 144 Phó Đức Chính, Q. Ba Đình",Sồi Đỏ Pizza & Pasta – Phó Đức Chính ,09h00 – 22h00,3.6,150.000 – 250.000 đ/người
+Gọi món Nhật Bản,"Số 34G Trần Phú, Q. Ba Đình",Wa Japanese Cuisine – Trần Phú,11h00 – 14h00 & 17h00 – 22h00,4,400.000 – 500.000 đ/người
+"Gọi món, Buffet nướng lẩu Nhật Bản","TTTM Center Point, Tầng 5, Số 27 Lê Văn Lương, Q. Thanh Xuân",Yaki Nabesu - Lê Văn Lương,10h00 – 14h30 và 17h30 – 21h30,3.5,150.000 - 200.000 đ/người
+Gọi món Tây Bắc,"5 Hàng Tre, Q. Hoàn Kiếm",Highway4 - Hàng Tre,10h00 – 23h00,3.5,150.000 - 250.000 đ/người
+"Gọi món, Buffet nướng lẩu Hàn Quốc","HH3C KĐT Linh Đàm, Sảnh T1, P. Hoàng Liệt, Q. Hoàng Mai",Busan BBQ Korea – Linh Đàm,11h00 - 13h30 & 17h30 - 21h30,3.3,200.000 – 250.000 đ/người
+"Gọi món lẩu hơi, Món chay","Số 23C Nguyễn Đình Chiểu, P. Nguyễn Du, Q. Hai Bà Trưng",Umai Steam - Nguyễn Đình Chiểu,10h00 – 22h30,3.5,180.000 - 250.000 đ/người
+Gọi món Nhật,"Số 12 ngõ 9 Đào Tấn, Q. Ba Đình",Fukurai - Đào Tấn,10h00 – 14h00 & 17h00 – 22h00,3.5,400.000 – 500.000 đ/người
+Gọi món Việt (Chuyên hải sản),"Số 8 Quang Trung, P. Quang Trung, Q. Hà Đông",Thế Giới Bia KUN - Quang Trung ,10h30 – 21h30,3.9,100.000 - 180.000 đ/người
+Gọi món Nhật Bản,"Tầng M -  Khách sạn Candle Hotel 287-301 Đội Cấn, Q. Ba Đình",Lotus - Khách sạn Candle – Đội Cấn ,11h00 - 13h30 & 17h30 - 21h30,4,350.000 - 450.000 đ/người
+Gọi món Việt,"Số 19 Nguyễn Văn Huyên, P. Dịch vọng, Q. Cầu Giấy",Quán Nhậu Tự Do – Nguyễn Văn Huyên ,10h30 – 22h30,3.5,150.000 - 250.000 đ/người
+Gọi món Tây Bắc,"Số 575 Kim Mã, P. Ngọc Khánh, Q. Ba Đình",Highway4 - Kim Mã,10h00 – 23h00,3.5,150.000 - 250.000 đ/người
+Gọi món Việt,"Số 6 phố Tràng Tiền, P. Tràng Tiền, Q. Hoàn Kiếm",Trúc Viên - Tràng Tiền,10h00 – 22h00,3.5,200.000 - 300.000 đ/người
+Gọi món Á,"Số 68 Lê Văn Thiêm, P. Nhân Chính, Q. Thanh Xuân",Komhome – Lê Văn Thiêm ,10h00 - 22h00,3.5,60.000 - 150.000 đ/người
+Buffet nướng lẩu,"Ki ốt số 1, KTX Trường Cao Đẳng Múa, Q. Cầu Giấy",YoGoGi – Quán lẩu nướng Hàn Quốc – Mai Dịch,11h00 – 02h00 sáng hôm sau,3.5,130.000  – 220.000 đ/người
+Gọi Món Việt,"Số 31, Phố Hàng Vôi, Q. Hoàn Kiếm",Xuân Viên – Hàng Vôi ,09h00 -23h00,3.5,50.000  – 500.000 đ/người
+Gọi món Việt,"Số 1, Ngõ 84 Trần Thái Tông, Q. Cầu Giấy",DZO Quán - 1/84 Trần Thái Tông,09h00 – 21h00,3.3,120.000 - 150.000 đ/người
+Gọi món Việt ,"Số 15 Lý Thường Kiệt, P. Phan Chu Trinh, Q. Hoàn Kiếm",Ầu Ơ – Vietnam Kitchen – Lý Thường Kiệt ,10h30 – 14h00 & 17h00 – 22h00,4,350.000 – 550.000 đ/người
+Chuyên món Bạch Tuộc,"TTTM Aeon Mall Long Biên, Tầng 3, Lô T312-1, 27 Cổ Linh, Q. Long Biên",Octopus King - Aeon Mall Long Biên ,10h00 - 22h00,3.8,200.000 - 400.000 đ/người
+"Gọi món Âu, Á","Tầng M, Số 165 Thái Hà, P. Láng Hạ, Q. Đống Đa",Trixie Cafe&Lounge - Thái Hà ,18h00 - 23h30,3.8,150.000 - 250.000 đ/người
+"Buffet lẩu, Gọi món Việt","Số 75 Đại Cồ Việt, P. Lê Đại Hành, Q. Hai Bà Trưng",Tên Lửa Restaurant - Đại Cồ Việt,10h30 -13h30 và 17h30 - 21h30,3.5,150.000 – 200.000 đ/người
+"Gọi món, buffet nướng lẩu Nhật Bản","Số 716 Đường Bạch Đằng, P. Bạch Đằng, Q. Hai Bà Trưng,",Sunrise – BBQ & Hotpot – Bạch Đằng ,10h30 - 13h00 & 17h00 - 21h30,3.7,150.000  – 300.000 đ/người
+Gọi món Việt,"Số 68 Thợ Nhuộm, P. Trần Hưng Đạo, Q. Hoàn Kiếm",Quán Nhậu Tự Do - Thợ Nhuộm,10h30 – 22h30,3.9,150.000 - 250.000 đ/người
+Chuyên lẩu bò nhúng dấm,"Số 2B Lê Đại Hành, P. Phố Huế, Q. Hai Bà Trưng",Bò Ngon 555 - Lê Đại Hành ,10h30 - 13h30 & 17h30 - 21h00,3.6,150.000 – 170.000 đ/người.
+"Buffet Lẩu, Cơm Chảo nóng","Số 64 Dương Khuê, P. Mỹ Đình 2, Q. Nam Từ Liêm",Donkin – Quán Cơm & Lẩu Nhật Bản – Dương Khuê ,11h00 – 13h30 & 17h30 – 21h30 ,3.8,50.000 – 150.000 đ/người
+Gọi món Thái ,"Số 52B Nguyễn Chí Thanh, Q. Đống Đa",Gusto Thai - Nguyễn Chí Thanh,10h00 - 22h00 ,3.8,250.000 – 300.000đ/người
+Gọi món Âu,"Số 27 Hàng Bông, P.Hàng Trống, Q. Hoàn Kiếm",Unique Dining Hanoi - 27 Hàng Bông,10h00 - 21h00,3.7,200.000 – 350.000 đ/người
+Gọi món Á - Âu,"Tầng 3, Khách sạn Wyndham Garden Hanoi, Lô HH-01, Đường Tố Hữu, P. Vạn Phúc, Q. Hà Đông",Silk Garden - Tố Hữu,11h00 - 21h30,3.9,300.000 - 500.000 đ/người
+Gọi món Việt,"Số 43, Ngõ 1 Lê Văn Thiêm, P. Nhân Chính, Q. Thanh Xuân",Emvoi - Lê Văn Thiêm,10h00 - 21h00,3,200.000 – 300.000 đ/người
+Gọi món Việt,"Số 3 Nguyễn Bỉnh Khiêm, P. Nguyễn Du, Q. Hai Bà Trưng",Quán Nhậu Tự Do - Nguyễn Bỉnh Khiêm  ,10h30 – 22h30,3.9,150.000 - 250.000 đ/người
+"Gọi món Việt, Âu","Số 82 Vũ Trọng Khánh, P. Mỗ Lao, Q. Hà Đông",Bếp Trang Restaurant - Vũ Trọng Khánh ,10h30 – 21h30,3.8,100.000 - 300.000 đ/người
+Gọi món Hàn,"Tầng 2, Số 2 Hồ Tùng Mậu, Q. Cầu Giấy",King Dakgalbi - Hồ Tùng Mậu,10h00 - 13h30 & 16h00 - 21h30,3.5,100.000 - 150.000 đ/người
+Gọi món Âu,"Tầng 1, Chung cư 125 Hoàng Ngân, P. Trung Hòa, Q. Cầu Giấy",The Barrel - Hoàng Ngân  ,10h30 – 22h00,3.9,200.000 – 300.000 đ/người
+Gọi món Âu,"Tầng 2, Số 30 Phan Bội Châu, P. Cửa Nam, Q. Hoàn Kiếm",IL Privato - Phan Bội Châu,10h00 - 22h00,3.7,300.000 – 400.000 đ/người
+"Buffet lẩu, Gọi món Việt (Chuyên lẩu)","Số 1, Ngõ 66B Triều Khúc, Q. Thanh Xuân",Lẩu Sơn Tùng - Triều Khúc,10h00 - 13h30 & 17h00 - 22h00,3.7,150.000 – 200.000 đ/người
+Chuyên Lẩu Nấm,"Số 30 Bà Triệu, Q. Hà Đông",Lẩu Nấm Hoàng Gia - Hà Đông ,10h30 – 14h00 & 17h00 – 21h00,3.9,200.000 - 250.000 đ/người
+Gọi món Hàn,"Số 2 Nguyễn Khang, Q. Cầu Giấy",King Dakgalbi - Nguyễn Khang,10h00 - 13h30 và 16h00 - 21h30,3.5,100.000 - 150.000 đ/người
+Gọi món Việt,"Ngõ 20 Trần Kim Xuyến vào 300m , Số 16 – C2, Khu biệt thự 5,2ha, P. Yên Hoà, Q. Cầu Giấy (Cạnh bãi đỗ xe Thông minh và Trường quốc tế Global)","Kim Thuỷ – KBT 5,2 ha Yên Hòa",10h00 - 14h00 & 16h30 – 23h00,3.7,200.000 – 350.000 đ/người
+"Gọi món, Buffet Lẩu Thái","115K1 Giảng Võ, Q. Ba Đình",Bangkok Thai Cuisine - Giảng Võ,11h00 – 13h30 & 17h00  - 21h30,3.7,100.000  -  200.000đ/người
+"Buffet Hải Sản , Á – Âu (tự chọn)","Số 1 Phố Yên Hoa, Đường Thanh Niên, P. Yên Phụ, Q. Tây Hồ",Bay Seafood Buffet - Hồ Tây,11h00 - 13h00 & 18h00 – 20h00,4,338.000 - 386.000 đ/người
+Chuyên Lẩu Bò Đà Lạt,"KĐT Việt Hưng, Đường Nguyễn Cao Luyện, Biệt thự C17 - BT7, Q. Long Biên",Via Dalat - Lẩu Bò Ba Toa - KĐT Việt Hưng,10h00 – 22h00,3.8,100.000 – 150.000 đ/người
+Gọi món Âu,"Số 109 Trịnh Công Sơn, P. Nhật Tân, Q. Tây Hồ",L’Apero - Trịnh Công Sơn,10h00 -  21h00,3.7,150.000 – 250.000 đ/người
+"Buffet, Gọi món Việt","Số 22 Ngõ 92 Nguyễn Khánh Toàn, Q. Cầu Giấy, Hà Nội",Lẩu Sơn Tùng - Nguyễn Khánh Toàn,10h00 – 21h30,3.7,150.000 – 200.000đ/người
+Gọi món Tây Bắc,"Số 9 Lê Duẩn, P. Cửa Nam, Q. Đống Đa",Tùng Bản Quán - Lê Duẩn,17h00 – 3h00 sáng hôm sau,3.7,150.000 – 180.000 đ/người
+Gọi món Âu - Á,"Tầng 1-9-10, Khách sạn Parosand, Số 537 Lạc Long Quân, P. Xuân La, Q. Tây Hồ",Parosand Sky Bar Restaurant  - Lạc Long Quân ,11h00 - 14h00 & 18h00 – 22h00,3.9,300.000 - 400.000 vnđ/người
+Gọi món Việt,"Số 65 Hàm Long, P. Hàng Bài, Q. Hoàn Kiếm",Vạn Long - Hàm Long,10h30 – 21h00,3.7,300.000đ - 400.000đ /người
+Gọi món Việt,"Số 8 Lê Đại Hành, P. Lê Đại Hành, Q. Hai Bà Trưng",Quán Nhậu Tự Do - Lê Đại Hành   ,10h30 – 22h30,3.9,150.000 - 250.000 đ/người
+"Gọi món, Buffet nướng lẩu Hàn Quốc","Ô số 10, Dãy C, Lô TT3, KĐT mới Tây Nam Linh Đàm, P. Hoàng Liệt, Q. Hoàng Mai",Mr. Shin - Quán thịt nướng 5 cấp độ Linh Đàm,10h30 – 13h30 & 17h30 – 21h30,3.7,200.000đ – 300.000 đ/người
