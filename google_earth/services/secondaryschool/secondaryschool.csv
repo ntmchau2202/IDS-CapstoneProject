@@ -1,0 +1,610 @@
+﻿Name,Address
+THCS Trung Hòa,"Số 3, ngõ 22, phố Trung Kính, quận Cầu Giấy, Thành Phố Hà Nội"
+THCS Yên Hòa,"Số 226 đường Trung Kính, quận Cầu Giấy, TP. Hà Nội"
+THCS Dịch Vọng,"86 Chùa Hà, Quan Hoa, Cầu Giấy, Hà Nội"
+THCS Mai Dịch,"Số 2 Dương Khuê, Mai Dịch, Cầu Giấy, Hà Nội"
+THCS Nghĩa Tân,"14 Tô Hiệu – Quận Cầu Giấy, Thành Phố Hà Nội"
+THCS Lê Quý Đôn,"Số 58 Đ. Nguyễn Văn Huyên, Nghĩa Đô, Cầu Giấy, Hà Nội"
+THCS Cầu Giấy,"76 Phố Trương Công Giai, Dịch Vọng, Cầu Giấy, Hà Nội"
+THCS Nam Trung Yên,B5- đường Phạm Hùng (phía sau Big C) phường Nam Trung Yên
+THCS Dịch Vọng Hậu,Ngõ 78 phố Duy Tân phường Dịch Vọng
+THCS Hà Nội Amsterdam,"Hoàng Minh Giám, Trung Hoà, Cầu Giấy, Hà Nội"
+THCS Nguyễn Siêu,"Mạc Thái Tổ, Yên Hoà, Cầu Giấy, Hà Nội"
+Trường Hermann Gmeiner,"Số 02 Doãn Kế Thiện, Phường Mai Dịch, Quận Cầu Giấy, thành phố Hà Nội"
+THCS Nguyễn Bỉnh Khiêm,Số 6 Trần Quốc Hoàn – Quận Cầu Giấy – Hà Nội – Việt Nam
+ THCS Lý Thái Tổ,"165 Hoàng Ngân, Trung Hoà, Cầu Giấy, Hà Nội"
+Trường Quốc Tế Global,"Lô C1, 2, 3, 4, D34 – KĐT Yên Hòa – Cầu Giấy – Quận Cầu Giấy"
+Trường THCS FPT,"15 Đông Quan, Quan Hoa, Cầu Giấy, Hà Nội"
+THCS Nguyễn Tất Thành,"136 Xuân Thủy, Dịch Vọng Hậu, Cầu Giấy, Hà Nội"
+THCS Đông Ngạc,"Ngõ 73 Kẻ Vẽ, Đông Ngạc, Bắc Từ Liêm, Hà Nội"
+THCS Liên Mạc,"Ngõ 19 Liên Mạc, Liên Mạc, Bắc Từ Liêm, Hà Nội"
+THCS Minh Khai,Số 1 – Đường Văn Trì – Phường Minh Khai – Quận Bắc Từ Liêm – Hà Nội
+THCS Phúc Diễn,Đường Đức Diễn – Phường Phúc Diễn – Quận Bắc Từ Liêm – Hà Nội
+THCS Tây Tựu,TDP Thượng 4 – phường Tây Tựu – Quận Bắc Từ Liêm – Hà Nội
+THCS Xuân Đỉnh,"180 Xuân Đỉnh, Quận Bắc Từ Liêm, Hà Nội"
+THCS Thụy Phương,"Số 11/149 đường Thụy Phương, Bắc Từ Liêm, Hà Nội"
+THCS Thượng Cát,"Phường Thượng Cát, quận Bắc Từ Liêm, thành phố Hà Nội"
+THCS Phú Diễn,"Ngõ 332 Hoàng Công Chất, Cầu Diễn, Bắc Từ Liêm, Hà Nội"
+THCS Cổ Nhuế 2,Phường Cổ Nhuế 2 – Quận BắcTừ Liêm – Thành phố Hà Nội
+THCS Đức Thắng,Tổ 1 – Phường Đức Thắng – quận Bắc Từ Liêm – TP. Hà Nội
+TH-THCS Tây Hà Nội,"Phố Kiều Mai, phường Phúc Diễn, quận Bắc Từ Liêm, Hà Nội"
+THCS Everest,"Ngõ 106 +300m Hoàng Quốc Việt (KĐT mới Nghĩa Đô), Bắc Từ Liêm, Hà Nội"
+THCS Biên Giang,"Tổ dân phố Yên Phúc, phường Biên Giang, quận Hà Đông"
+THCS Đồng Mai,Tổ 7 – Phường Đồng Mai – Hà Đông
+THCS Dương Nội,"Dương Nội, Hà Đông"
+THCS Kiến Hưng,"Kiến Hưng, Hà Đông, Hà Nội"
+THCS Lê Hồng Phong,"123 Lê Hồng Phong, P. Nguyễn Trãi, Hà Đông, Hà Nội"
+THCS Mỗ Lao,"Khu đô thị Mỗ Lao, P.Mộ Lao, Q.Hà Đông, TP.Hà Nội, Hà Đông, Hà Nội"
+THCS Trần Đăng Ninh,"99 Lý Tự Trọng, La Khê, Hà Đông, Hà Nội"
+THCS Lê Lợi,"160 Lê Lợi, phường Hà Cầu, quận Hà Đông, Tp. Hà Nội"
+THCS Nguyễn Trãi,"Số 2 Minh Khai, P. Nguyễn Trãi, Hà Đông, Hà Nội"
+THCS Phú La,"Đường Văn La, Phú la, Hà đông"
+THCS Phú Lãm,"Thanh Lãm, Phú Lãm, Hà Đông, Hà Nội"
+THCS Phú Lương,"P. Phú Lương, Q. Hà Đông"
+THCS Văn Khê,"35 Phan Đình Giót, La Khê, Hà Đông, Hà Nội"
+THCS Văn Yên,"P. Phúc La, Hà Đông, Hà Nội"
+THCS Yên Nghĩa,"P. Yên Lộ, Yên Nghĩa, Hà Đông, Hà Nội"
+THCS Mậu Lương,"Khu đấu giá tái định cư, Phường Kiến Hưng, Quận Hà Đông, Hà Nội"
+THCS Vạn Phúc,"91 Ngô Thì Sỹ, Vạn Phúc, Hà Đông, Hà Nội"
+THCS Ban Mai,Lô TH4 khu đô thị Văn Phú – P. Phú La – Hà Đông
+THCS Văn Quán,"Khu đô thị Văn Quán, p. Văn Quán, quận Hà Đông, tp. Hà Nội"
+THCS Lê Quý Đôn,"Lô TH-01, KĐT Dương Nội – Hà Đông – Hà Nội"
+Phổ thông Quốc tế VN,"Khu đô thị Dương Nội, quận Hà Đông, Hà Nội"
+THCS YÊN SƠN – BA VÌ,Xã Yên Sơn
+THCS YÊN BÀI B,Xã Yên Bài
+THCS YÊN BÀI A,Xã Yên Bài
+THCS VẬT LẠI,Xã Vật Lại
+THCS VẠN THẮNG,Xã Vạn Thắng
+THCS VÂN HOÀ,Xã Vân Hòa
+THCS TTNC BÒ & ĐỒNG CỎ,Xã Tản Lĩnh
+THCS TÒNG BẠT,Xã Tòng Bạt
+THCS TIÊN PHONG,Xã Tiên Phong
+THCS THUỴ AN,Xã Thụy An
+THCS THUẦN MỸ,Xã Thuần Mỹ
+THCS THÁI HOÀ,Xã Thái Hòa
+THCS TÂY ĐẰNG,Xã Tây Đằng
+THCS TẢN LĨNH,Xã Tản Lĩnh
+THCS TẢN HỒNG,Xã Tản Hồng
+THCS TẢN ĐÀ,Thị Trấn Tây Đằng
+THCS SƠN ĐÀ,Xã Sơn Đà
+THCS PHÚ SƠN,Xã Phú Sơn
+THCS PHÚ PHƯƠNG,Xã Phú Phương
+THCS PHÚ ĐÔNG,Xã Phú Đông
+THCS PHÚ CƯỜNG – BA VÌ,Xã Phú Cường
+THCS PHÚ CHÂU,Xã Phú Châu
+THCS PHONG VÂN,Xã Phong Vân
+THCS PHỔ THÔNG DÂN TỘC NỘI TRÚ,Xã Ba Trại
+THCS MINH QUANG,Xã Minh Quang
+THCS MINH CHÂU,Xã Minh Châu
+THCS KHÁNH THƯỢNG,Xã Khánh Thượng
+THCS HỢP NHẤT,Xã Ba Vì
+THCS ĐỒNG THÁI,Xã Đồng Thái
+THCS ĐÔNG QUANG,Xã Đông Quang
+THCS CỔ ĐÔ,Xã Cổ Đô
+THCS CHU MINH,Xã Chu Minh
+THCS CHÂU SƠN,Xã Châu Sơn
+THCS CAM THƯỢNG,Xã Cam Thượng
+THCS CẨM LĨNH,Xã Cẩm Lĩnh
+THCS BA TRẠI,Xã Ba Trại
+Trường THCS Xuy Xá,Xuy Xá – Mỹ Đức
+Trường THCS Vạn Kim,Vạn Kim – Mỹ Đức
+Trường THCS Tuy Lai,Tuy Lai – Mỹ Đức
+THCS Tô Vĩnh Diện,Địa chỉ: 12/79 Cẩm Văn – Hàng Bột – Đống Đa – Hà Nội
+THCS Trung Phụng,"Số 38/218 Phố Chợ Khâm Thiên, Đống Đa, Hà Nội"
+THCS Lý Thường Kiệt,"104 Nguyễn Khuyến, Văn Miếu, Đống Đa, Hà Nội"
+THCS Cát Linh,"Số 31, Cát Linh, Đống Đa, Hà Nội"
+THCS Láng Hạ,"Số 1, ngõ 538 đường Láng, Láng Hạ, Đống Đa, Hà Nội"
+THCS Láng Thượng,159 Chùa Láng – Đống Đa – Hà Nội
+THCS Thái Thịnh,"131A Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội"
+THCS Thịnh Quang,"Số 13, Ngõ 122 Đ. Láng, Thịnh Quang, Đống Đa, Hà Nội"
+THCS Tam Khương,"163 Phố Khương Thượng, Khương Thượng, Đống Đa, Hà Nội"
+THCS Quang Trung,"100 Đường Trần Quang Diệu, Q. Đống Đa"
+THCS Khương Thượng,"10 Tôn Thất Tùng, Trung Tự, Đống Đa, Hà Nội"
+THCS Đống Đa,"số 28 Lương Định Của, phường Kim Liên, quận Đống Đa, TP Hà Nội"
+THCS Nguyễn Trường Tộ,"Số 20 – Ngõ 5 – Đường Láng Hạ, Phường Ô Chợ Dừa – Quận Đống Đa, Hà Nội"
+THCS Phương Mai,số 18 Giải Phóng – Đống Đa – Hà Nội
+THCS Bế Văn Đàn,"181 Nguyễn Lương Bằng, Phường Quang Trung, Quận Đống Đa, Thành phố Hà Nội"
+THCS Huy Văn,191 Ngõ Văn Chương – Phường Văn Chương – Đống Đa – Hà Nội
+THCS Xã Đàn,"111, Ngõ Xã Đàn, Phường Nam Đồng, Quận Đống Đa, Hà Nội"
+THCS Ba Đình,"145 Hoàng Hoa Thám, Ngọc Hà, Ba Đình, Hà Nội"
+THCS Giảng Võ,Số 1 Phố Trần Huy Liệu – Ba Đình – Hà Nội
+THCS Hoàng Hoa Thám,"Ngõ 64 – Vĩnh Phúc, Vĩnh Phú, Ba Đình, Hà Nội"
+THCS Mạc Đĩnh Chi,Số 66 Phó Đức Chính – Trúc Bạch – Ba Đình Hà Nội
+THCS Nguyễn Công Trứ,"Số 8 Nguyễn Trường Tộ, Nguyễn Trung Trực, Ba Đình, Hà Nội"
+THCS Nguyễn Trãi,"25 Giang Văn Minh, Kim Mã, Ba Đình, Hà Nội"
+THCS Phan Chu Trinh,"24 Nguyễn Công Hoan, Ngọc Khánh, Ba Đình, Hà Nội"
+THCS Phúc Xá,"2 An Xá, Phúc Xá, Ba Đình, Hà Nội"
+THCS Thăng Long,"46A phố Nguyễn Văn Ngọc, Cống Vị, quận Ba Đình, Hà Nội"
+THCS Thành Công,"Khu C10, Ngõ 7, Nguyên Hồng, Phường Thành Công, Quận Ba Đình, Hà Nội"
+THCS Thống Nhất,"42, Ngõ 210, Đội Cấn, Ba Đình, Hà Nội"
+THCS Thực Nghiệm,"50 Liễu Giai, Cống Vị, Ba Đình, Hà Nội"
+THCS Nguyễn Tri Phương,"67 Cửa Bắc, Quán Thánh, Ba Đình, Hà Nội"
+THCS Giáp Bát,"Số 33, ngõ Giáp Bát (hoặc ngõ 19 đường Kim Đồng), phường Giáp Bát, quận Hoàng Mai"
+THCS Hoàng Liệt,"Số 1, đường Ngọc Hồi, phường Hoàng Liệt, quận Hoàng Mai"
+THCS Hoàng Văn Thụ,"Số 2/160, đường Hoàng Mai, phường Hoàng Văn Thụ, quận Hoàng Mai"
+THCS Lĩnh Nam,"Ngõ 649, đường Lĩnh Nam, phường Lĩnh Nam, quận Hoàng Mai"
+THCS Mai Động,"Số 01, đường Lĩnh Nam, phường Mai Động, quận Hoàng Mai"
+THCS Tân Mai,"Số 147 phố Tân Mai, phường Tân Mai, quận Hoàng Mai"
+THCS Tân Định,"Số 35 phố Nguyễn An Ninh, phường Tương Mai, quận Hoàng Mai"
+THCS Thanh Trì,"Số 1062 đường Nguyễn Khoái, phường Thanh Trì, quận Hoàng Mai"
+THCS Thịnh Liệt,Số 143/79 Phố Nguyễn Chính – Thịnh Liệt – Hoàng Mai – HN
+THCS Trần Phú,"Số 16 đường Khuyến Lương, phường Trần Phú, quận Hoàng Mai"
+THCS Vĩnh Hưng,"Ngõ 126 phố Vĩnh Hưng, phường Vĩnh Hưng, quận Hoàng Mai"
+THCS Yên Sở,"Số 225 phố Yên Duyên, phườngYên Sở, quận Hoàng Mai"
+THCS Đại Kim,"Km số 2, đường Kim Giang, phường Đại Kim, quận Hoàng Mai"
+THCS Đền Lừ,"Khu đô thị Đền Lừ, phường Hoàng Văn Thụ, quận Hoàng Mai"
+THCS Định Công,"Số 136, tổ 16, phường Định Công, quận Hoàng Mai"
+THCS Chương Dương,"103 phố Vọng Hà, phường Chương Dương, Quận Hoàn Kiếm, Hà Nội"
+THCS Hoàn Kiếm,"số 2 Nhà Thờ, Hàng Trống, Hoàn Kiếm, Hà Nội"
+THCS Lê Lợi,"17 Nguyễn Thiện Thuật, Hoàn Kiếm, Hà Nội"
+THCS Nguyễn Du,"44-46 Hàng Quạt, Hàng Gai, Hoàn Kiếm, Hà Nội"
+THCS Ngô Sĩ Liên,"27 Hàm Long, Hàng Bài, Hoàn Kiếm, Hà Nội"
+THCS Thanh Quan,"29 Hàng Cót, Hàng Mã, Hoàn Kiếm, Hà Nội"
+THCS Trưng Vương,"26 Hàng Bài, Hoàn Kiếm, Hà Nội"
+THCS Xuân La,"34 Xuân La, Tây Hồ, Hà Nội"
+THCS Tứ Liên,Số 3 – Ngõ 172 – Đường Âu Cơ – Tây Hồ
+THCS Quảng An,"Ngõ 11 đường Tô Ngọc Vân, Tây Hồ"
+THCS Phú Thượng,"Số 37 Phú Gia, Phú Thượng, Tây Hồ, Hà Nội"
+THCS Nhật Tân,"474, Lạc Long Quân, Q.Tây Hồ, Hà Nội"
+THCS Đông Thái,"149 Trích Sài, Bưởi, Tây Hồ, Hà Nội"
+THCS Chu Văn An,"17 Thụy Khuê, Bưởi, Hà Nội"
+THCS An Dương,"88A Nghi Tàm, Yên Phụ, Tây Hồ, Hà Nội"
+THCS Ái Mộ,"Số 34, Ngõ 298, Ngọc Lâm, Long Biên, TP. Hà Nội"
+THCS Đức Giang,"Tổ 6A, phố Ô Cách, Phường Đức Giang, Quận Long Biên, TP. Hà Nội"
+THCS Đô Thị Việt Hưng,"Lô TH 03, Khu Đô Thị Việt Hưng, Quận Long Biên, TP. Hà Nội"
+THCS Bồ Đề,"310 phố Hoàng Như Tiếp, Phường Bồ Đề, Quận Long Biên, TP. Hà Nội"
+THCS Cự Khối,"Tổ 11 P. Cự Khối, Long Biên, TP. Hà Nội"
+THCS Gia thụy,"Ngõ 562, Đường Nguyễn Văn Cừ, Long Biên, TP. Hà Nội"
+THCS Giang Biên,"Tổ 5 P. Giang Biên, Long Biên, TP. Hà Nội"
+THCS Long Biên,"Số 21 Phố Tư Đình, P. Long Biên, Q.Long Biên, TP. Hà Nội"
+THCS Ngọc Lâm,"Số 6, ngõ 370 Nguyễn Văn Cừ, P. Bồ Đề, Long Biên , TP. Hà Nội"
+THCS Ngọc Thụy,"Nghách 268/58 Ngọc Thuỵ, Ngọc Thụy, Hà Nội, Việt Nam, TP. Hà Nội"
+THCS Ngô Gia Tự,"82 Ngõ 528 Ngô Gia Tự, Long Biên, TP. Hà Nội"
+THCS Phúc Lợi,"Tổ 4, P. Phúc Lợi, Long Biên, TP. Hà Nội"
+THCS Phúc Đồng,"Tổ 5, Phường Phúc Đồng, Long Biên, TP. Hà Nội"
+THCS Sài Đồng,"Số 11 Ngõ 557 Đường Nguyễn Văn Linh, Long Biên, TP. Hà Nội"
+THCS Thạch Bàn,"193 phố Thạch Bàn, phường Thạch Bàn, Long Biên, TP. Hà Nội"
+THCS Thượng Thanh,"Tổ 12, P. Thượng Thanh, Q. Long Biên, TP. Hà Nội"
+THCS Việt Hưng,"Tổ 4 P. Việt Hưng, Long Biên, TP. Hà Nội"
+THCS Thanh Am,"Tổ 20, Thượng Thanh, Long Biên, Hà Nội"
+THPT Thạch Bàn,"Tổ 12, Phường Thạch Bàn, Quận Long Biên, Hà Nội"
+THCS Đoàn Kết,"27 Chùa Vua, Quận Hai Bà Trưng, Hà Nội"
+THCS Hà Huy Tập,"19, Ngõ 204 Hồng Mai, Phường Quỳnh Lôi, Quận Hai Bà Trưng, Hà Nội"
+THCS Hai Bà Trưng,94B Đê Trần Khát Chân – Phường Thanh Lương – Quận Hai Bà Trưng – Hà Nội
+THCS Lê Ngọc Hân,"Phố Thi Sách, Phạm Đình Hổ, Hai Bà Trưng, Hà Nội"
+THCS Lương Yên,"Ngõ 63 Lương Yên, Phường Bạch Đằng, Quận Hai Bà Trưng, Hà Nội"
+THCS Minh Khai,"84 Kim Ngưu, Hai Bà Trưng, Hà Nội"
+THCS Ngô Gia Tự,"4 ngõ 300 Bạch Mai, Hai Bà Trưng, Hà Nội"
+THCS Ngô Quyền,273 Ngõ Quỳnh – Phường Quỳnh Lôi – Quận Hai Bà Trưng – TP. Hà Nội
+THCS Nguyễn Đình Chiểu,"21 Lạc Trung, phường Vĩnh Tuy, quận Hai Bà Trưng, Thành phố Hà Nội"
+THCS Nguyễn Phong Sắc,"Ngõ 44 Đại La, Trương Định, Hai Bà Trưng, Hà Nội"
+THCS Quỳnh Mai,"C2-C6 Phố Quỳnh Lôi, Quỳnh Mai, Hai Bà Trưng, Hà Nội"
+THCS Tây Sơn,"52A Trần Nhân Tông, Nguyễn Du, Hai Bà Trưng, Hà Nội"
+THCS Tô Hoàng,"27 Đại Cồ Việt, Cầu Dền, Hai Bà Trưng, Hà Nội"
+THCS Trưng Nhị,"30 Hương Viên, Đồng Nhân, Hai Bà Trưng, Hà Nội"
+THCS Vân Hồ,"193 Bà Triệu, Lê Đại Hành, Hai Bà Trưng, Hà Nội"
+THCS Vĩnh Tuy,"Ngõ 34 Vĩnh Tuy, Phường Vĩnh Tuy, Quận Hai Bà Trưng, Hà Nội"
+THCS Việt Nam-Angiêri,"Đường Nguyễn Quý Đức, Thanh Xuân Bắc, quận Thanh Xuân, Hà Nội"
+THCS Phan Đình Giót,"Số 3, phố Nhân Hòa, phường Nhân Chính, quận Thanh Xuân, Hà Nội"
+THCS Nguyễn Trãi,số 126 – Khương Trung – Thanh Xuân – Hà Nội
+THCS Phương Liệt,– Địa chỉ:
+THCS Kim Giang,Phố Hoàng Đạo Thành – Thanh Xuân – Hà Nội
+THCS Thanh Xuân Nam,Phường Thanh Xuân Nam – Quận Thanh Xuân – TP Hà Nội
+THCS Khương Đình,"16 Khương Hạ, Khương Đình, Thanh Xuân, Hà Nội"
+THCS Nhân Chính,Số 17 ngõ 134 Phố Quan Nhân – Phường Nhân Chính – Quận Thanh Xuân – TP Hà Nội
+THCS Hạ Đình,Ngõ 460 Đường Khương Đình – Hạ Đình – Quận Thanh Xuân
+THCS Khương Mai,ngõ 93 Hoàng Văn Thái – Quận Thanh Xuân – TP Hà Nội
+ THCS Thanh Xuân,203 Nguyễn Huy Tưởng – Thanh Xuân – Hà Nội
+THCS Thanh Xuân Trung,"90 Nguyễn Tuân, Thanh Xuân Trung, Thanh Xuân, Hà Nội"
+ THCS Nguyễn Lân,"53 Triều Khúc, Phường Thanh Xuân Nam, Quận Thanh Xuân, Thành phố Hà Nội"
+Trường THCS Bắc Sơn,"Bắc Sơn, Sóc Sơn"
+Trường THCS Tân Minh B,"Xuân Đồng, Sóc Sơn"
+Trường THCS Bắc Phú,"Bắc Phú, Sóc Sơn"
+THCS THỊ TRẤN – ĐÔNG ANH,"Thị Trấn Đông Anh, huyện Đông Anh, Hà Nội"
+THCS TÀM XÁ,Xã Tàm Xá – Đông Anh
+THCS NGUYÊN KHÊ,Xã Nguyên Khê – Đông Anh
+THCS NGUYỄN HUY TƯỞNG,Thị Trấn Đông Anh
+THCS NAM HỒNG,Xã Nam Hồng – Đông Anh
+THCS MAI LÂM,Xã Mai Lâm – Đông Anh
+THCS LIÊN HÀ – ĐÔNG ANH,Xã Liên Hà – Đông Anh
+THCS KIM NỖ,Xã Kim Nỗ – Đông Anh; Điện thoại: 02438810005
+THCS KIM CHUNG – ĐÔNG ANH,Xã Kim Chung – Đông Anh
+THCS HẢI BỐI,Xã Hảo Bối – Đông Anh
+THCS DỤC TÚ,Xã Dục Tú – Đông Anh
+THCS ĐÔNG HỘI,Xã Đông Hội – Đông Anh
+THCS CỔ LOA,Xã Cổ Loa – Đông Anh
+THCS BÙI QUANG MẠI,Xã Đại Mạch – Đông Anh
+THCS BẮC HỒNG,Xã Bắc Hồng – Đông Anh
+THCS XUÂN NỘN,Xã Xuân Nộn – Đông Anh
+THCS XUÂN CANH,Xã Xuân Canh – Đông Anh
+THCS VÕNG LA,Xã Võng La – Đông Anh
+THCS VĨNH NGỌC,Xã Vĩnh Ngọc – Đông Anh
+THCS VIỆT HÙNG,Xã Việt Hùng – Đông Anh
+THCS VÂN NỘI,Xã Vân Nội – Đông Anh
+THCS VÂN HÀ – ĐÔNG ANH,Xã Vân Hà – Đông Anh
+THCS UY NỖ,Xã Uy Nỗ – Đông Anh
+THCS TIÊN DƯƠNG,Xã Tiên Dương – Đông Anh
+THCS THỤY LÂM,Xã Thuỵ Lâm – Đông Anh
+THCS Cao Bá Quát,Khu Đô Thị Đặng Xá – Gia Lâm – Hà Nội
+THCS Cổ Bi,Thôn Cam – Xã Cổ Bi – Huyện Gia Lâm – TP Hà Nội
+THCS Lệ Chi,"Xã Lệ Chi, H. Gia Lâm, TP. Hà Nội"
+THCS Yên Viên,"Xã Yên Viên, H. Gia Lâm, TP. Hà Nội"
+THCS Thị Trấn Trâu Quỳ,"TT. Trâu Quỳ, Huyện Gia Lâm, Hà Nội"
+THCS Kim Lan,"Xã Kim Lan, Huyện Gia Lâm, Thành phố Hà Nội"
+THCS Đặng Xá,"Thôn Hoàng Long, Xã Đặng Xá, H. Gia Lâm, TP. Hà Nội"
+THCS Phú Thị,"Xã Phú Thị, H. Gia Lâm, TP. Hà Nội;"
+THCS Đa Tốn,"Thôn Đào Xuyên, Xã Đa Tốn, H. Gia Lâm, TP. Hà Nội"
+THCS Đình Xuyên,"Xã Đình Xuyên, H. Gia Lâm, TP. Hà Nội"
+THCS Dương Quang,"Xã Dương Quang, H. Gia Lâm, TP. Hà Nội"
+THCS Kim Sơn,"Xã Kim Sơn, Huyện Gia Lâm, TP Hà Nội"
+THCS Dương Hà,"Thôn Trung, xã Dương Hà, Huyện Gia Lâm, Hà Nội"
+THCS Yên Thường,"Thôn Yên Khê, xã Yên Thường, Huyện Gia Lâm, Hà Nội"
+THCS Văn Đức,"Xã Văn Đức, Huyện Gia Lâm, Thành phố Hà Nội"
+THCS Bát Tràng,"Thôn Giang Cao, Xã Bát Tràng, Huyện Gia Lâm, TP Hà Nội"
+THCS Kiêu Kỵ,"Thôn Kiêu Kỵ, xã Kiêu Kỵ, Huyện Gia Lâm, Thành phố Hà Nội"
+THCS Dương Xá,"xã Dương Xá, huyện Gia Lâm, thành phố Hà Nội"
+THCS Ninh Hiệp,"Xã Ninh Hiệp, Huyện Gia Lâm, Hà Nội"
+THCS Phù Đổng,"Xã Phù Đổng, Huyện Gia Lâm, TP Hà Nội"
+THCS Thị Trấn Yên Viên,"Xã Yên Viên, H. Gia Lâm, TP. Hà Nội"
+THCS Đông Dư,"Xã Đông Dư, H. Gia Lâm, TP. Hà Nội"
+Trường THCS Trung Mầu,"Thôn trung xã trung mầu, Huyện Gia Lâm, Hà Nội"
+TH&THCS Hanoi Victoria,"Khu Nội Thương, Dương Xá, Gia Lâm, Hà Nội"
+THCS Trung Văn,"đường Trung Văn, phường Trung Văn, quận Nam Từ Liêm, Tp Hà Nội"
+THCS Tây Mỗ,"Số 2 phố Cầu Cốc, Phường Tây Mỗ, Q. Nam Từ Liêm, Hà Nội"
+THCS Đại Mỗ,Số 1 tổ dân phố Ngọc Trục – Phường Đại Mỗ – Quận Nam Từ Liêm
+THCS Phương Canh,"Hòe Thị, Phường Phương Canh, Quận Nam Từ Liêm, Hà Nội"
+THCS Phú Đô,"Đường Lê Quang Đạo, Phường Phú Đô, Quận Nam Từ Liêm"
+THCS Nam Từ Liêm,Khu đô thị mới Xuân Phương – Phường Xuân Phương – Quận Nam Từ Liêm – Hà Nội
+THCS Mỹ Đình 1,"Tổ dân phố số 3, phường Mỹ Đình 1, quận Nam Từ Liêm, Hà Nội"
+THCS Mỹ Đình 2,"254 Đường Mỹ Đình, Mỹ Đình, Từ Liêm, Hà Nội"
+THCS Mễ Trì,"Đồng Me, Mễ Trì, Nam Từ Liêm, Hà Nội"
+THCS Lý Nam Đế,TDP Số 4 Miêu Nha – Phường Tây Mỗ – Quận Nam Từ Liêm – Hà Nội
+THCS Trần Quốc Tuấn,"Phú Mỹ, Mỹ Đình, Từ Liêm, Hà Nội"
+THCS Việt Úc,"Lưu Hữu Phước, Khu đô thị Mỹ Đình I, Nam Từ Liêm, Hà Nội"
+THCS Lômônôxốp,"Trần Văn Cẩn, Phường Mỹ Đình 2, Trần Văn Cẩn, Mỹ Đình, Từ Liêm, Hà Nội"
+THCS Marie Curie,"Phố Trần Văn Lai, Mễ Trì, Nam Từ Liêm, Hà Nội"
+THCS Thị Trấn Văn Điển,"Khu đô thị mới Tứ Hiệp, Xã Tứ Hiệp, Huyện Thanh Trì, Hà Nội"
+THCS Tứ Hiệp,"Xã Tứ Hiệp, huyện Thanh Trì, thành phố Hà Nội"
+THCS Vạn Phúc,"Thôn 1 xã vạn phúc, Xã Vạn Phúc, Huyện Thanh Trì, Hà Nội"
+THCS Vĩnh Quỳnh,Xã Vĩnh Quỳnh – Thanh Trì – Hà Nội
+THCS Yên Mỹ,Xóm 7 – Yên Mỹ – Thanh Trì – Hà Nội
+THCS Chu Văn An,"Tứ Hiệp, Thanh Trì, Hà Nội"
+THCS Đại Áng,Xã Đại Áng – Thanh Trì – Hà Nội
+THCS Đông Mỹ,Thôn 2 – Xã Đông Mỹ – H.Thanh Trì – TP Hà Nội
+THCS Thanh Liệt,"Thôn Trung, Xã Thanh Liệt, Huyện Thanh Trì, Thành phố Hà Nội"
+THCS Tả Thanh Oai,Thôn Nhân Hòa – Tả Thanh Oai – Thanh Trì – Hà Nội
+THCS Tân Triều,"Ngõ 138, Triều Khúc, Xã Tân Triều, H. Thanh Trì, Tp. Hà Nội"
+THCS Tam Hiệp,"Huỳnh Cung, Xã Tam Hiệp, Huyện Thanh Trì, Hà Nội"
+THCS Ngũ Hiệp,Thôn Việt Yên – xã Ngũ Hiệp – huyện Thanh Trì – TP Hà Nội
+THCS Ngọc Hồi,Thôn Yên Kiện – Xã Ngọc Hồi – Huyện Thanh Trì – Hà Nội
+THCS Liên Ninh,"1A, thôn Yên Phú, Xã Liên Ninh, Huyện Thanh Trì, Thành phố Hà Nội"
+THCS Hữu Hòa,"Thôn Hữu Trung Hữu hoà, Xã Hữu Hoà, Huyện Thanh Trì, Hà Nội"
+THCS Duyên Hà,Xã Duyên Hà – Huyện Thanh Trì – Hà Nội
+THCS VẠN YÊN,Xã Vạn Yên – Mê Linh
+THCS VĂN KHÊ B,Xã Văn Khê – Mê Linh
+THCS VĂN KHÊ A,Xã Văn Khê – Mê Linh
+THCS TỰ LẬP,Xã Tự Lập – Mê Linh
+THCS TRƯNG VƯƠNG – MÊ LINH,Xã Thanh Lâm – Mê Linh
+THCS TRÁNG VIỆT,Xã Tráng Việt – Mê Linh
+THCS TIẾN THỊNH,Xã Tiến Thịnh – Mê Linh
+THCS TIẾN THẮNG,Xã Tiến Thắng – Mê Linh
+THCS TIỀN PHONG – MÊ LINH,Xã Tiền Phong – Mê Linh
+THCS THANH LÂM B,Xã Thanh Lâm – Mê Linh
+THCS THANH LÂM A,Xã Thanh Lâm – Mê Linh
+THCS TAM ĐỒNG,Xã Tam Đồng – Mê Linh
+THCS QUANG MINH,TT Quang Minh – Mê Linh
+THCS Phạm Hồng Thái,Xã Thạch Đà – Mê Linh
+THCS MÊ LINH,Xã Mê Linh – Mê Linh
+THCS LIÊN MẠC B,Xã Liên Mạc – Mê Linh
+THCS LIÊN MẠC A,Xã Kim Hoa – Mê Linh
+THCS KIM HOA,Xã Kim Hoa – Mê Linh
+THCS HOÀNG KIM,Xã Hoàng Kim -mê Linh
+THCS ĐẠI THỊNH A,Xã Đại Thịnh – Mê Linh
+THCS CHU PHAN,Xã Chu Phan – Mê Linh
+THCS CHI ĐÔNG,TT Chi Đông – Mê Linh
+THCS XUÂN SƠN,Xã Xuân Sơn
+THCS XUÂN KHANH,Phường Xuân Khanh
+THCS VIÊN SƠN,Phường Viên Sơn
+THCS TRUNG SƠN TRẦM,Phường Trung Sơn Trầm
+THCS TRUNG HƯNG,Phường Trung Hưng
+THCS THANH MỸ,Xã Thanh Mỹ
+THCS SƠN TÂY,Phường Trung Hưng
+THCS SƠN LỘC,Phường Sơn Lộc
+THCS SƠN ĐÔNG,Xã Sơn Đông
+THCS PHÙNG HƯNG,Phường Quang Trung
+THCS NGÔ QUYỀN – SƠN TÂY,Phường Ngô Quyền
+THCS KIM SƠN – SƠN TÂY,Xã Kim Sơn
+THCS HỒNG HÀ – SƠN TÂY,Phường Lê Lợi
+THCS ĐƯỜNG LÂM,Xã Đường Lâm
+THCS CỔ ĐÔNG,Xã Cổ Đông
+THCS YÊN SƠN – BA VÌ,Xã Yên Sơn
+THCS YÊN BÀI B,Xã Yên Bài
+THCS YÊN BÀI A,Xã Yên Bài
+THCS VẬT LẠI,Xã Vật Lại
+THCS VẠN THẮNG,Xã Vạn Thắng
+THCS VÂN HOÀ,Xã Vân Hòa
+THCS TTNC BÒ & ĐỒNG CỎ,Xã Tản Lĩnh
+THCS TÒNG BẠT,Xã Tòng Bạt
+THCS TIÊN PHONG,Xã Tiên Phong
+THCS THUỴ AN,Xã Thụy An
+THCS THUẦN MỸ,Xã Thuần Mỹ
+THCS THÁI HOÀ,Xã Thái Hòa
+THCS TÂY ĐẰNG,Xã Tây Đằng
+THCS TẢN LĨNH,Xã Tản Lĩnh
+THCS TẢN HỒNG,Xã Tản Hồng
+THCS TẢN ĐÀ,Thị Trấn Tây Đằng
+THCS SƠN ĐÀ,Xã Sơn Đà
+THCS PHÚ SƠN,Xã Phú Sơn
+THCS PHÚ PHƯƠNG,Xã Phú Phương
+THCS PHÚ ĐÔNG,Xã Phú Đông
+THCS PHÚ CƯỜNG – BA VÌ,Xã Phú Cường
+THCS PHÚ CHÂU,Xã Phú Châu
+THCS PHONG VÂN,Xã Phong Vân
+THCS PHỔ THÔNG DÂN TỘC NỘI TRÚ,Xã Ba Trại
+THCS MINH QUANG,Xã Minh Quang
+THCS MINH CHÂU,Xã Minh Châu
+THCS KHÁNH THƯỢNG,Xã Khánh Thượng
+THCS HỢP NHẤT,Xã Ba Vì
+THCS ĐỒNG THÁI,Xã Đồng Thái
+THCS ĐÔNG QUANG,Xã Đông Quang
+THCS CỔ ĐÔ,Xã Cổ Đô
+THCS CHU MINH,Xã Chu Minh
+THCS CHÂU SƠN,Xã Châu Sơn
+THCS CAM THƯỢNG,Xã Cam Thượng
+THCS CẨM LĨNH,Xã Cẩm Lĩnh
+THCS BA TRẠI,Xã Ba Trại
+THCS XUÂN PHÚ,Xã Xuân Phú
+THCS VÕNG XUYÊN,Xã Võng Xuyên
+THCS VÂN PHÚC,Xã Vân Phúc
+THCS VÂN NAM,Xã Vân Nam
+THCS VÂN HÀ – PHÚC THỌ,Xã Vân Hà
+THCS TRẠCH MỸ LỘC,Xã Trạch Mỹ Lộc
+THCS TÍCH GIANG,Xã Tích Giang
+THCS THƯỢNG CỐC,Xã Thượng Cốc
+THCS Thượng Cốc,Xã Thượng Cốc
+THCS THỌ LỘC,Xã Thọ Lộc
+THCS THỊ TRẤN – PHÚC THỌ,Thị Trấn Phúc Thọ
+THCS THANH ĐA,Xã Thanh Đa
+THCS TAM THUẤN,Xã Tam Thuấn
+THCS TAM HIỆP – PHÚC THỌ,Xã Tam Hiệp
+THCS SEN CHIỂU,Xã Sen Chiểu
+THCS PHƯƠNG ĐỘ,Xã Phương Độ
+THCS PHỤNG THƯỢNG,Xã Phụng Thượng
+THCS PHÚC HOÀ,Xã Phúc Hòa
+THCS NGỌC TẢO,Xã Ngọc Tảo
+THCS LONG XUYÊN,Xã Long Xuyên
+THCS LIÊN HIỆP,Xã Liên Hiệp
+THCS HIỆP THUẬN,Xã Hiệp Thuận
+THCS HÁT MÔN,Xã Hát Môn
+THCS CẨM ĐÌNH,Xã Cẩm Đình
+THCS TRUNG CHÂU,Thôn 4 – Trung Châu – Đan Phượng
+THCS TÔ HIẾN THÀNH,Thôn Hạ Mỗ – Xã Hạ Mỗ -huyện Đan Phượng
+THCS THƯỢNG MỖ,Thôn Đại Phú- Thượng Mỗ – Đan Phượng
+THCS THỌ XUÂN,"Cụm 3, Xã Thọ Xuân- Đan Phượng"
+THCS THỌ AN,Cụm 4- Thôn Đông Hải- Thọ An- Đan Phượng
+THCS TÂN LẬP,Thôn Ngọc Kiệu – Xã Tân Lập – Đan Phượng
+THCS TÂN HỘI,Thôn Phan Long – Tân Hội – Đan Phượng
+THCS SONG PHƯỢNG,Thôn Thu Quế – Song Phượng – Đan Phượng
+THCS PHƯƠNG ĐÌNH,Thôn La Thạch – Phương Đình – Đan Phượng
+THCS LƯƠNG THẾ VINH,Phố Phùng Hưng- Thị Trấn Phùng- Đan Phượng
+THCS LIÊN TRUNG,Thôn Trung – Xã Liên Trung – Đan Phượng
+THCS LIÊN HỒNG,Thôn Đông Lai – Liên Hồng – Đan Phượng
+THCS LIÊN HÀ – ĐAN PHƯỢNG,"Cụm 1, Thôn thượng – Xã Liên Hà – Đanphượng"
+THCS HỒNG HÀ – ĐAN PHƯỢNG,"Cụm 3 Đồng Tiến, Xã Hồng Hà, Huyện Đan Phượng"
+THCS ĐỒNG THÁP,Thôn Thụy – Xã Đồng Tháp- Huyện Đan Phượng
+THCS ĐAN PHƯỢNG,Thôn Đông Khê- Đan Phượng- Đan Phượng
+THCS YÊN SỞ – HOÀI ĐỨC,Yên Sở – Hoài Đức
+THCS VÂN CÔN,Xã Vân Côn -Hoài Đức
+THCS VÂN CANH,Vân Canh- Hoài Đức
+THCS TIỀN YÊN,Tiền Yên- Hoài Đức
+THCS THỊ TRẤN TRẠM TRÔI,Khu 7 TT Trạm Trôi
+THCS SONG PHƯƠNG,Song Phương- Hoài Đức
+THCS SƠN ĐỒNG,Xã Sơn Đồng- Hoài Đức
+THCS NGUYỄN VĂN HUYÊN,Xã Sơn Đồng- Hoài Đức
+THCS MINH KHAI,Minh Khai- Hoài Đức
+THCS LẠI YÊN,Lại Yên- Hoài Đức
+THCS LA PHÙ,La Phù- Hoài Đức
+THCS KIM CHUNG,Kim Chung- Hoài Đức
+THCS DƯƠNG LIỄU,Dương Liễu- Hoài Đức
+THCS ĐỨC THƯỢNG,Đức Thượng- Hoài Đức
+THCS ĐỨC GIANG,Đức Giang- Hoài Đức
+THCS ĐÔNG LA,Đông La- Hoài Đức
+THCS DI TRẠCH,Di Trạch- Hoài Đức
+THCS ĐẮC SỞ,Đắc Sở- Hoài Đức
+THCS CÁT QUẾ B,Cát Quế- Hoài Đức
+THCS CÁT QUẾ A,Cát Quế- Hoài Đức
+THCS AN THƯỢNG,An Thượng – Hoài Đức
+THCS AN KHÁNH,Xã An Khánh-hoài Đức
+THCS YÊN SƠN – QUỐC OAI,Thôn Sơn Trung – Xã Yên Sơn – Huyện Quốc Oai
+THCS TUYẾT NGHĨA,Xã Tuyết Nghĩa – Huyện Quốc Oai
+THCS THỊ TRẤN – QUỐC OAI,Thôn Du Nghệ – Thị Trấn Quốc Oai – Huyện Quốc Oai
+THCS THẠCH THÁN,Xóm 1 – Xã Thạch Thán – Huyện Quốc Oai
+THCS TÂN PHÚ,Thôn Phú Hạng – Xã Tân Phú – Huyện Quốc Oai
+THCS TÂN HOÀ,Xã Tân Hoà – Huyện Quốc Oai
+THCS SÀI SƠN,Thôn Thụy Khuê – Xã Sài Sơn – Huyện Quốc Oai
+THCS PHƯỢNG CÁCH,Đội 9 Khu 3 – Xã Phượng Cách – Huyện Quốc Oai
+THCS PHÚ MÃN,Thôn Đồng Âm – Xã Phú Mãn – Huyện Quốc Oai
+THCS PHÚ CÁT,Thôn 4 – Xã Phú Cát – Huyện Quốc Oai
+THCS NGỌC MỸ,Thôn Phú Mỹ – Xã Ngọc Mỹ – Huyện Quốc Oai
+THCS NGỌC LIỆP,Xã Ngọc Liệp – Huyện Quốc Oai
+THCS NGHĨA HƯƠNG,Thôn văn Khê – Xã Nghĩa Hương – Huyện Quốc Oai
+THCS LIỆP TUYẾT,Xã Liệp Tuyết – Huyện Quốc Oai
+THCS KIỀU PHÚ,Thôn Du Nghệ – Thị Trấn Quốc Oai – Huyện Quốc Oai
+THCS HOÀ THẠCH,Thôn Bạch Thạch – Xã Hoà Thạch – Huyện Quốc Oai
+THCS ĐÔNG YÊN,Xã Đông Yên – Huyện Quốc Oai
+THCS ĐÔNG XUÂN – QUỐC OAI,Thôn Lập Thành – Xã Đông Xuân – Huyện Quốc Oai
+THCS ĐỒNG QUANG,Thôn Yên Nội- Xã Đồng Quang – Huyện Quốc Oai
+THCS ĐẠI THÀNH,Xã Đại Thành – Huyện Quốc Oai
+THCS CỘNG HOÀ,Xã Cộng Hoà – Huyện Quốc Oai
+THCS CẤN HỮU,Thôn Cấn Thượng – Xã Cấn Hữu – Huyện Quốc Oai
+THCS YÊN TRUNG,ĐC: Thôn Đầm Bối – Yên Trung- Thạch Thấ t- Hà Nội
+THCS YÊN BÌNH,ĐC: Xóm Đình – Xã Yên Bình – Thạch Thất
+THCS TIẾN XUÂN,ĐC: Gò Chói – Tiến Xuân – Thạch Thất
+THCS THẠCH XÁ,ĐC: Thôn Yên – Xã Thạch Xá – Thạch Thất
+THCS THẠCH THẤT,ĐC: Thị Trấn Liên Quan – Huyện Thạch Thất
+THCS THẠCH HOÀ,ĐC: Thôn 10 – Xã Thạch Hòa – Thạch Thất
+THCS TÂN XÃ,Thôn Cừ Viên – Xã Tân Xã – Thạch Thất
+THCS PHÙNG XÁ – THẠCH THẤT,ĐC: Xóm 1 – Thôn Vĩnh Lộc – Xã Phùng Xá – Thạch Thất
+THCS PHÚ KIM,Thôn Phú Nghĩa – Xã Phú Kim – Huyện Thạch Thất
+THCS MINH HÀ – CANH NẬU,ĐC: Thôn 4 – Xã Canh Nậu – Huyện Thạch Thất
+THCS LIÊN QUAN,ĐC: Thị trấn Liên Quan – Thạch Thất
+THCS LẠI THƯỢNG,Thôn Lại Khánh – Xã Lại Thượng – Huyện Thạch Thất
+THCS KIM QUAN,ĐC: Thôn 3 – Xã Kim Quan – Huyện Thạch Thất
+THCS HỮU BẰNG,Thôn Bò – Xã Hữu Bằng – Thạch Thất
+THCS HƯƠNG NGẢI,Thôn 8 – Xã Hương Ngải – Thạch Thất
+THCS HẠ BẰNG,ĐC: Thôn 6 – Xã Hạ Bằng -thạch Thất
+THCS ĐỒNG TRÚC,ĐC: Thôn Trúc Động – Xã Đồng Trúc – Thạch Thất
+THCS DỊ NẬU,ĐC: Thôn Hoà Bình – Xã Dị Nậu – Thạch Thất
+THCS ĐẠI ĐỒNG,ĐC: Thôn Ngọc Lâu – Đại Đồng – Thạch Thất
+THCS CHÀNG SƠN,ĐC: Thôn 1 – Chàng Sơn – Thạch Thất
+THCS CẦN KIỆM,ĐC: Xã Cần Kiệm – Thạch Thất
+THCS CẨM YÊN,ĐC: Thôn Yên Lỗ – Xã Cẩm Yên – Huyện Thạch Thất
+THCS BÌNH YÊN,ĐC: Bình Yên – Thạch Thất
+THCS BÌNH PHÚ,ĐC: Xã Bình Phú – Huyện Thạch Thất
+THCS XUÂN MAI B,Tt Xuân Mai
+THCS XUÂN MAI A,Tt Xuân Mai
+THCS VĂN VÕ,Xã Văn Võ
+THCS TT CHÚC SƠN,Xã Trường Yên
+THCS TRƯỜNG YÊN,Xã Trung Hòa
+THCS TRUNG HOÀ – CHƯƠNG MỸ,Xã Trần Phú
+THCS TRẦN PHÚ – CHƯƠNG MỸ,Xã Trần Phú
+THCS TỐT ĐỘNG,Xã Tốt Động
+THCS TIÊN PHƯƠNG,Xã Tiên Phương
+THCS THUỶ XUÂN TIÊN,Xã Thủy Xuân Tiên
+THCS THỤY HƯƠNG,Xã Thụy Hương
+THCS THƯỢNG VỰC,Xã Thượng Vực
+THCS THANH BÌNH,Xã Thanh Bình
+THCS TÂN TIẾN,Xã Tân Tiến
+THCS QUẢNG BỊ,Xã Quảng Bị
+THCS PHỤNG CHÂU,Xã Phụng Châu
+THCS PHÚ NGHĨA,Xã Phú Nghĩa
+THCS PHÚ NAM AN,Xã Phú Nam An
+THCS NGỌC HOÀ,Xã Ngọc Hòa
+THCS NGÔ SĨ LIÊN – CHƯƠNG MỸ,Tt Chúc Sơn
+THCS NAM PHƯƠNG TIẾN B,Xã Nam Phương Tiến
+THCS NAM PHƯƠNG TIẾN A,Xã Nam Phương Tiến
+THCS MỸ LƯƠNG,Xã Mỹ Lương
+THCS LƯƠNG MỸ,Xã Hoàng Văn Thụ
+THCS LAM ĐIỀN,Xã Lam Điền
+THCS HỮU VĂN,Xã Hữu Văn
+THCS HỢP ĐỒNG,Xã Hợp Đồng
+THCS HỒNG PHONG,Xã Hồng Phong
+THCS HOÀNG VĂN THỤ – CHƯƠNG MỸ,Xã Hoàng Văn Thụ
+THCS HOÀNG DIỆU – CHƯƠNG MỸ,Xã Hoàng Diệu
+THCS HOÀ CHÍNH,Xã Hòa Chính
+THCS ĐÔNG SƠN,Xã Đông Sơn
+THCS ĐÔNG PHƯƠNG YÊN,Xã Đông Phương Yên
+THCS ĐỒNG PHÚ,Xã Đồng Phú
+THCS ĐỒNG LẠC,Xã Đồng Lạc
+THCS ĐẠI YÊN,Xã Đại Yên
+THCS BÊ TÔNG,Xã Thủy Xuân Tiên
+THCS XUÂN DƯƠNG,"Xã Xuân Dương , Huyện Thanh Oai"
+THCS THANH VĂN,"Xã Thanh Văn , Huyện Thanh Oai"
+THCS THANH THUỲ,"Xã Thanh Thuỳ , Huyện Thanh Oai"
+THCS THANH MAI,"Xã Thanh Mai , Huyện Thanh Oai"
+THCS THANH CAO,"Xã Thanh Cao , Huyện Thanh Oai"
+THCS TÂN ƯỚC,"Xã Tân Ước , Huyện Thanh Oai"
+THCS TAM HƯNG,"Xã Tam Hưng , Huyện Thanh Oai"
+THCS PHƯƠNG TRUNG,"Xã Phương Trung , Huyện Thanh Oai"
+THCS NGUYỄN TRỰC – TT KIM BÀI,"Tt Kim Bài , Huyện Thanh Oai"
+THCS MỸ HƯNG,"Xã Mỹ Hưng , Huyện Thanh Oai"
+THCS LIÊN CHÂU,"Xã Liên Châu , Huyện Thanh Oai"
+THCS KIM THƯ,"Xã Kim Thư , Huyện Thanh Oai"
+THCS KIM AN,"Xã Kim An , Huyện Thanh Oai"
+THCS HỒNG DƯƠNG,"Xã Hồng Dương , Huyện Thanh Oai"
+THCS ĐỖ ĐỘNG,"Xã Đỗ Động , Huyện Thanh Oai"
+THCS DÂN HOÀ,"Xã Dân Hoà , Huyện Thanh Oai"
+THCS CỰ KHÊ,"Xã Cự Khê , Huyện Thanh Oai"
+THCS CAO VIÊN,"Xã Cao Viên , Huyện Thanh Oai"
+THCS CAO DƯƠNG,"Xã Cao Dương , Huyện Thanh Oai"
+THCS BÌNH MINH,"Xã Bình Minh , Huyện Thanh Oai"
+THCS BÍCH HOÀ,"Xã Bích Hoà , Huyện Thanh Oai"
+THCS VĂN TỰ,Văn Tự – Thường Tín
+THCS VÂN TẢO,"Vân Tảo, Thường Tín"
+THCS VĂN PHÚ,Văn Phú – Thường Tín
+THCS VẠN ĐIỂM,Vạn Điểm – Thường Tín
+THCS VĂN BÌNH,Văn Bình – Thường Tín
+THCS TỰ NHIÊN,Tự Nhiên – Thường Tín
+THCS TÔ HIỆU,Tô Hiệu – Thường Tín
+THCS TIỀN PHONG – THƯỜNG TÍN,Tiền Phong – Thường Tín
+THCS THƯỜNG TÍN,Thị Trấn Thường Tín – Thường Tín
+THCS THƯ PHÚ,Thôn Thư Dương- Xã Thư Phú- Thường Tín
+THCS THỐNG NHẤT – THƯỜNG TÍN,Thống Nhất – Thường Tín
+THCS THỊ TRẤN – THƯỜNG TÍN,Thị Trấn Thường Tín – Thường Tín
+THCS THẮNG LỢI,Thắng Lợi – Thường Tín
+THCS TÂN MINH – THƯỜNG TÍN,Tân Minh – Thường Tín
+THCS QUẤT ĐỘNG,Quất Đông – Thường Tín
+THCS NINH SỞ,Ninh Sở – Thường Tín
+THCS NHỊ KHÊ,Nhị Khê – Thường Tín
+THCS NGUYỄN TRÃI – THƯỜNG TÍN,Nguyễn Trãi – Thường Tín
+THCS NGHIÊM XUYÊN,Nghiêm Xuyên – Thường Tín
+THCS MINH CƯỜNG,Minh Cường – Thường Tín
+THCS LIÊN PHƯƠNG,Liên Phương – Thường Tín
+THCS LÊ LỢI – THƯỜNG TÍN,Lê Lợi – Thường Tín
+THCS KHÁNH HÀ,Khánh Hà – Thường Tín
+THCS HỒNG VÂN,Hồng Vân – Thường Tín
+THCS HOÀ BÌNH,Hoà Bình – Thường Tín
+THCS HIỀN GIANG,Hiền Giang – Thường Tín
+THCS HÀ HỒI,Hà Hồi- Thường Tín
+THCS DUYÊN THÁI,Duyên Thái – Thường Tín
+THCS DŨNG TIẾN,Dũng Tiến – Thường Tín
+THCS CHƯƠNG DƯƠNG – THƯỜNG TÍN,Chương Dương – Thường Tín
+THCS VÂN TỪ,Vân Từ – Phú Xuyên
+THCS VĂN NHÂN,Văn Nhân – Phú Xuyên
+THCS VĂN HOÀNG,Văn Hoàng – Phú Xuyên
+THCS TT PHÚ XUYÊN,TT Phú Xuyên – Phú Xuyên
+THCS TT PHÚ MINH,TT Phú Minh – Phú Xuyên
+THCS TRI TRUNG,Tri Trung – Phú Xuyên
+THCS TRI THUỶ,Tri Thủy – Phú Xuyên
+THCS TRẦN PHÚ – PHÚ XUYÊN,TT Phú Xuyên – Phú Xuyên
+THCS THUỴ PHÚ,Thụy Phú – Phú Xuyên
+THCS TÂN DÂN – PHÚ XUYÊN,Tân Dân – Phú Xuyên
+THCS SƠN HÀ – PHÚ XUYÊN,Sơn Hà – Phú Xuyên
+THCS QUANG TRUNG – PHÚ XUYÊN,Quang Trung – Phú Xuyên
+THCS QUANG LÃNG,Quang Lãng – Phú Xuyên
+THCS PHƯỢNG DỰC,Phượng Dực – Phú Xuyên
+THCS PHÚC TIẾN,Phúc Tiến – Phú Xuyên
+THCS PHÚ YÊN,Phú Yên – Phú Xuyên
+THCS PHÚ TÚC,Phú Túc – Phú Xuyên
+THCS NAM TRIỀU,Nam Triều – Phú Xuyên
+THCS NAM PHONG,Nam Phong – Phú Xuyên
+THCS MINH TÂN,Minh Tân – Phú Xuyên
+THCS KHAI THÁI,Khai Thái – Phú Xuyên
+THCS HỒNG THÁI,Hồng Thái – Phú Xuyên
+THCS HỒNG MINH,Hồng Minh – Phú Xuyên
+THCS HOÀNG LONG,Hoàng Long – Phú Xuyên
+THCS ĐẠI XUYÊN,Đại Xuyên – Phú Xuyên
+THCS ĐẠI THẮNG,Đại Thắng – Phú Xuyên
+THCS CHUYÊN MỸ,Chuyên Mỹ – Phú Xuyên
+THCS CHÂU CAN,Châu Can – Phú Xuyên
+THCS BẠCH HẠ,Bạch Hạ – Phú Xuyên
+THCS VIÊN NỘI,Thôn Thượng- Viên Nội – Ứng Hòa
+THCS VIÊN AN,Viên Ngoại – Viên An – Ứng Hòa
+THCS VẠN THÁI,Nội Xá – Vạn Thái – Ứng Hòa
+THCS TRƯỜNG THỊNH,Trung Thịnh – Trường Thịnh -ứng Hòa
+THCS TRUNG TÚ,Dũng Cảm – Trung Tú – Ứng Hòa
+THCS TRẦM LỘNG,Trầm Lộng – Ứng Hòa
+THCS THỊ TRẤN – ỨNG HOÀ,Vân Đình – Thị Trấn Vân Đình – Ứng Hoà
+THCS TẢO DƯƠNG VĂN,Tảo Khê- Tảo Dương Văn-ứng Hòa
+THCS SƠN CÔNG,Nghi Lộc-sơn Công- Ứng Hòa
+THCS QUẢNG PHÚ CẦU,Quảng Nguyên – Quảng Phú Cầu – Ứng Hòa
+THCS PHƯƠNG TÚ,Dương Khê – Phương Tú – Ứng Hòa
+THCS PHÙ LƯU,Thôn Hạ – Phù Lưu – Ứng Hòa
+THCS NGUYỄN THƯỢNG HIỀN,Hoàng Xá -vân Đình – Ứng Hoà
+THCS MINH ĐỨC,Thôn Cầu – Minh Đức – Ứng Hòa
+THCS LƯU HOÀNG,Ngoại Hoàng – Lưu Hoàng – Ứng Hòa
+THCS LIÊN BẠT,Lưu Khê – Liên Bạt – Ứng Hoà
+THCS KIM ĐƯỜNG,Kim Bồng – Kim Đường – Ứng Hòa
+THCS HỒNG QUANG,Bài Lâm Thượng – Hồng Quang – Ứng Hòa
+THCS HOÀ XÁ,Xóm Trung – Hoà Xá
+THCS HOA SƠN,Miêng Thượng – Hoa Sơn – Ứng Hòa
+THCS HOÀ PHÚ,Đặng Giang – Hoà Phú – Ứng Hòa
+THCS HOÀ NAM,Đinh Xuyên – Hoà Nam- Ứng Hòa
+THCS HOÀ LÂM,Trạch Bái – Hoà Lâm – Ứng Hoà
+THCS ĐỒNG TIẾN,Thành Vật – Đồng Tiến – Ứng Hòa
+THCS ĐỒNG TÂN,Mỹ Cầu – Đồng Tân – Ứng Hòa
+THCS ĐÔNG LỖ,Viên Đình – Đông Lỗ
+THCS ĐỘI BÌNH,Triều Khê – Đội Bình – Ứng Hoà
+THCS ĐẠI HÙNG,Trung Thượng – Đại Hùng – Ứng Hoà
+THCS ĐẠI CƯỜNG,Kim Giang – Đại Cường -ứng Hòa
+THCS CAO THÀNH,Tử Dương – Cao Thành
